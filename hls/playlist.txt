@@ -1,10 +1,5 @@
-#EXTINF:-1 tvg-id="ts1066" tvg-name="Disney Channel HD*" tvg-language="Hindi" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/DISNHD_Thumbnail-v1/DISNHD_Thumbnail.png" group-title="Tataplay🎭Kids" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3KVAZoGNNp_XukewD6IpHvCA5G6JaI3FDOad35nhBgIpVIwJUzuJ0wEc", Disney Channel HD*
-#KODIPROP:inputstream.adaptive.manifest_type=m3u8
-#EXTHTTP:{"X-User-Agent": "OTT Navigator/1.7.0.2.4 (Linux;Android 13; en; 1xp60xz)"}
-https://joker-verse.vercel.app/starshare/itv/19741.m3u8?uid=5107494480&pass=b4f2b9d9|X-User-Agent=OTT Navigator/1.7.0.2.4 (Linux;Android 13; en; 1xp60xz)
+GET http://188.241.218.163/hlsr/ShJcU0BbQQNHXwZeAFVUDloBUwQCU1FVAQQAUgdXVgAAU1YLBQVTWlwbGBpEF0dcWF1vWQIXXlAIVVYGSUZGQVRCa1tXEVkbUAsEDAVTFxUbRFldAxdeUR1AEl4BRgkQAgQHCwQGUxtJG1FAQwZHV1hcb1QDQw0CVEBYWRAIXx4TX1ptV1YOWAtdFgIVUxcVG1lDQEQPChRdDk4VBw1HQFBEURAJEVALUQwWFBUAWkxXREJJRA9GNGJAThUAHEdXX0NdXV0RWRsICkEAFU8XUEpvQlUVQRYEUA8HRUdeEQITHBZfUks8WgpXWl1UF1xWV0MSCkQERk0TDw1ZDBBcQG5AXVYRCUEOXA4GGko=/SDWCbxAB7P/NktwzKKvbI/19741/c7a40885ea83d283d99851f2008fcec3/19741_199.ts HTTP/1.1
+Host: 188.241.218.163
+Connection: keep-alive
+Accept: */*
 
-
-#EXTINF:-1 tvg-name="Sky Sport Premier League*" tvg-language="english" tvg-logo="https://images.skyone.co.nz/contentful/dcojl03mw8gy/1E6YMflONVpZdhNXvc0LWo/68443f563a0c6a383edcc2518b1cbae9/Sky_Sport_Premier_League_Logo_Arrow_Box.png" group-title="SPORTS", Sky Sport Premier League*
-#KODIPROP:inputstream.adaptive.manifest_type=m3u8
-#EXTHTTP:{"user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36"}
-https://joker-verse.vercel.app/voco/live/251415.m3u8?uid=5107494480&pass=b4f2b9d9|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
