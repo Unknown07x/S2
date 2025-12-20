@@ -1,5 +1,4 @@
-GET http://188.241.218.163/hlsr/ShJcU0BbQQNHXwZeAFVUDloBUwQCU1FVAQQAUgdXVgAAU1YLBQVTWlwbGBpEF0dcWF1vWQIXXlAIVVYGSUZGQVRCa1tXEVkbUAsEDAVTFxUbRFldAxdeUR1AEl4BRgkQAgQHCwQGUxtJG1FAQwZHV1hcb1QDQw0CVEBYWRAIXx4TX1ptV1YOWAtdFgIVUxcVG1lDQEQPChRdDk4VBw1HQFBEURAJEVALUQwWFBUAWkxXREJJRA9GNGJAThUAHEdXX0NdXV0RWRsICkEAFU8XUEpvQlUVQRYEUA8HRUdeEQITHBZfUks8WgpXWl1UF1xWV0MSCkQERk0TDw1ZDBBcQG5AXVYRCUEOXA4GGko=/SDWCbxAB7P/NktwzKKvbI/19741/c7a40885ea83d283d99851f2008fcec3/19741_199.ts HTTP/1.1
-Host: 188.241.218.163
-Connection: keep-alive
-Accept: */*
-
+#EXTINF:-1 tvg-id="471" tvg-name="Sony SAB HD" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_SAB_HD.png" group-title="JioTV📺Entertainment" group-logo="https://play-lh.googleusercontent.com/jzbM6msuulcguWO8yfhZb9I0gGXF3gecHY0fULSQkuTDa6PP-b727XZydKgKhKLSPf57=s96-rw" catchup="vod" catchup-days="8" catchup-source="https://jiotv.joker-verse.workers.dev/catchup/index.mpd?id=471&uid=8004188626&pass=61498d15&begin={utc}&end={utcend}", Sony SAB HD
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey.joker-verse.workers.dev/license
+https://jiotv.joker-verse.workers.dev/live/index.mpd?id=471&uid=8004188626&pass=61498d15|User-Agent="plaYtv/7.1.5 (Linux;Android 12) ExoPlayerLib/2.11.7"&Origin="https://www.jiotv.com"&Referer="https://www.jiotv.com/"&X-User-Agent="TiviMate/5.1.6 (Android 15)"
