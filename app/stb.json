@@ -1,0 +1,1362 @@
+[
+    {
+        "id": "LIVETV_LIVETVCHANNEL_ZEE_TV_HD",
+        "tittle": "Zee TV HD",
+        "genre": "Entertainment",
+        "img": "https://oriby-streaming-proxy.sultanarabi161.workers.dev/https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_TV_HD/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png",
+        "traceId": "735398",
+        "language": "hi"
+    },
+    {
+        "id": "LIVETV_LIVETVCHANNEL_ZEE_CINEMA_HD",
+        "tittle": "Zee Cinema HD",
+        "genre": "Movies",
+        "img": "https://oriby-streaming-proxy.sultanarabi161.workers.dev/https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_CINEMA_HD/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png",
+        "traceId": "735399",
+        "language": "hi"
+    },
+    {
+        "id": "LIVETV_LIVETVCHANNEL_ACTION_CINEMA",
+        "tittle": "Action Cinema",
+        "genre": "Movies",
+        "img": "https://oriby-streaming-proxy.sultanarabi161.workers.dev/https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ACTION_CINEMA/images/LANDSCAPE_169_HD/image.png",
+        "traceId": "735400",
+        "language": "hi"
+    },
+    {
+        "id": "LIVETV_LIVETVCHANNEL_ZEE_CLASSIC",
+        "tittle": "Zee Classic",
+        "genre": "Movies",
+        "img": "https://oriby-streaming-proxy.sultanarabi161.workers.dev/https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_CLASSIC/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png",
+        "traceId": "735401",
+        "language": "hi"
+    },
+    {
+        "id": "LIVETV_LIVETVCHANNEL_ZING",
+        "tittle": "Zing",
+        "genre": "Music",
+        "img": "https://oriby-streaming-proxy.sultanarabi161.workers.dev/https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZING/images/LANDSCAPE_169_HD/image.png",
+        "traceId": "737321",
+        "language": "hi"
+    },
+    {
+        "id": "LIVETV_LIVETVCHANNEL_STAR_UTSAV_MOVIES",
+        "tittle": "STAR UTSAV MOVIES",
+        "genre": "Movies",
+        "img": "https://oriby-streaming-proxy.sultanarabi161.workers.dev/https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_UTSAV_MOVIES/images/LANDSCAPE_169_HD/image.png",
+        "traceId": "737322",
+        "language": "hi"
+    },
+    {
+        "id": "LIVETV_LIVETVCHANNEL_STAR_BHARAT_HD",
+        "tittle": "Star Bharat HD",
+        "genre": "Entertainment",
+        "img": "https://oriby-streaming-proxy.sultanarabi161.workers.dev/https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_BHARAT_HD/images/LANDSCAPE_169_HD/image.png",
+        "traceId": "943734",
+        "language": "hi"
+    },
+    {
+        "id": "LIVETV_LIVETVCHANNEL_STAR_GOLD_HD",
+        "tittle": "Star Gold HD",
+        "genre": "Movies",
+        "img": "https://oriby-streaming-proxy.sultanarabi161.workers.dev/https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_GOLD_HD/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png",
+        "traceId": "737323",
+        "language": "hi"
+    },
+    {
+        "id": "LIVETV_LIVETVCHANNEL_STAR_GOLD_2_HD",
+        "tittle": "Star Gold 2 HD",
+        "genre": "Movies",
+        "img": "https://oriby-streaming-proxy.sultanarabi161.workers.dev/https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_GOLD_2_HD/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png",
+        "traceId": "372926",
+        "language": "hi"
+    },
+    {
+        "id": "LIVETV_LIVETVCHANNEL_STAR_GOLD_SELECT_HD",
+        "tittle": "Star Gold Select HD",
+        "genre": "Movies",
+        "img": "https://oriby-streaming-proxy.sultanarabi161.workers.dev/https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_GOLD_SELECT_HD/images/LANDSCAPE_169_HD/image.png",
+        "traceId": "737325",
+        "language": "hi"
+    },
+    {
+        "id": "LIVETV_LIVETVCHANNEL_STAR_PLUS_HD",
+        "tittle": "Star Plus HD",
+        "genre": "Entertainment",
+        "img": "https://oriby-streaming-proxy.sultanarabi161.workers.dev/https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_PLUS_HD/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png",
+        "traceId": "671571",
+        "language": "hi"
+    },
+    {
+        "id": "LIVETV_LIVETVCHANNEL_STAR_PLUS_HD",
+        "tittle": "Star Plus HD",
+        "genre": "Entertainment",
+        "img": "https://oriby-streaming-proxy.sultanarabi161.workers.dev/https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_PLUS_HD/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png",
+        "traceId": "943925",
+        "language": "hi"
+    },
+    {
+        "id": "LIVETV_LIVETVCHANNEL_SET_HD",
+        "tittle": "SET HD",
+        "genre": "Entertainment",
+        "img": "https://oriby-streaming-proxy.sultanarabi161.workers.dev/https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SET_HD/images/LANDSCAPE_169_HD/image.png",
+        "traceId": "943926",
+        "language": "hi"
+    },
+    {
+        "id": "LIVETV_LIVETVCHANNEL_SONY_MAX_HD",
+        "tittle": "Sony MAX HD",
+        "genre": "Movies",
+        "img": "https://oriby-streaming-proxy.sultanarabi161.workers.dev/https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_MAX_HD/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png",
+        "traceId": "373074",
+        "language": "hi"
+    },
+    {
+        "id": "LIVETV_LIVETVCHANNEL_SONY_PIX_HD",
+        "tittle": "Sony Pix HD",
+        "genre": "Movies",
+        "img": "https://oriby-streaming-proxy.sultanarabi161.workers.dev/https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_PIX_HD/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png",
+        "traceId": "943971",
+        "language": "en,hi,te,ta"
+    },
+    {
+        "id": "LIVETV_LIVETVCHANNEL_SONY_BBC_EARTH_HD",
+        "tittle": "Sony BBC earth HD",
+        "genre": "Infotainment",
+        "img": "https://oriby-streaming-proxy.sultanarabi161.workers.dev/https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_BBC_EARTH_HD/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png",
+        "traceId": "373071",
+        "language": "en,hi,ta,te"
+    },
+    {
+        "id": "LIVETV_LIVETVCHANNEL_SONY_SAB_HD",
+        "tittle": "Sony SAB HD",
+        "genre": "Entertainment",
+        "img": "https://oriby-streaming-proxy.sultanarabi161.workers.dev/https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SAB_HD/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png",
+        "traceId": "944604",
+        "language": "hi"
+    },
+    {
+        "id": "LIVETV_LIVETVCHANNEL_SONY_WAH",
+        "tittle": "Sony Wah",
+        "genre": "Movies",
+        "img": "https://oriby-streaming-proxy.sultanarabi161.workers.dev/https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_WAH/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png",
+        "traceId": "944607",
+        "language": "hi"
+    },
+    {
+        "id": "LIVETV_LIVETVCHANNEL_SONY_PAL",
+        "tittle": "Sony Pal",
+        "genre": "Entertainment",
+        "img": "https://oriby-streaming-proxy.sultanarabi161.workers.dev/https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_PAL/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png",
+        "traceId": "373069",
+        "language": "hi"
+    },
+    {
+        "id": "LIVETV_LIVETVCHANNEL_SONY_YAY",
+        "tittle": "Sony Yay",
+        "genre": "Kids",
+        "img": "https://oriby-streaming-proxy.sultanarabi161.workers.dev/https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_YAY/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png",
+        "traceId": "373067",
+        "language": "hi,ta,te,bn,mr,ml,all,kn"
+    },
+    {
+        "id": "7",
+        "tittle": "B4U Movies",
+        "genre": "Movies",
+        "img": "https://oriby-streaming-proxy.sultanarabi161.workers.dev/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-16-j5f9ui8g-v1/imageContent-16-j5f9ui8g-m1.jpg",
+        "traceId": "944610",
+        "language": "Hindi"
+    },
+    {
+        "id": "LIVETV_LIVETVCHANNEL_COLORS_HD",
+        "tittle": "Colors HD",
+        "genre": "Entertainment",
+        "img": "https://oriby-streaming-proxy.sultanarabi161.workers.dev/https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_HD/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png",
+        "traceId": "944612",
+        "language": "hi"
+    },
+    {
+        "id": "LIVETV_LIVETVCHANNEL_COLORS_CINEPLEX_HD",
+        "tittle": "Colors Cineplex HD",
+        "genre": "Movies",
+        "img": "https://oriby-streaming-proxy.sultanarabi161.workers.dev/https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_CINEPLEX_HD/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png",
+        "traceId": "944627",
+        "language": "hi"
+    },
+    {
+        "id": "40",
+        "tittle": "&tv HD",
+        "genre": "Entertainment",
+        "img": "https://oriby-streaming-proxy.sultanarabi161.workers.dev/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-115-j5fl6g6w-v1/imageContent-115-j5fl6g6w-m1.jpg",
+        "traceId": "944622",
+        "language": "Hindi"
+    },
+    {
+        "id": "LIVETV_LIVETVCHANNEL_BIG_MAGIC",
+        "tittle": "Big Magic",
+        "genre": "Entertainment",
+        "img": "https://oriby-streaming-proxy.sultanarabi161.workers.dev/https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_BIG_MAGIC/images/LANDSCAPE_169_HD/image.png",
+        "traceId": "944626",
+        "language": "hi"
+    },
+    {
+        "id": "LIVETV_LIVETVCHANNEL_DISCOVERY_HD_WORLD",
+        "tittle": "Discovery HD World",
+        "genre": "Infotainment",
+        "img": "https://oriby-streaming-proxy.sultanarabi161.workers.dev/https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DISCOVERY_HD_WORLD/images/LANDSCAPE_169_HD/image.png",
+        "traceId": "373036",
+        "language": "en,hi,ta,te,ml,kn,bn"
+    },
+    {
+        "id": "LIVETV_LIVETVCHANNEL_EPIC",
+        "tittle": "Epic",
+        "genre": "Entertainment",
+        "img": "https://oriby-streaming-proxy.sultanarabi161.workers.dev/https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_EPIC/images/LANDSCAPE_169_HD/image.png",
+        "traceId": "373033",
+        "language": "hi"
+    },
+    {
+        "id": "LIVETV_LIVETVCHANNEL_HISTORY_TV18_HD",
+        "tittle": "History TV18 HD",
+        "genre": "Infotainment",
+        "img": "https://oriby-streaming-proxy.sultanarabi161.workers.dev/https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_HISTORY_TV18_HD/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png",
+        "traceId": "373031",
+        "language": "en,hi,ta,te"
+    },
+    {
+        "id": "LIVETV_LIVETVCHANNEL_AIRTEL_MINIPLEX",
+        "tittle": "Airtel Miniplex",
+        "genre": "Airtel Special",
+        "img": "https://oriby-streaming-proxy.sultanarabi161.workers.dev/https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_AIRTEL_MINIPLEX/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png",
+        "traceId": "373023",
+        "language": "hi"
+    },
+    {
+        "id": "LIVETV_LIVETVCHANNEL_NAT_GEO_WILD_HD",
+        "tittle": "Nat Geo Wild HD",
+        "genre": "Infotainment",
+        "img": "https://oriby-streaming-proxy.sultanarabi161.workers.dev/https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NAT_GEO_WILD_HD/images/LANDSCAPE_169_HD/image.png",
+        "traceId": "373018",
+        "language": "en,hi,ta,te"
+    },
+    {
+        "id": "605",
+        "tittle": "National Geographic HD",
+        "genre": "Knowledge",
+        "img": "https://oriby-streaming-proxy.sultanarabi161.workers.dev/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12232-j9qoqbdc-v1/imageContent-12232-j9qoqbdc-m1.jpg",
+        "traceId": "373017",
+        "language": "English,Telugu,Bengali,Hindi,Tamil"
+    },
+    {
+        "id": "LIVETV_LIVETVCHANNEL_JALSHA_MOVIES",
+        "tittle": "Jalsha Movies",
+        "genre": "Regional",
+        "img": "https://oriby-streaming-proxy.sultanarabi161.workers.dev/https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_JALSHA_MOVIES/images/LANDSCAPE_169_HD/image.png",
+        "traceId": "373008",
+        "language": "bn"
+    },
+    {
+        "id": "486",
+        "tittle": "Tata Play Bollywood Premiere",
+        "genre": "Movies",
+        "img": "https://oriby-streaming-proxy.sultanarabi161.workers.dev/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-43897-jyofyk1s-v4/imageContent-43897-jyofyk1s-m4.png",
+        "traceId": "373006",
+        "language": "Hindi"
+    },
+    {
+        "id": "LIVETV_LIVETVCHANNEL_STAR_GOLD_THRILLS",
+        "tittle": "Star Gold Thrills",
+        "genre": "Movies",
+        "img": "https://oriby-streaming-proxy.sultanarabi161.workers.dev/https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_GOLD_THRILLS/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png",
+        "traceId": "373005",
+        "language": "hi"
+    },
+    {
+        "id": "LIVETV_LIVETVCHANNEL_WOW_CINEMA_ONE",
+        "tittle": "WOW Cinema One",
+        "genre": "Movies",
+        "img": "https://oriby-streaming-proxy.sultanarabi161.workers.dev/https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_WOW_CINEMA_ONE/images/LANDSCAPE_169_HD/image.png",
+        "traceId": "373002",
+        "language": "hi"
+    },
+    {
+        "id": "523",
+        "tittle": "Zee Anmol",
+        "genre": "Entertainment",
+        "img": "https://oriby-streaming-proxy.sultanarabi161.workers.dev/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11967-j9luigc0-v2/imageContent-11967-j9luigc0-m2.jpg",
+        "traceId": "373001",
+        "language": "Hindi"
+    },
+    {
+        "id": "64",
+        "tittle": "Zee Anmol Cinema",
+        "genre": "Movies",
+        "img": "https://oriby-streaming-proxy.sultanarabi161.workers.dev/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11091-j95hdiq8-v1/imageContent-11091-j95hdiq8-m1.jpg",
+        "traceId": "373000",
+        "language": "Hindi"
+    },
+    {
+        "id": "LIVETV_LIVETVCHANNEL_ZEE_BHARAT",
+        "tittle": "Zee Bharat",
+        "genre": "News",
+        "img": "https://oriby-streaming-proxy.sultanarabi161.workers.dev/https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_BHARAT/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png",
+        "traceId": "372999",
+        "language": "hi"
+    },
+    {
+        "id": "LIVETV_LIVETVCHANNEL_ZEE_NEWS",
+        "tittle": "Zee News",
+        "genre": "News",
+        "img": "https://oriby-streaming-proxy.sultanarabi161.workers.dev/https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_NEWS/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png",
+        "traceId": "372998",
+        "language": "hi"
+    },
+    {
+        "id": "LIVETV_LIVETVCHANNEL_ZEE_NEWS",
+        "tittle": "Zee News",
+        "genre": "News",
+        "img": "https://oriby-streaming-proxy.sultanarabi161.workers.dev/https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_NEWS/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png",
+        "traceId": "372995",
+        "language": "hi"
+    },
+    {
+        "id": "LIVETV_LIVETVCHANNEL_ZEE_RAJASTHAN_NEWS",
+        "tittle": "Zee Rajasthan News",
+        "genre": "News",
+        "img": "https://oriby-streaming-proxy.sultanarabi161.workers.dev/https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_RAJASTHAN_NEWS/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png",
+        "traceId": "372994",
+        "language": "hi"
+    },
+    {
+        "id": "LIVETV_LIVETVCHANNEL_POGO",
+        "tittle": "Pogo",
+        "genre": "Kids",
+        "img": "https://oriby-streaming-proxy.sultanarabi161.workers.dev/https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_POGO/images/LANDSCAPE_169_HD/image.png",
+        "traceId": "372993",
+        "language": "hi,ta,te,kn,ml,mr"
+    },
+    {
+        "id": "LIVETV_LIVETVCHANNEL_DISNEY_CHANNEL",
+        "tittle": "Disney Channel",
+        "genre": "Kids",
+        "img": "https://oriby-streaming-proxy.sultanarabi161.workers.dev/https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DISNEY_CHANNEL/images/LANDSCAPE_169_HD/image.png",
+        "traceId": "372986",
+        "language": "en,hi,ta,te"
+    },
+    {
+        "id": "LIVETV_LIVETVCHANNEL_NICK_HDSYMPLUS",
+        "tittle": "NICK HD+",
+        "genre": "Kids",
+        "img": "https://oriby-streaming-proxy.sultanarabi161.workers.dev/https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NICK_HDSYMPLUS/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png",
+        "traceId": "372983",
+        "language": "en,hi"
+    },
+    {
+        "id": "LIVETV_LIVETVCHANNEL_MNX_HD",
+        "tittle": "MNX HD",
+        "genre": "Movies",
+        "img": "https://oriby-streaming-proxy.sultanarabi161.workers.dev/https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_MNX_HD/images/LANDSCAPE_169_HD/image.png",
+        "traceId": "372982",
+        "language": "en"
+    },
+    {
+        "id": "562",
+        "tittle": "Movies Now HD",
+        "genre": "English Movies",
+        "img": "https://oriby-streaming-proxy.sultanarabi161.workers.dev/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12093-j9ooixfs-v1/imageContent-12093-j9ooixfs-m1.jpg",
+        "traceId": "372981",
+        "language": "English"
+    },
+    {
+        "id": "LIVETV_LIVETVCHANNEL_DISNEY_INTERNATIONAL_HD",
+        "tittle": "Disney International HD",
+        "genre": "Entertainment",
+        "img": "https://oriby-streaming-proxy.sultanarabi161.workers.dev/https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DISNEY_INTERNATIONAL_HD/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png",
+        "traceId": "372979",
+        "language": "en"
+    },
+    {
+        "id": "7",
+        "tittle": "B4U Movies",
+        "genre": "Movies",
+        "img": "https://oriby-streaming-proxy.sultanarabi161.workers.dev/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-16-j5f9ui8g-v1/imageContent-16-j5f9ui8g-m1.jpg",
+        "traceId": "372975",
+        "language": "Hindi"
+    },
+    {
+        "id": "114",
+        "tittle": "Disney",
+        "genre": "Kids",
+        "img": "https://oriby-streaming-proxy.sultanarabi161.workers.dev/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-1357-j5tdnxeo-v1/imageContent-1357-j5tdnxeo-m1.jpg",
+        "traceId": "372974",
+        "language": "Hindi"
+    },
+    {
+        "id": "LIVETV_LIVETVCHANNEL_CARTOON_NETWORK",
+        "tittle": "Cartoon Network",
+        "genre": "Kids",
+        "img": "https://oriby-streaming-proxy.sultanarabi161.workers.dev/https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_CARTOON_NETWORK/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png",
+        "traceId": "372972",
+        "language": "hi,ta,te,kn,ml"
+    },
+    {
+        "id": "LIVETV_LIVETVCHANNEL_DANGAL",
+        "tittle": "Dangal",
+        "genre": "Entertainment",
+        "img": "https://oriby-streaming-proxy.sultanarabi161.workers.dev/https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DANGAL/images/LANDSCAPE_169_HD/image.png",
+        "traceId": "372967",
+        "language": ""
+    },
+    {
+        "id": "LIVETV_LIVETVCHANNEL_DISCOVERY_KIDS",
+        "tittle": "Discovery Kids",
+        "genre": "Kids",
+        "img": "https://oriby-streaming-proxy.sultanarabi161.workers.dev/https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DISCOVERY_KIDS/images/LANDSCAPE_169_HD/image.png",
+        "traceId": "372928",
+        "language": "hi,ta,te,ml,kn"
+    },
+    {
+        "id": "LIVETV_LIVETVCHANNEL_ZEE_BOLLYWOOD",
+        "tittle": "Zee Bollywood",
+        "genre": "Movies",
+        "img": "https://oriby-streaming-proxy.sultanarabi161.workers.dev/https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_BOLLYWOOD/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png",
+        "traceId": "372924",
+        "language": "hi"
+    },
+    {
+        "id": "LIVETV_LIVETVCHANNEL_ALANKAR",
+        "tittle": "Alankar",
+        "genre": "Regional",
+        "img": "https://oriby-streaming-proxy.sultanarabi161.workers.dev/https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ALANKAR/images/LANDSCAPE_169_HD/image.png",
+        "traceId": "372912",
+        "language": "or"
+    },
+    {
+        "id": "LIVETV_LIVETVCHANNEL_AIRTEL_COMEDY_MASALA",
+        "tittle": "Airtel Comedy Masala",
+        "genre": "Airtel Special",
+        "img": "https://oriby-streaming-proxy.sultanarabi161.workers.dev/https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_AIRTEL_COMEDY_MASALA/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png",
+        "traceId": "1433174",
+        "language": "hi"
+    },
+    {
+        "id": "LIVETV_LIVETVCHANNEL_AIRTEL_HOLLYWOOD_MASALA",
+        "tittle": "Airtel Hollywood Masala",
+        "genre": "Airtel Special",
+        "img": "https://oriby-streaming-proxy.sultanarabi161.workers.dev/https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_AIRTEL_HOLLYWOOD_MASALA/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png",
+        "traceId": "1433173",
+        "language": "hi"
+    },
+    {
+        "id": "730",
+        "tittle": "B4U Kadak",
+        "genre": "Movies",
+        "img": "https://oriby-streaming-proxy.sultanarabi161.workers.dev/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/B4UKad_BoxCover-v9/B4UKad_BoxCover.jpg",
+        "traceId": "1433208",
+        "language": "Hindi"
+    },
+    {
+        "id": "LIVETV_LIVETVCHANNEL_SYMANDFLIX_HD",
+        "tittle": "&flix HD",
+        "genre": "Movies",
+        "img": "https://oriby-streaming-proxy.sultanarabi161.workers.dev/https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SYMANDFLIX_HD/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png",
+        "traceId": "1433210",
+        "language": "en,hi,ta,te"
+    },
+    {
+        "id": "LIVETV_LIVETVCHANNEL_DANGAL_2",
+        "tittle": "Dangal 2",
+        "genre": "Entertainment",
+        "img": "https://oriby-streaming-proxy.sultanarabi161.workers.dev/https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DANGAL_2/images/LANDSCAPE_169_HD/image.png",
+        "traceId": "1433166",
+        "language": ""
+    },
+    {
+        "id": "LIVETV_LIVETVCHANNEL_DISCOVERY_KIDS",
+        "tittle": "Discovery Kids",
+        "genre": "Kids",
+        "img": "https://oriby-streaming-proxy.sultanarabi161.workers.dev/https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DISCOVERY_KIDS/images/LANDSCAPE_169_HD/image.png",
+        "traceId": "1433213",
+        "language": "hi,ta,te,ml,kn"
+    },
+    {
+        "id": "LIVETV_LIVETVCHANNEL_DISNEY_JUNIOR",
+        "tittle": "Disney Junior",
+        "genre": "Kids",
+        "img": "https://oriby-streaming-proxy.sultanarabi161.workers.dev/https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DISNEY_JUNIOR/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png",
+        "traceId": "1433165",
+        "language": "en,hi,ta,te"
+    },
+    {
+        "id": "1499",
+        "tittle": "Goldmines Movies",
+        "genre": "Movies",
+        "img": "https://oriby-streaming-proxy.sultanarabi161.workers.dev/https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/GoldminesMovies_BoxCover_8b2f4929-47ca-44a6-a491-9ecc80b73fb0.png",
+        "traceId": "1433194",
+        "language": "Hindi"
+    },
+    {
+        "id": "LIVETV_LIVETVCHANNEL_HUNGAMA",
+        "tittle": "HUNGAMA",
+        "genre": "Kids",
+        "img": "https://oriby-streaming-proxy.sultanarabi161.workers.dev/https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_HUNGAMA/images/LANDSCAPE_169_HD/image.png",
+        "traceId": "1433211",
+        "language": "ta,hi,te"
+    },
+    {
+        "id": "LIVETV_LIVETVCHANNEL_ISHARA_TV",
+        "tittle": "Ishara TV",
+        "genre": "Entertainment",
+        "img": "https://oriby-streaming-proxy.sultanarabi161.workers.dev/https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ISHARA_TV/images/LANDSCAPE_169_HD/image.png",
+        "traceId": "1433191",
+        "language": "hi"
+    },
+    {
+        "id": "LIVETV_LIVETVCHANNEL_STAR_GOLD_ROMANCE",
+        "tittle": "Star Gold Romance",
+        "genre": "Movies",
+        "img": "https://oriby-streaming-proxy.sultanarabi161.workers.dev/https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_GOLD_ROMANCE/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png",
+        "traceId": "1433164",
+        "language": "hi"
+    },
+    {
+        "id": "741",
+        "tittle": "Tata Play Classic Cinema",
+        "genre": "Hindi",
+        "img": "https://oriby-streaming-proxy.sultanarabi161.workers.dev/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-44332-jz3hpk2o-v3/imageContent-44332-jz3hpk2o-m3.jpg",
+        "traceId": "1433240",
+        "language": "Hindi"
+    },
+    {
+        "id": "964",
+        "tittle": "Tata Play Classic TV",
+        "genre": "Entertainment",
+        "img": "https://oriby-streaming-proxy.sultanarabi161.workers.dev/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/TPCTV_BoxCover-v4/TPCTV_BoxCover.png",
+        "traceId": "1433171",
+        "language": "Hindi"
+    },
+    {
+        "id": "1003",
+        "tittle": "Tata Play South Talkies",
+        "genre": "Movies",
+        "img": "https://oriby-streaming-proxy.sultanarabi161.workers.dev/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-72252-l6dn8nco-v3/imageContent-72252-l6dn8nco-m2.jpg",
+        "traceId": "1433172",
+        "language": "Hindi"
+    },
+    {
+        "id": "666",
+        "tittle": "Tata Play Theatre HD",
+        "genre": "Hindi",
+        "img": "https://oriby-streaming-proxy.sultanarabi161.workers.dev/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-31417-jmb48u74-v3/imageContent-31417-jmb48u74-m4.jpg",
+        "traceId": "1433241",
+        "language": "Hindi"
+    },
+    {
+        "id": "54",
+        "tittle": "The Q",
+        "genre": "Entertainment",
+        "img": "https://oriby-streaming-proxy.sultanarabi161.workers.dev/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-58022-khxpmalc-v1/imageContent-58022-khxpmalc-m4.png",
+        "traceId": "1433243",
+        "language": "Hindi"
+    },
+    {
+        "id": "LIVETV_LIVETVCHANNEL_ZEE_ZEST_HD",
+        "tittle": "ZEE ZEST HD",
+        "genre": "Infotainment",
+        "img": "https://oriby-streaming-proxy.sultanarabi161.workers.dev/https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_ZEST_HD/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png",
+        "traceId": "1433161",
+        "language": "hi"
+    },
+    {
+        "id": "LIVETV_LIVETVCHANNEL_STAR_SPORTS_1_HD",
+        "tittle": "Star Sports 1 HD",
+        "genre": "Sports",
+        "img": "https://oriby-streaming-proxy.sultanarabi161.workers.dev/https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_SPORTS_1_HD/images/LANDSCAPE_169_HD/image.png",
+        "traceId": "373206",
+        "language": "en,ml"
+    },
+    {
+        "id": "LIVETV_LIVETVCHANNEL_STAR_SPORTS_1_HD_HINDI",
+        "tittle": "Star Sports 1 HD Hindi",
+        "genre": "Sports",
+        "img": "https://oriby-streaming-proxy.sultanarabi161.workers.dev/https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_SPORTS_1_HD_HINDI/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png",
+        "traceId": "373205",
+        "language": "hi,bh,mr"
+    },
+    {
+        "id": "LIVETV_LIVETVCHANNEL_STAR_SPORTS_2_HD",
+        "tittle": "Star Sports 2 HD",
+        "genre": "Sports",
+        "img": "https://oriby-streaming-proxy.sultanarabi161.workers.dev/https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_SPORTS_2_HD/images/LANDSCAPE_169_HD/image.png",
+        "traceId": "373204",
+        "language": "en,mr,ta"
+    },
+    {
+        "id": "LIVETV_LIVETVCHANNEL_STAR_SPORTS_3",
+        "tittle": "Star Sports 3",
+        "genre": "Sports",
+        "img": "https://oriby-streaming-proxy.sultanarabi161.workers.dev/https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_SPORTS_3/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png",
+        "traceId": "373203",
+        "language": "en,bn,ml,hi"
+    },
+    {
+        "id": "LIVETV_LIVETVCHANNEL_STAR_SPORTS_SELECT_1_HD",
+        "tittle": "Star Sports Select 1 HD",
+        "genre": "Sports",
+        "img": "https://oriby-streaming-proxy.sultanarabi161.workers.dev/https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_SPORTS_SELECT_1_HD/images/LANDSCAPE_169_HD/image.png",
+        "traceId": "373202",
+        "language": "en"
+    },
+    {
+        "id": "LIVETV_LIVETVCHANNEL_STAR_SPORTS_SELECT_2_HD",
+        "tittle": "Star Sports Select 2 HD",
+        "genre": "Sports",
+        "img": "https://oriby-streaming-proxy.sultanarabi161.workers.dev/https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_SPORTS_SELECT_2_HD/images/LANDSCAPE_169_HD/image.png",
+        "traceId": "373201",
+        "language": "en"
+    },
+    {
+        "id": "LIVETV_LIVETVCHANNEL_SONY_SPORTS_TEN_1_HD",
+        "tittle": "SONY SPORTS TEN 1 HD",
+        "genre": "Sports",
+        "img": "https://oriby-streaming-proxy.sultanarabi161.workers.dev/https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SPORTS_TEN_1_HD/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png",
+        "traceId": "373200",
+        "language": "en,ml"
+    },
+    {
+        "id": "LIVETV_LIVETVCHANNEL_SONY_SPORTS_TEN_2_HD",
+        "tittle": "SONY SPORTS TEN 2 HD",
+        "genre": "Sports",
+        "img": "https://oriby-streaming-proxy.sultanarabi161.workers.dev/https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SPORTS_TEN_2_HD/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png",
+        "traceId": "373199",
+        "language": "en"
+    },
+    {
+        "id": "464",
+        "tittle": "SONY SPORTS TEN 3 HD",
+        "genre": "Sports",
+        "img": "https://oriby-streaming-proxy.sultanarabi161.workers.dev/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11785-j9kynnm0-v3/imageContent-11785-j9kynnm0-m3.jpg",
+        "traceId": "373198",
+        "language": "Hindi"
+    },
+    {
+        "id": "LIVETV_LIVETVCHANNEL_SONY_SPORTS_TEN_5_HD",
+        "tittle": "SONY SPORTS TEN 5 HD",
+        "genre": "Sports",
+        "img": "https://oriby-streaming-proxy.sultanarabi161.workers.dev/https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SPORTS_TEN_5_HD/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png",
+        "traceId": "373196",
+        "language": "en,ml,bn"
+    },
+    {
+        "id": "LIVETV_LIVETVCHANNEL_SPORTS18SYMHYP3",
+        "tittle": "Star Sports 2 Tamil",
+        "genre": "Sports",
+        "img": "https://oriby-streaming-proxy.sultanarabi161.workers.dev/https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SPORTS18SYMHYP3/images/LANDSCAPE_169_HD/image.png",
+        "traceId": "373195",
+        "language": "ta"
+    },
+    {
+        "id": "LIVETV_LIVETVCHANNEL_COLORS_KANNADA_HD",
+        "tittle": "Colors Kannada HD",
+        "genre": "Regional",
+        "img": "https://oriby-streaming-proxy.sultanarabi161.workers.dev/https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_KANNADA_HD/images/LANDSCAPE_169_HD/image.png",
+        "traceId": "373426",
+        "language": "kn"
+    },
+    {
+        "id": "LIVETV_LIVETVCHANNEL_COLORS_KANNADA_CINEMA",
+        "tittle": "Colors Kannada Cinema",
+        "genre": "Regional",
+        "img": "https://oriby-streaming-proxy.sultanarabi161.workers.dev/https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_KANNADA_CINEMA/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png",
+        "traceId": "373425",
+        "language": "kn"
+    },
+    {
+        "id": "LIVETV_LIVETVCHANNEL_COLORS_SUPER",
+        "tittle": "Colors Super",
+        "genre": "Regional",
+        "img": "https://oriby-streaming-proxy.sultanarabi161.workers.dev/https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_SUPER/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png",
+        "traceId": "373424",
+        "language": "kn"
+    },
+    {
+        "id": "1380",
+        "tittle": "News 21",
+        "genre": "News",
+        "img": "https://oriby-streaming-proxy.sultanarabi161.workers.dev/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/News21_BoxCover-v1/News21_BoxCover.png",
+        "traceId": "373421",
+        "language": "H,i,n,d,i"
+    },
+    {
+        "id": "425",
+        "tittle": "Raj Musix",
+        "genre": "Tamil",
+        "img": "https://oriby-streaming-proxy.sultanarabi161.workers.dev/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11680-j9khxjoo-v1/imageContent-11680-j9khxjoo-m1.jpg",
+        "traceId": "373420",
+        "language": "Tamil"
+    },
+    {
+        "id": "LIVETV_LIVETVCHANNEL_RAJ_NEWS_KANNADA",
+        "tittle": "Raj News Kannada",
+        "genre": "News",
+        "img": "https://oriby-streaming-proxy.sultanarabi161.workers.dev/https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_RAJ_NEWS_KANNADA/images/LANDSCAPE_169_HD/image.png",
+        "traceId": "373419",
+        "language": "kn"
+    },
+    {
+        "id": "LIVETV_LIVETVCHANNEL_STAR_SUVARNA_HD",
+        "tittle": "Star Suvarna HD",
+        "genre": "Regional",
+        "img": "https://oriby-streaming-proxy.sultanarabi161.workers.dev/https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_SUVARNA_HD/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png",
+        "traceId": "373418",
+        "language": "kn"
+    },
+    {
+        "id": "LIVETV_LIVETVCHANNEL_STAR_SUVARNA",
+        "tittle": "STAR SUVARNA",
+        "genre": "Regional",
+        "img": "https://oriby-streaming-proxy.sultanarabi161.workers.dev/https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_SUVARNA/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png",
+        "traceId": "373417",
+        "language": "kn"
+    },
+    {
+        "id": "LIVETV_LIVETVCHANNEL_TV9_KANNADA",
+        "tittle": "TV9 Kannada",
+        "genre": "News",
+        "img": "https://oriby-streaming-proxy.sultanarabi161.workers.dev/https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_TV9_KANNADA/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png",
+        "traceId": "373416",
+        "language": "kn"
+    },
+    {
+        "id": "LIVETV_LIVETVCHANNEL_UDAYA_HD",
+        "tittle": "Udaya HD",
+        "genre": "Regional",
+        "img": "https://oriby-streaming-proxy.sultanarabi161.workers.dev/https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_UDAYA_HD/images/LANDSCAPE_169_HD/image.png",
+        "traceId": "373415",
+        "language": "kn"
+    },
+    {
+        "id": "LIVETV_LIVETVCHANNEL_UDAYA_COMEDY",
+        "tittle": "Udaya Comedy",
+        "genre": "Regional",
+        "img": "https://oriby-streaming-proxy.sultanarabi161.workers.dev/https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_UDAYA_COMEDY/images/LANDSCAPE_169_HD/image.png",
+        "traceId": "373414",
+        "language": "kn"
+    },
+    {
+        "id": "LIVETV_LIVETVCHANNEL_UDAYA_MOVIES",
+        "tittle": "UDAYA MOVIES",
+        "genre": "Regional",
+        "img": "https://oriby-streaming-proxy.sultanarabi161.workers.dev/https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_UDAYA_MOVIES/images/LANDSCAPE_169_HD/image.png",
+        "traceId": "373413",
+        "language": "kn"
+    },
+    {
+        "id": "LIVETV_LIVETVCHANNEL_SUN_NEWS",
+        "tittle": "Sun News",
+        "genre": "News",
+        "img": "https://oriby-streaming-proxy.sultanarabi161.workers.dev/https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SUN_NEWS/images/LANDSCAPE_169_HD/image.png",
+        "traceId": "373412",
+        "language": "ta"
+    },
+    {
+        "id": "LIVETV_LIVETVCHANNEL_ZEE_TV_HD",
+        "tittle": "Zee TV HD",
+        "genre": "Entertainment",
+        "img": "https://oriby-streaming-proxy.sultanarabi161.workers.dev/https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_TV_HD/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png",
+        "traceId": "373411",
+        "language": "hi"
+    },
+    {
+        "id": "LIVETV_LIVETVCHANNEL_DD_CHANDANA",
+        "tittle": "DD Chandana",
+        "genre": "Regional",
+        "img": "https://oriby-streaming-proxy.sultanarabi161.workers.dev/https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DD_CHANDANA/images/LANDSCAPE_169_HD/image.png",
+        "traceId": "373410",
+        "language": "kn"
+    },
+    {
+        "id": "LIVETV_LIVETVCHANNEL_UDAYA_MUSIC",
+        "tittle": "Udaya Music",
+        "genre": "Music",
+        "img": "https://oriby-streaming-proxy.sultanarabi161.workers.dev/https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_UDAYA_MUSIC/images/LANDSCAPE_169_HD/image.png",
+        "traceId": "373409",
+        "language": "kn"
+    },
+    {
+        "id": "342",
+        "tittle": "R Kannada",
+        "genre": "Kannada",
+        "img": "https://oriby-streaming-proxy.sultanarabi161.workers.dev/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/RKANN_BoxCover-v2/RKANN_BoxCover.png",
+        "traceId": "373408",
+        "language": "Kannada"
+    },
+    {
+        "id": "LIVETV_LIVETVCHANNEL_PUBLIC_TV",
+        "tittle": "Public TV",
+        "genre": "Regional",
+        "img": "https://oriby-streaming-proxy.sultanarabi161.workers.dev/https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_PUBLIC_TV/images/LANDSCAPE_169_HD/image.png",
+        "traceId": "373407",
+        "language": "kn"
+    },
+    {
+        "id": "LIVETV_LIVETVCHANNEL_ZEE_KANNADA_HD",
+        "tittle": "Zee Kannada HD",
+        "genre": "Regional",
+        "img": "https://oriby-streaming-proxy.sultanarabi161.workers.dev/https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_KANNADA_HD/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png",
+        "traceId": "373406",
+        "language": "kn"
+    },
+    {
+        "id": "LIVETV_LIVETVCHANNEL_COLORS_MARATHI_HD",
+        "tittle": "Colors Marathi HD",
+        "genre": "Regional",
+        "img": "https://oriby-streaming-proxy.sultanarabi161.workers.dev/https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_MARATHI_HD/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png",
+        "traceId": "373438",
+        "language": "mr"
+    },
+    {
+        "id": "LIVETV_LIVETVCHANNEL_SANGEET_MARATHI",
+        "tittle": "Sangeet Marathi",
+        "genre": "Music",
+        "img": "https://oriby-streaming-proxy.sultanarabi161.workers.dev/https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SANGEET_MARATHI/images/LANDSCAPE_169_HD/image.png",
+        "traceId": "373437",
+        "language": "mr"
+    },
+    {
+        "id": "LIVETV_LIVETVCHANNEL_SONY_MARATHI",
+        "tittle": "Sony Marathi",
+        "genre": "Regional",
+        "img": "https://oriby-streaming-proxy.sultanarabi161.workers.dev/https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_MARATHI/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png",
+        "traceId": "373436",
+        "language": "mr"
+    },
+    {
+        "id": "LIVETV_LIVETVCHANNEL_SONY_8",
+        "tittle": "SONY AATH",
+        "genre": "Regional",
+        "img": "https://oriby-streaming-proxy.sultanarabi161.workers.dev/https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_8/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png",
+        "traceId": "373435",
+        "language": "bn"
+    },
+    {
+        "id": "LIVETV_LIVETVCHANNEL_SUN_MARATHI_HD",
+        "tittle": "Sun Marathi HD",
+        "genre": "Movies",
+        "img": "https://oriby-streaming-proxy.sultanarabi161.workers.dev/https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SUN_MARATHI_HD/images/LANDSCAPE_169_HD/image.png",
+        "traceId": "373434",
+        "language": "mr"
+    },
+    {
+        "id": "LIVETV_LIVETVCHANNEL_ZEE_MARATHI_HD",
+        "tittle": "Zee Marathi HD",
+        "genre": "Entertainment",
+        "img": "https://oriby-streaming-proxy.sultanarabi161.workers.dev/https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_MARATHI_HD/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png",
+        "traceId": "373433",
+        "language": "mr"
+    },
+    {
+        "id": "LIVETV_LIVETVCHANNEL_ZEE_TALKIES_HD",
+        "tittle": "Zee Talkies HD",
+        "genre": "Movies",
+        "img": "https://oriby-streaming-proxy.sultanarabi161.workers.dev/https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_TALKIES_HD/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png",
+        "traceId": "373432",
+        "language": "mr"
+    },
+    {
+        "id": "LIVETV_LIVETVCHANNEL_DD_SAHYADRI",
+        "tittle": "DD Sahyadri",
+        "genre": "Regional",
+        "img": "https://oriby-streaming-proxy.sultanarabi161.workers.dev/https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DD_SAHYADRI/images/LANDSCAPE_169_HD/image.png",
+        "traceId": "373431",
+        "language": "mr"
+    },
+    {
+        "id": "LIVETV_LIVETVCHANNEL_ZEE_24_TAAS",
+        "tittle": "Zee 24 Taas",
+        "genre": "News",
+        "img": "https://oriby-streaming-proxy.sultanarabi161.workers.dev/https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_24_TAAS/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png",
+        "traceId": "373429",
+        "language": "mr"
+    },
+    {
+        "id": "LIVETV_LIVETVCHANNEL_TV9_MARATHI",
+        "tittle": "TV9 Marathi",
+        "genre": "Regional",
+        "img": "https://oriby-streaming-proxy.sultanarabi161.workers.dev/https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_TV9_MARATHI/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png",
+        "traceId": "373428",
+        "language": "mr"
+    },
+    {
+        "id": "192",
+        "tittle": "Fakt Marathi",
+        "genre": "Marathi",
+        "img": "https://oriby-streaming-proxy.sultanarabi161.workers.dev/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-799-j5m7jg34-v2/imageContent-799-j5m7jg34-m2.jpg",
+        "traceId": "373427",
+        "language": "Marathi"
+    },
+    {
+        "id": "LIVETV_LIVETVCHANNEL_ABP_MAJHA",
+        "tittle": "ABP Majha",
+        "genre": "News",
+        "img": "https://oriby-streaming-proxy.sultanarabi161.workers.dev/https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ABP_MAJHA/images/LANDSCAPE_169_HD/image.png",
+        "traceId": "908617",
+        "language": ""
+    },
+    {
+        "id": "LIVETV_LIVETVCHANNEL_CHARDIKLA_TIME_TV",
+        "tittle": "Chardikla Time TV",
+        "genre": "Regional",
+        "img": "https://oriby-streaming-proxy.sultanarabi161.workers.dev/https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_CHARDIKLA_TIME_TV/images/LANDSCAPE_169_HD/image.png",
+        "traceId": "908645",
+        "language": "pa"
+    },
+    {
+        "id": "LIVETV_LIVETVCHANNEL_CHARDIKLA_TIME_TV",
+        "tittle": "Chardikla Time TV",
+        "genre": "Regional",
+        "img": "https://oriby-streaming-proxy.sultanarabi161.workers.dev/https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_CHARDIKLA_TIME_TV/images/LANDSCAPE_169_HD/image.png",
+        "traceId": "908622",
+        "language": "pa"
+    },
+    {
+        "id": "LIVETV_LIVETVCHANNEL_DD_PUNJABI",
+        "tittle": "DD Punjabi",
+        "genre": "Regional",
+        "img": "https://oriby-streaming-proxy.sultanarabi161.workers.dev/https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DD_PUNJABI/images/LANDSCAPE_169_HD/image.png",
+        "traceId": "908623",
+        "language": "pa"
+    },
+    {
+        "id": "791",
+        "tittle": "Fateh TV",
+        "genre": "Punjabi",
+        "img": "https://oriby-streaming-proxy.sultanarabi161.workers.dev/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-48802-k4m7nz2w-v1/imageContent-48802-k4m7nz2w-m1.jpg",
+        "traceId": "908642",
+        "language": "Punjabi"
+    },
+    {
+        "id": "366",
+        "tittle": "India News Punjab",
+        "genre": "Punjabi",
+        "img": "https://oriby-streaming-proxy.sultanarabi161.workers.dev/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/INWPUB_BoxCover-v2/INWPUB_BoxCover.png",
+        "traceId": "908624",
+        "language": "Punjabi"
+    },
+    {
+        "id": "LIVETV_LIVETVCHANNEL_NDTV_INDIA",
+        "tittle": "NDTV India",
+        "genre": "News",
+        "img": "https://oriby-streaming-proxy.sultanarabi161.workers.dev/https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NDTV_INDIA/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png",
+        "traceId": "908621",
+        "language": "hi"
+    },
+    {
+        "id": "1060",
+        "tittle": "Live Punjabi",
+        "genre": "News",
+        "img": "https://oriby-streaming-proxy.sultanarabi161.workers.dev/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/LIVPU_BoxCover-v1/LIVPU_BoxCover.jpg",
+        "traceId": "908615",
+        "language": "Punjabi"
+    },
+    {
+        "id": "LIVETV_LIVETVCHANNEL_LIVING_INDIA_NEWS",
+        "tittle": "Living India News",
+        "genre": "News",
+        "img": "https://oriby-streaming-proxy.sultanarabi161.workers.dev/https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_LIVING_INDIA_NEWS/images/LANDSCAPE_169_HD/image.png",
+        "traceId": "908648",
+        "language": "pa"
+    },
+    {
+        "id": "LIVETV_LIVETVCHANNEL_MANORANJAN_MOVIES",
+        "tittle": "Manoranjan Movies",
+        "genre": "Movies",
+        "img": "https://oriby-streaming-proxy.sultanarabi161.workers.dev/https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_MANORANJAN_MOVIES/images/LANDSCAPE_169_HD/image.png",
+        "traceId": "908625",
+        "language": "pa"
+    },
+    {
+        "id": "LIVETV_LIVETVCHANNEL_MANORANJAN_TV",
+        "tittle": "Manoranjan Tv",
+        "genre": "Movies",
+        "img": "https://oriby-streaming-proxy.sultanarabi161.workers.dev/https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_MANORANJAN_TV/images/LANDSCAPE_169_HD/image.png",
+        "traceId": "908626",
+        "language": "hi"
+    },
+    {
+        "id": "LIVETV_LIVETVCHANNEL_FM_NEWS",
+        "tittle": "FM NEWS",
+        "genre": "News",
+        "img": "https://oriby-streaming-proxy.sultanarabi161.workers.dev/https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_FM_NEWS/images/LANDSCAPE_169_HD/image.png",
+        "traceId": "908628",
+        "language": "hi"
+    },
+    {
+        "id": "LIVETV_LIVETVCHANNEL_MH_ONE_SHRADDHA",
+        "tittle": "MH One Shraddha",
+        "genre": "Devotional",
+        "img": "https://oriby-streaming-proxy.sultanarabi161.workers.dev/https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_MH_ONE_SHRADDHA/images/LANDSCAPE_169_HD/image.png",
+        "traceId": "908629",
+        "language": "hi"
+    },
+    {
+        "id": "LIVETV_LIVETVCHANNEL_NEWS18_PUNJAB_HARYANA",
+        "tittle": "News18 Punjab Haryana",
+        "genre": "News",
+        "img": "https://oriby-streaming-proxy.sultanarabi161.workers.dev/https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NEWS18_PUNJAB_HARYANA/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png",
+        "traceId": "908630",
+        "language": "pa"
+    },
+    {
+        "id": "LIVETV_LIVETVCHANNEL_PITAARA",
+        "tittle": "Pitaara",
+        "genre": "Regional",
+        "img": "https://oriby-streaming-proxy.sultanarabi161.workers.dev/https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_PITAARA/images/LANDSCAPE_169_HD/image.png",
+        "traceId": "908631",
+        "language": "pa"
+    },
+    {
+        "id": "LIVETV_LIVETVCHANNEL_PTC_CHAKDE",
+        "tittle": "PTC Chakde",
+        "genre": "Music",
+        "img": "https://oriby-streaming-proxy.sultanarabi161.workers.dev/https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_PTC_CHAKDE/images/LANDSCAPE_169_HD/image.png",
+        "traceId": "908633",
+        "language": "pa"
+    },
+    {
+        "id": "LIVETV_LIVETVCHANNEL_PTC_NEWS",
+        "tittle": "PTC News",
+        "genre": "News",
+        "img": "https://oriby-streaming-proxy.sultanarabi161.workers.dev/https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_PTC_NEWS/images/LANDSCAPE_169_HD/image.png",
+        "traceId": "908634",
+        "language": "pa"
+    },
+    {
+        "id": "LIVETV_LIVETVCHANNEL_PTC_PUNJABI",
+        "tittle": "PTC Punjabi",
+        "genre": "Regional",
+        "img": "https://oriby-streaming-proxy.sultanarabi161.workers.dev/https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_PTC_PUNJABI/images/LANDSCAPE_169_HD/image.png",
+        "traceId": "908616",
+        "language": "pa"
+    },
+    {
+        "id": "LIVETV_LIVETVCHANNEL_PTC_PUNJABI",
+        "tittle": "PTC Punjabi",
+        "genre": "Regional",
+        "img": "https://oriby-streaming-proxy.sultanarabi161.workers.dev/https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_PTC_PUNJABI/images/LANDSCAPE_169_HD/image.png",
+        "traceId": "908635",
+        "language": "pa"
+    },
+    {
+        "id": "LIVETV_LIVETVCHANNEL_PTC_SIMRAN",
+        "tittle": "PTC Simran",
+        "genre": "Regional",
+        "img": "https://oriby-streaming-proxy.sultanarabi161.workers.dev/https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_PTC_SIMRAN/images/LANDSCAPE_169_HD/image.png",
+        "traceId": "908612",
+        "language": "pa"
+    },
+    {
+        "id": "571",
+        "tittle": "Tata Play Punjab De Rang",
+        "genre": "Punjabi",
+        "img": "https://oriby-streaming-proxy.sultanarabi161.workers.dev/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-68738-kywk7u6g-v1/imageContent-68738-kywk7u6g-m1.png",
+        "traceId": "908641",
+        "language": "Punjabi"
+    },
+    {
+        "id": "LIVETV_LIVETVCHANNEL_ZEE_PUNJAB_HARYANA_HIMACHAL",
+        "tittle": "Zee Punjab Haryana Himachal",
+        "genre": "Regional",
+        "img": "https://oriby-streaming-proxy.sultanarabi161.workers.dev/https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_PUNJAB_HARYANA_HIMACHAL/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png",
+        "traceId": "908638",
+        "language": "pa"
+    },
+    {
+        "id": "LIVETV_LIVETVCHANNEL_ZEE_PUNJABI",
+        "tittle": "Zee Punjabi",
+        "genre": "Regional",
+        "img": "https://oriby-streaming-proxy.sultanarabi161.workers.dev/https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_PUNJABI/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png",
+        "traceId": "908639",
+        "language": "pa"
+    },
+    {
+        "id": "",
+        "tittle": "┃INDIAN┃KIDS┃ PERMAN HINDI",
+        "genre": "Kids",
+        "img": "http://picon.tivi-ott.net:25461/picon/INDIA/HINDI INDIA PREMIUM/PERMAN HINDI.png",
+        "traceId": "734323",
+        "language": ""
+    },
+    {
+        "id": "",
+        "tittle": "┃INDIAN┃KIDS┃ MASHA AND BEAR",
+        "genre": "Kids",
+        "img": "http://picon.tivi-ott.net:25461/picon/INDIA/HINDI INDIA PREMIUM/MASHA AND BEAR.png",
+        "traceId": "734322",
+        "language": ""
+    },
+    {
+        "id": "",
+        "tittle": "┃INDIAN┃KIDS┃ NINJA HATTORI RETURNS HINDI",
+        "genre": "Kids",
+        "img": "http://picon.tivi-ott.net:25461/picon/INDIA/HINDI INDIA PREMIUM/NINJA HATTORI HINDI.png",
+        "traceId": "734321",
+        "language": ""
+    },
+    {
+        "id": "",
+        "tittle": "┃INDIAN┃KIDS┃ NINJA HATTORI HINDI",
+        "genre": "Kids",
+        "img": "http://picon.tivi-ott.net:25461/picon/INDIA/HINDI INDIA PREMIUM/NINJA HATTORI HINDI.png",
+        "traceId": "734320",
+        "language": ""
+    },
+    {
+        "id": "",
+        "tittle": "┃INDIAN┃KIDS┃ SHINCHAN HINDI",
+        "genre": "Kids",
+        "img": "http://picon.tivi-ott.net:25461/picon/INDIA/HINDI INDIA PREMIUM/SHINCHAN HINDI.png",
+        "traceId": "734314",
+        "language": ""
+    },
+    {
+        "id": "",
+        "tittle": "┃INDIAN┃KIDS┃ DORAEMON HINDI",
+        "genre": "Kids",
+        "img": "http://picon.tivi-ott.net:25461/picon/INDIA/HINDI INDIA PREMIUM/DORAEMON HINDI.png",
+        "traceId": "734308",
+        "language": ""
+    },
+    {
+        "id": "LIVETV_LIVETVCHANNEL_CVR_NEWS",
+        "tittle": "CVR NEWS1",
+        "genre": "News",
+        "img": "https://oriby-streaming-proxy.sultanarabi161.workers.dev/https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_CVR_NEWS/images/LANDSCAPE_169_HD/image.png",
+        "traceId": "373505",
+        "language": "te"
+    },
+    {
+        "id": "LIVETV_LIVETVCHANNEL_BHAKTI_TV",
+        "tittle": "Bhakti TV",
+        "genre": "Devotional",
+        "img": "https://oriby-streaming-proxy.sultanarabi161.workers.dev/https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_BHAKTI_TV/images/LANDSCAPE_169_HD/image.png",
+        "traceId": "373504",
+        "language": "te"
+    },
+    {
+        "id": "LIVETV_LIVETVCHANNEL_ETV_CINEMA",
+        "tittle": "ETV Cinema",
+        "genre": "Regional",
+        "img": "https://oriby-streaming-proxy.sultanarabi161.workers.dev/https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ETV_CINEMA/images/LANDSCAPE_169_HD/image.png",
+        "traceId": "373502",
+        "language": "te"
+    },
+    {
+        "id": "LIVETV_LIVETVCHANNEL_ETV_HD",
+        "tittle": "ETV HD",
+        "genre": "Entertainment",
+        "img": "https://oriby-streaming-proxy.sultanarabi161.workers.dev/https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ETV_HD/images/LANDSCAPE_169_HD/image.png",
+        "traceId": "373501",
+        "language": "te"
+    },
+    {
+        "id": "LIVETV_LIVETVCHANNEL_GEMINI_TV_HD",
+        "tittle": "Gemini TV HD",
+        "genre": "Entertainment",
+        "img": "https://oriby-streaming-proxy.sultanarabi161.workers.dev/https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_GEMINI_TV_HD/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png",
+        "traceId": "373500",
+        "language": "ml"
+    },
+    {
+        "id": "LIVETV_LIVETVCHANNEL_GEMINI_MOVIES_HD",
+        "tittle": "Gemini Movies HD",
+        "genre": "Movies",
+        "img": "https://oriby-streaming-proxy.sultanarabi161.workers.dev/https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_GEMINI_MOVIES_HD/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png",
+        "traceId": "373499",
+        "language": "te"
+    },
+    {
+        "id": "LIVETV_LIVETVCHANNEL_GEMINI_COMEDY",
+        "tittle": "Gemini Comedy",
+        "genre": "Regional",
+        "img": "https://oriby-streaming-proxy.sultanarabi161.workers.dev/https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_GEMINI_COMEDY/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png",
+        "traceId": "373498",
+        "language": "te"
+    },
+    {
+        "id": "LIVETV_LIVETVCHANNEL_STAR_MAA_MOVIES_HD",
+        "tittle": "Star Maa Movies HD",
+        "genre": "Regional",
+        "img": "https://oriby-streaming-proxy.sultanarabi161.workers.dev/https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_MAA_MOVIES_HD/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png",
+        "traceId": "373496",
+        "language": "te"
+    },
+    {
+        "id": "605",
+        "tittle": "National Geographic HD",
+        "genre": "Knowledge",
+        "img": "https://oriby-streaming-proxy.sultanarabi161.workers.dev/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12232-j9qoqbdc-v1/imageContent-12232-j9qoqbdc-m1.jpg",
+        "traceId": "373495",
+        "language": "English,Telugu,Bengali,Hindi,Tamil"
+    },
+    {
+        "id": "LIVETV_LIVETVCHANNEL_RAJ_MUSIX_TELUGU",
+        "tittle": "Raj Musix Telugu",
+        "genre": "Music",
+        "img": "https://oriby-streaming-proxy.sultanarabi161.workers.dev/https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_RAJ_MUSIX_TELUGU/images/LANDSCAPE_169_HD/image.png",
+        "traceId": "373494",
+        "language": "te"
+    },
+    {
+        "id": "LIVETV_LIVETVCHANNEL_RAJ_NEWS_TELUGU",
+        "tittle": "Raj News Telugu",
+        "genre": "News",
+        "img": "https://oriby-streaming-proxy.sultanarabi161.workers.dev/https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_RAJ_NEWS_TELUGU/images/LANDSCAPE_169_HD/image.png",
+        "traceId": "373493",
+        "language": "te"
+    },
+    {
+        "id": "LIVETV_LIVETVCHANNEL_SONY_BBC_EARTH_HD",
+        "tittle": "Sony BBC earth HD",
+        "genre": "Infotainment",
+        "img": "https://oriby-streaming-proxy.sultanarabi161.workers.dev/https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_BBC_EARTH_HD/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png",
+        "traceId": "373492",
+        "language": "en,hi,ta,te"
+    },
+    {
+        "id": "LIVETV_LIVETVCHANNEL_STAR_MAA_GOLD",
+        "tittle": "STAR MAA GOLD",
+        "genre": "Regional",
+        "img": "https://oriby-streaming-proxy.sultanarabi161.workers.dev/https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_MAA_GOLD/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png",
+        "traceId": "373491",
+        "language": "te"
+    },
+    {
+        "id": "LIVETV_LIVETVCHANNEL_STAR_MAA_HD",
+        "tittle": "Star MAA HD",
+        "genre": "Regional",
+        "img": "https://oriby-streaming-proxy.sultanarabi161.workers.dev/https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_MAA_HD/images/LANDSCAPE_169_HD/image.png",
+        "traceId": "373490",
+        "language": "te"
+    },
+    {
+        "id": "497",
+        "tittle": "VTV News",
+        "genre": "Gujarati",
+        "img": "https://oriby-streaming-proxy.sultanarabi161.workers.dev/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11910-j9l58n8w-v2/imageContent-11910-j9l58n8w-m5.jpg",
+        "traceId": "373488",
+        "language": "Gujarati"
+    },
+    {
+        "id": "LIVETV_LIVETVCHANNEL_V6_NEWS",
+        "tittle": "V6 NEWS",
+        "genre": "News",
+        "img": "https://oriby-streaming-proxy.sultanarabi161.workers.dev/https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_V6_NEWS/images/LANDSCAPE_169_HD/image.png",
+        "traceId": "373487",
+        "language": "te"
+    },
+    {
+        "id": "LIVETV_LIVETVCHANNEL_ETV_PLUS",
+        "tittle": "ETV PLUS",
+        "genre": "Regional",
+        "img": "https://oriby-streaming-proxy.sultanarabi161.workers.dev/https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ETV_PLUS/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png",
+        "traceId": "373486",
+        "language": "te"
+    },
+    {
+        "id": "LIVETV_LIVETVCHANNEL_ZEE_CINEMALU_HD",
+        "tittle": "Zee Cinemalu HD",
+        "genre": "Regional",
+        "img": "https://oriby-streaming-proxy.sultanarabi161.workers.dev/https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_CINEMALU_HD/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png",
+        "traceId": "373485",
+        "language": "te"
+    },
+    {
+        "id": "LIVETV_LIVETVCHANNEL_ZEE_TELUGU_HD",
+        "tittle": "Zee Telugu HD",
+        "genre": "Regional",
+        "img": "https://oriby-streaming-proxy.sultanarabi161.workers.dev/https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_TELUGU_HD/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png",
+        "traceId": "373484",
+        "language": "te"
+    },
+    {
+        "id": "LIVETV_LIVETVCHANNEL_GEMINI_MUSIC",
+        "tittle": "Gemini Music",
+        "genre": "Music",
+        "img": "https://oriby-streaming-proxy.sultanarabi161.workers.dev/https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_GEMINI_MUSIC/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png",
+        "traceId": "373483",
+        "language": "te"
+    },
+    {
+        "id": "LIVETV_LIVETVCHANNEL_GEMINI_LIFE",
+        "tittle": "Gemini Life",
+        "genre": "Regional",
+        "img": "https://oriby-streaming-proxy.sultanarabi161.workers.dev/https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_GEMINI_LIFE/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png",
+        "traceId": "373482",
+        "language": "te"
+    },
+    {
+        "id": "LIVETV_LIVETVCHANNEL_ETV_LIFE",
+        "tittle": "ETV Life",
+        "genre": "Regional",
+        "img": "https://oriby-streaming-proxy.sultanarabi161.workers.dev/https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ETV_LIFE/images/LANDSCAPE_169_HD/image.png",
+        "traceId": "373481",
+        "language": "te"
+    },
+    {
+        "id": "320",
+        "tittle": "TV5 News",
+        "genre": "Telugu",
+        "img": "https://oriby-streaming-proxy.sultanarabi161.workers.dev/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11327-j9jot000-v2/imageContent-11327-j9jot000-m2.jpg",
+        "traceId": "373480",
+        "language": "Telugu"
+    },
+    {
+        "id": "266",
+        "tittle": "10 TV",
+        "genre": "Telugu",
+        "img": "https://oriby-streaming-proxy.sultanarabi161.workers.dev/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-17565-jclrkakg-v1/imageContent-17565-jclrkakg-m1.jpg",
+        "traceId": "373478",
+        "language": "Telugu"
+    },
+    {
+        "id": "LIVETV_LIVETVCHANNEL_DD_SAPTAGIRI",
+        "tittle": "DD Saptagiri",
+        "genre": "Regional",
+        "img": "https://oriby-streaming-proxy.sultanarabi161.workers.dev/https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DD_SAPTAGIRI/images/LANDSCAPE_169_HD/image.png",
+        "traceId": "373477",
+        "language": "te"
+    },
+    {
+        "id": "LIVETV_LIVETVCHANNEL_VANITHA",
+        "tittle": "Vanitha",
+        "genre": "News",
+        "img": "https://oriby-streaming-proxy.sultanarabi161.workers.dev/https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_VANITHA/images/LANDSCAPE_169_HD/image.png",
+        "traceId": "373476",
+        "language": "te"
+    },
+    {
+        "id": "LIVETV_LIVETVCHANNEL_VISSA_TV",
+        "tittle": "Vissa TV",
+        "genre": "Regional",
+        "img": "https://oriby-streaming-proxy.sultanarabi161.workers.dev/https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_VISSA_TV/images/LANDSCAPE_169_HD/image.png",
+        "traceId": "373475",
+        "language": "te"
+    },
+    {
+        "id": "LIVETV_LIVETVCHANNEL_STAR_MAA",
+        "tittle": "Star Maa",
+        "genre": "Regional",
+        "img": "https://oriby-streaming-proxy.sultanarabi161.workers.dev/https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_MAA/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png",
+        "traceId": "373474",
+        "language": "te"
+    },
+    {
+        "id": "LIVETV_LIVETVCHANNEL_SAKSHI_TV",
+        "tittle": "Sakshi TV",
+        "genre": "News",
+        "img": "https://oriby-streaming-proxy.sultanarabi161.workers.dev/https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SAKSHI_TV/images/LANDSCAPE_169_HD/image.png",
+        "traceId": "373473",
+        "language": "te"
+    }
+]
