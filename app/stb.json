@@ -1080,52 +1080,52 @@
         "language": "pa"
     },
     {
-        "id": "",
-        "tittle": "┃INDIAN┃KIDS┃ PERMAN HINDI",
+        "id": "PERMAN_kid",
+        "tittle": "PERMAN HINDI",
         "genre": "Kids",
-        "img": "http://picon.tivi-ott.net:25461/picon/INDIA/HINDI INDIA PREMIUM/PERMAN HINDI.png",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ40BGblxkPEXTTm9ei2y2TLok6LsxuyO4_AQ&s",
         "traceId": "734323",
-        "language": ""
+        "language": "hi"
     },
     {
-        "id": "",
-        "tittle": "┃INDIAN┃KIDS┃ MASHA AND BEAR",
+        "id": "MASHA_AND_BEAR_kid",
+        "tittle": "MASHA AND BEAR",
         "genre": "Kids",
-        "img": "http://picon.tivi-ott.net:25461/picon/INDIA/HINDI INDIA PREMIUM/MASHA AND BEAR.png",
+        "img": "https://play-lh.googleusercontent.com/x-0xi5j42U7XuvyoPQBTSjGjA_a8yA_nkgqlgm0VjykuzySBBP9kczwh0YpCRU_x51o=w526-h296-rw",
         "traceId": "734322",
-        "language": ""
+        "language": "hi"
     },
     {
-        "id": "",
-        "tittle": "┃INDIAN┃KIDS┃ NINJA HATTORI RETURNS HINDI",
+        "id": "NINJA_HATTORI_kid",
+        "tittle": "NINJA HATTORI RETURNS HINDI",
         "genre": "Kids",
-        "img": "http://picon.tivi-ott.net:25461/picon/INDIA/HINDI INDIA PREMIUM/NINJA HATTORI HINDI.png",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKYvUxQgr_Mr_lGGrYbMWNG2Becq-_iCqnJg&s",
         "traceId": "734321",
-        "language": ""
+        "language": "hi"
     },
     {
-        "id": "",
-        "tittle": "┃INDIAN┃KIDS┃ NINJA HATTORI HINDI",
+        "id": "NINJA_kid",
+        "tittle": "NINJA HATTORI HINDI",
         "genre": "Kids",
-        "img": "http://picon.tivi-ott.net:25461/picon/INDIA/HINDI INDIA PREMIUM/NINJA HATTORI HINDI.png",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKYvUxQgr_Mr_lGGrYbMWNG2Becq-_iCqnJg&s",
         "traceId": "734320",
-        "language": ""
+        "language": "hi"
     },
     {
-        "id": "",
-        "tittle": "┃INDIAN┃KIDS┃ SHINCHAN HINDI",
+        "id": "SHINCHAN_kid",
+        "tittle": "SHINCHAN HINDI",
         "genre": "Kids",
-        "img": "http://picon.tivi-ott.net:25461/picon/INDIA/HINDI INDIA PREMIUM/SHINCHAN HINDI.png",
+        "img": "https://www.partysuppliesindia.com/cdn/shop/products/A1_39_cdd62d5e-1c73-4b7d-a9a6-afa5cf22a7e5.jpg",
         "traceId": "734314",
-        "language": ""
+        "language": "hi"
     },
     {
-        "id": "",
-        "tittle": "┃INDIAN┃KIDS┃ DORAEMON HINDI",
+        "id": "DORAEMON_kid",
+        "tittle": "DORAEMON HINDI",
         "genre": "Kids",
-        "img": "http://picon.tivi-ott.net:25461/picon/INDIA/HINDI INDIA PREMIUM/DORAEMON HINDI.png",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReJSPyLeBXQstZ_EwDIxE_QmD-i3yLK-5FBg&s",
         "traceId": "734308",
-        "language": ""
+        "language": "hi"
     },
     {
         "id": "LIVETV_LIVETVCHANNEL_CVR_NEWS",
@@ -1359,4 +1359,5 @@
         "traceId": "373473",
         "language": "te"
     }
+
 ]
