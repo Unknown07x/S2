@@ -362,7 +362,7 @@
     {
         "id": "562",
         "tittle": "Movies Now HD",
-        "genre": "English Movies",
+        "genre": "Movies",
         "img": "https://oriby-streaming-proxy.sultanarabi161.workers.dev/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12093-j9ooixfs-v1/imageContent-12093-j9ooixfs-m1.jpg",
         "traceId": "372981",
         "language": "English"
@@ -1138,7 +1138,7 @@
     {
         "id": "LIVETV_LIVETVCHANNEL_BHAKTI_TV",
         "tittle": "Bhakti TV",
-        "genre": "Devotional",
+        "genre": "Regional",
         "img": "https://oriby-streaming-proxy.sultanarabi161.workers.dev/https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_BHAKTI_TV/images/LANDSCAPE_169_HD/image.png",
         "traceId": "373504",
         "language": "te"
@@ -1242,7 +1242,7 @@
     {
         "id": "497",
         "tittle": "VTV News",
-        "genre": "Gujarati",
+        "genre": "Regional",
         "img": "https://oriby-streaming-proxy.sultanarabi161.workers.dev/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11910-j9l58n8w-v2/imageContent-11910-j9l58n8w-m5.jpg",
         "traceId": "373488",
         "language": "Gujarati"
@@ -1361,4 +1361,5 @@
     }
 
 ]
+
 
