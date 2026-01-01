@@ -690,7 +690,7 @@
     {
         "id": "425",
         "tittle": "Raj Musix",
-        "genre": "Tamil",
+        "genre": "Regional",
         "img": "https://oriby-streaming-proxy.sultanarabi161.workers.dev/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11680-j9khxjoo-v1/imageContent-11680-j9khxjoo-m1.jpg",
         "traceId": "373420",
         "language": "Tamil"
@@ -786,7 +786,7 @@
     {
         "id": "342",
         "tittle": "R Kannada",
-        "genre": "Kannada",
+        "genre": "Regional",
         "img": "https://oriby-streaming-proxy.sultanarabi161.workers.dev/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/RKANN_BoxCover-v2/RKANN_BoxCover.png",
         "traceId": "373408",
         "language": "Kannada"
@@ -890,7 +890,7 @@
     {
         "id": "192",
         "tittle": "Fakt Marathi",
-        "genre": "Marathi",
+        "genre": "Regional",
         "img": "https://oriby-streaming-proxy.sultanarabi161.workers.dev/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-799-j5m7jg34-v2/imageContent-799-j5m7jg34-m2.jpg",
         "traceId": "373427",
         "language": "Marathi"
@@ -930,18 +930,18 @@
     {
         "id": "791",
         "tittle": "Fateh TV",
-        "genre": "Punjabi",
+        "genre": "Regional",
         "img": "https://oriby-streaming-proxy.sultanarabi161.workers.dev/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-48802-k4m7nz2w-v1/imageContent-48802-k4m7nz2w-m1.jpg",
         "traceId": "908642",
-        "language": "Punjabi"
+        "language": "Regional"
     },
     {
         "id": "366",
         "tittle": "India News Punjab",
-        "genre": "Punjabi",
+        "genre": "Regional",
         "img": "https://oriby-streaming-proxy.sultanarabi161.workers.dev/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/INWPUB_BoxCover-v2/INWPUB_BoxCover.png",
         "traceId": "908624",
-        "language": "Punjabi"
+        "language": "Regional"
     },
     {
         "id": "LIVETV_LIVETVCHANNEL_NDTV_INDIA",
@@ -957,7 +957,7 @@
         "genre": "News",
         "img": "https://oriby-streaming-proxy.sultanarabi161.workers.dev/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/LIVPU_BoxCover-v1/LIVPU_BoxCover.jpg",
         "traceId": "908615",
-        "language": "Punjabi"
+        "language": "Regional"
     },
     {
         "id": "LIVETV_LIVETVCHANNEL_LIVING_INDIA_NEWS",
@@ -994,7 +994,7 @@
     {
         "id": "LIVETV_LIVETVCHANNEL_MH_ONE_SHRADDHA",
         "tittle": "MH One Shraddha",
-        "genre": "Devotional",
+        "genre": "Regional",
         "img": "https://oriby-streaming-proxy.sultanarabi161.workers.dev/https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_MH_ONE_SHRADDHA/images/LANDSCAPE_169_HD/image.png",
         "traceId": "908629",
         "language": "hi"
@@ -1058,10 +1058,10 @@
     {
         "id": "571",
         "tittle": "Tata Play Punjab De Rang",
-        "genre": "Punjabi",
+        "genre": "Regional",
         "img": "https://oriby-streaming-proxy.sultanarabi161.workers.dev/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-68738-kywk7u6g-v1/imageContent-68738-kywk7u6g-m1.png",
         "traceId": "908641",
-        "language": "Punjabi"
+        "language": "Regional"
     },
     {
         "id": "LIVETV_LIVETVCHANNEL_ZEE_PUNJAB_HARYANA_HIMACHAL",
@@ -1306,18 +1306,18 @@
     {
         "id": "320",
         "tittle": "TV5 News",
-        "genre": "Telugu",
+        "genre": "Regional",
         "img": "https://oriby-streaming-proxy.sultanarabi161.workers.dev/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11327-j9jot000-v2/imageContent-11327-j9jot000-m2.jpg",
         "traceId": "373480",
-        "language": "Telugu"
+        "language": "Regional"
     },
     {
         "id": "266",
         "tittle": "10 TV",
-        "genre": "Telugu",
+        "genre": "Regional",
         "img": "https://oriby-streaming-proxy.sultanarabi161.workers.dev/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-17565-jclrkakg-v1/imageContent-17565-jclrkakg-m1.jpg",
         "traceId": "373478",
-        "language": "Telugu"
+        "language": "Regional"
     },
     {
         "id": "LIVETV_LIVETVCHANNEL_DD_SAPTAGIRI",
@@ -1361,3 +1361,4 @@
     }
 
 ]
+
