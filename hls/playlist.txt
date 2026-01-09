@@ -1,4 +1,108 @@
-#EXTINF:-1 tvg-id="471" tvg-name="Sony SAB HD" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_SAB_HD.png" group-title="JioTV📺Entertainment" group-logo="https://play-lh.googleusercontent.com/jzbM6msuulcguWO8yfhZb9I0gGXF3gecHY0fULSQkuTDa6PP-b727XZydKgKhKLSPf57=s96-rw" catchup="vod" catchup-days="8" catchup-source="https://jiotv.joker-verse.workers.dev/catchup/index.mpd?id=471&uid=8004188626&pass=61498d15&begin={utc}&end={utcend}", Sony SAB HD
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey.joker-verse.workers.dev/license
-https://jiotv.joker-verse.workers.dev/live/index.mpd?id=471&uid=8004188626&pass=61498d15|User-Agent="plaYtv/7.1.5 (Linux;Android 12) ExoPlayerLib/2.11.7"&Origin="https://www.jiotv.com"&Referer="https://www.jiotv.com/"&X-User-Agent="TiviMate/5.1.6 (Android 15)"
+#EXTINF:-1 tvg-name="SKY SPORTS F1 REAL 4K." tvg-logo="https://i.pinimg.com/736x/f5/20/ba/f520ba7a6d0a6028d6466cca1de511bb.jpg" group-title="REAL 4K" group-logo="https://i.pinimg.com/736x/f5/20/ba/f520ba7a6d0a6028d6466cca1de511bb.jpg",SKY SPORTS F1 REAL 4K.
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G981B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://allinonereborn.xyz
+#EXTVLCOPT:http-origin=https://allinonereborn.xyz/
+https://allinonereborn.xyz/tatatv-web/live.php?id=69036
+
+#EXTINF:-1 tvg-name="SKY SPORTS 1 REAL 4K." tvg-logo="https://i.pinimg.com/736x/f5/20/ba/f520ba7a6d0a6028d6466cca1de511bb.jpg" group-title="REAL 4K" group-logo="https://i.pinimg.com/736x/f5/20/ba/f520ba7a6d0a6028d6466cca1de511bb.jpg",SKY SPORTS 1 REAL 4K.
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G981B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://allinonereborn.xyz
+#EXTVLCOPT:http-origin=https://allinonereborn.xyz/
+https://allinonereborn.xyz/tatatv-web/live.php?id=69037
+
+#EXTINF:-1 tvg-name="SKY SPORTS 2 REAL 4K." tvg-logo="https://i.pinimg.com/736x/f5/20/ba/f520ba7a6d0a6028d6466cca1de511bb.jpg" group-title="REAL 4K" group-logo="https://i.pinimg.com/736x/f5/20/ba/f520ba7a6d0a6028d6466cca1de511bb.jpg",SKY SPORTS 2 REAL 4K.
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G981B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://allinonereborn.xyz
+#EXTVLCOPT:http-origin=https://allinonereborn.xyz/
+https://allinonereborn.xyz/tatatv-web/live.php?id=69038
+
+#EXTINF:-1 tvg-name="REAL 4K RAI TV" tvg-logo="https://i.pinimg.com/736x/f5/20/ba/f520ba7a6d0a6028d6466cca1de511bb.jpg" group-title="REAL 4K" group-logo="https://i.pinimg.com/736x/f5/20/ba/f520ba7a6d0a6028d6466cca1de511bb.jpg",REAL 4K RAI TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G981B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://allinonereborn.xyz
+#EXTVLCOPT:http-origin=https://allinonereborn.xyz/
+https://allinonereborn.xyz/tatatv-web/live.php?id=75093
+
+#EXTINF:-1 tvg-name="REAL 4K NZ SKY SPORT 1 UHD" tvg-logo="https://i.pinimg.com/736x/f5/20/ba/f520ba7a6d0a6028d6466cca1de511bb.jpg" group-title="REAL 4K" group-logo="https://i.pinimg.com/736x/f5/20/ba/f520ba7a6d0a6028d6466cca1de511bb.jpg",REAL 4K NZ SKY SPORT 1 UHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G981B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://allinonereborn.xyz
+#EXTVLCOPT:http-origin=https://allinonereborn.xyz/
+https://allinonereborn.xyz/tatatv-web/live.php?id=75507
+
+#EXTINF:-1 tvg-name="IPL HIGHLIGHTS 2025" tvg-logo="https://i.pinimg.com/736x/f5/20/ba/f520ba7a6d0a6028d6466cca1de511bb.jpg" group-title="CRICKET - REPLAYS" group-logo="https://i.pinimg.com/736x/f5/20/ba/f520ba7a6d0a6028d6466cca1de511bb.jpg",IPL HIGHLIGHTS 2025
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G981B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://allinonereborn.xyz
+#EXTVLCOPT:http-origin=https://allinonereborn.xyz/
+https://allinonereborn.xyz/tatatv-web/live.php?id=71983
+
+#EXTINF:-1 tvg-name="CHAMPIONS TROPHY 2025" tvg-logo="https://i.pinimg.com/736x/f5/20/ba/f520ba7a6d0a6028d6466cca1de511bb.jpg" group-title="CRICKET - REPLAYS" group-logo="https://i.pinimg.com/736x/f5/20/ba/f520ba7a6d0a6028d6466cca1de511bb.jpg",CHAMPIONS TROPHY 2025
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G981B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://allinonereborn.xyz
+#EXTVLCOPT:http-origin=https://allinonereborn.xyz/
+https://allinonereborn.xyz/tatatv-web/live.php?id=71984
+
+#EXTINF:-1 tvg-name="INDIA VS SOUTH AFRICA ODI 2025" tvg-logo="https://i.pinimg.com/736x/f5/20/ba/f520ba7a6d0a6028d6466cca1de511bb.jpg" group-title="CRICKET - REPLAYS" group-logo="https://i.pinimg.com/736x/f5/20/ba/f520ba7a6d0a6028d6466cca1de511bb.jpg",INDIA VS SOUTH AFRICA ODI 2025
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G981B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://allinonereborn.xyz
+#EXTVLCOPT:http-origin=https://allinonereborn.xyz/
+https://allinonereborn.xyz/tatatv-web/live.php?id=71992
+
+#EXTINF:-1 tvg-name="WORLD CHAMPIONSHIP OF LEGENDS 2025" tvg-logo="https://i.pinimg.com/736x/f5/20/ba/f520ba7a6d0a6028d6466cca1de511bb.jpg" group-title="CRICKET - REPLAYS" group-logo="https://i.pinimg.com/736x/f5/20/ba/f520ba7a6d0a6028d6466cca1de511bb.jpg",WORLD CHAMPIONSHIP OF LEGENDS 2025
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G981B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://allinonereborn.xyz
+#EXTVLCOPT:http-origin=https://allinonereborn.xyz/
+https://allinonereborn.xyz/tatatv-web/live.php?id=71987
+
+#EXTINF:-1 tvg-name="INDIA VS SOUTH AFRICA TEST 2025" tvg-logo="https://i.pinimg.com/736x/f5/20/ba/f520ba7a6d0a6028d6466cca1de511bb.jpg" group-title="CRICKET - REPLAYS" group-logo="https://i.pinimg.com/736x/f5/20/ba/f520ba7a6d0a6028d6466cca1de511bb.jpg",INDIA VS SOUTH AFRICA TEST 2025
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G981B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://allinonereborn.xyz
+#EXTVLCOPT:http-origin=https://allinonereborn.xyz/
+https://allinonereborn.xyz/tatatv-web/live.php?id=71990
+
+#EXTINF:-1 tvg-name="ASIA CUP HIGHLIGHTS 2025" tvg-logo="https://i.pinimg.com/736x/f5/20/ba/f520ba7a6d0a6028d6466cca1de511bb.jpg" group-title="CRICKET - REPLAYS" group-logo="https://i.pinimg.com/736x/f5/20/ba/f520ba7a6d0a6028d6466cca1de511bb.jpg",ASIA CUP HIGHLIGHTS 2025
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G981B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://allinonereborn.xyz
+#EXTVLCOPT:http-origin=https://allinonereborn.xyz/
+https://allinonereborn.xyz/tatatv-web/live.php?id=71985
+
+#EXTINF:-1 tvg-name="NEW ZEALAND VS WEST INDIES TEST 2025" tvg-logo="https://i.pinimg.com/736x/f5/20/ba/f520ba7a6d0a6028d6466cca1de511bb.jpg" group-title="CRICKET - REPLAYS" group-logo="https://i.pinimg.com/736x/f5/20/ba/f520ba7a6d0a6028d6466cca1de511bb.jpg",NEW ZEALAND VS WEST INDIES TEST 2025
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G981B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://allinonereborn.xyz
+#EXTVLCOPT:http-origin=https://allinonereborn.xyz/
+https://allinonereborn.xyz/tatatv-web/live.php?id=71993
+
+#EXTINF:-1 tvg-name="BANGLADESH VS IRELAND TEST 2025" tvg-logo="https://i.pinimg.com/736x/f5/20/ba/f520ba7a6d0a6028d6466cca1de511bb.jpg" group-title="CRICKET - REPLAYS" group-logo="https://i.pinimg.com/736x/f5/20/ba/f520ba7a6d0a6028d6466cca1de511bb.jpg",BANGLADESH VS IRELAND TEST 2025
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G981B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://allinonereborn.xyz
+#EXTVLCOPT:http-origin=https://allinonereborn.xyz/
+https://allinonereborn.xyz/tatatv-web/live.php?id=72004
+
+#EXTINF:-1 tvg-name="AUSTRALIA VS ENGLAND TEST 2025" tvg-logo="https://i.pinimg.com/736x/f5/20/ba/f520ba7a6d0a6028d6466cca1de511bb.jpg" group-title="CRICKET - REPLAYS" group-logo="https://i.pinimg.com/736x/f5/20/ba/f520ba7a6d0a6028d6466cca1de511bb.jpg",AUSTRALIA VS ENGLAND TEST 2025
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G981B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://allinonereborn.xyz
+#EXTVLCOPT:http-origin=https://allinonereborn.xyz/
+https://allinonereborn.xyz/tatatv-web/live.php?id=72000
+
+#EXTINF:-1 tvg-name="BANGLADESH VS IRELAND T20 2025" tvg-logo="https://i.pinimg.com/736x/f5/20/ba/f520ba7a6d0a6028d6466cca1de511bb.jpg" group-title="CRICKET - REPLAYS" group-logo="https://i.pinimg.com/736x/f5/20/ba/f520ba7a6d0a6028d6466cca1de511bb.jpg",BANGLADESH VS IRELAND T20 2025
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G981B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://allinonereborn.xyz
+#EXTVLCOPT:http-origin=https://allinonereborn.xyz/
+https://allinonereborn.xyz/tatatv-web/live.php?id=72001
+
+#EXTINF:-1 tvg-name="WEST INDIES VS NEW ZEALAND T20 2025" tvg-logo="https://i.pinimg.com/736x/f5/20/ba/f520ba7a6d0a6028d6466cca1de511bb.jpg" group-title="CRICKET - REPLAYS" group-logo="https://i.pinimg.com/736x/f5/20/ba/f520ba7a6d0a6028d6466cca1de511bb.jpg",WEST INDIES VS NEW ZEALAND T20 2025
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G981B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://allinonereborn.xyz
+#EXTVLCOPT:http-origin=https://allinonereborn.xyz/
+https://allinonereborn.xyz/tatatv-web/live.php?id=72002
+
+#EXTINF:-1 tvg-name="INDIA VS SOUTH AFRICA T20 2025" tvg-logo="https://i.pinimg.com/736x/f5/20/ba/f520ba7a6d0a6028d6466cca1de511bb.jpg" group-title="CRICKET - REPLAYS" group-logo="https://i.pinimg.com/736x/f5/20/ba/f520ba7a6d0a6028d6466cca1de511bb.jpg",INDIA VS SOUTH AFRICA T20 2025
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G981B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://allinonereborn.xyz
+#EXTVLCOPT:http-origin=https://allinonereborn.xyz/
+https://allinonereborn.xyz/tatatv-web/live.php?id=72003
+
+#EXTINF:-1 tvg-name="NEW ZEALAND VS WEST INDIES ODI 2025" tvg-logo="https://i.pinimg.com/736x/f5/20/ba/f520ba7a6d0a6028d6466cca1de511bb.jpg" group-title="CRICKET - REPLAYS" group-logo="https://i.pinimg.com/736x/f5/20/ba/f520ba7a6d0a6028d6466cca1de511bb.jpg",NEW ZEALAND VS WEST INDIES ODI 2025
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G981B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://allinonereborn.xyz
+#EXTVLCOPT:http-origin=https://allinonereborn.xyz/
+https://allinonereborn.xyz/tatatv-web/live.php?id=71995
+
