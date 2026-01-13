@@ -1,0 +1,155 @@
+[
+    {
+        "channel_id": "1900",
+        "serial_no": "800",
+        "tvg_language": null,
+        "channel_genre": "CRICKET",
+        "channel_logo": "http://greenpa1.com/ssh1.png",
+        "channel_name": "STAR SPORTS 1 HINDI ᴴᴰ",
+        "channel_url": "http://{bhaut_tej_ho_rhe_ho}/211.ts"
+    },
+    {
+        "channel_id": "1901",
+        "serial_no": "801",
+        "tvg_language": null,
+        "channel_genre": "CRICKET",
+        "channel_logo": "http://greenpa1.com/ssh2.png",
+        "channel_name": "STAR SPORTS 2 HINDI ᴴᴰ",
+        "channel_url": "http://{bhaut_tej_ho_rhe_ho}/213049.ts"
+    },
+    {
+        "channel_id": "1902",
+        "serial_no": "802",
+        "tvg_language": null,
+        "channel_genre": "CRICKET",
+        "channel_logo": "https://static.epg.best/in/StarSportsSelect1.in.png",
+        "channel_name": "STAR SPORTS SELECT 1 ᴴᴰ",
+        "channel_url": "http://{bhaut_tej_ho_rhe_ho}/238.ts"
+    },
+    {
+        "channel_id": "1903",
+        "serial_no": "803",
+        "tvg_language": null,
+        "channel_genre": "CRICKET",
+        "channel_logo": "http://greenpa1.com/starsports2.png",
+        "channel_name": "STAR SPORTS 2 ENGLISH ᴴᴰ",
+        "channel_url": "http://{bhaut_tej_ho_rhe_ho}/239.ts"
+    },
+    {
+        "channel_id": "1904",
+        "serial_no": "804",
+        "tvg_language": null,
+        "channel_genre": "CRICKET",
+        "channel_logo": "https://static.epg.best/in/StarSportsSelect2.in.png",
+        "channel_name": "STAR SPORTS SELECT 2 ᴴᴰ",
+        "channel_url": "http://{bhaut_tej_ho_rhe_ho}/148801.ts"
+    },
+    {
+        "channel_id": "1905",
+        "serial_no": "805",
+        "tvg_language": null,
+        "channel_genre": "CRICKET",
+        "channel_logo": "https://static.sky.co.nz/sky/channel-logos/051_sky_sport_1_logo_stack_rgb.png",
+        "channel_name": "SKY SPORT 1  ⁴ᵏ",
+        "channel_url": "http://{bhaut_tej_ho_rhe_ho}/150854.ts"
+    },
+    {
+        "channel_id": "1906",
+        "serial_no": "806",
+        "tvg_language": null,
+        "channel_genre": "CRICKET",
+        "channel_logo": "https://i.ibb.co/p4knk5y/images-4.png",
+        "channel_name": "STAR SPORTS 1 TAMIL  ⁴ᵏ",
+        "channel_url": "http://{bhaut_tej_ho_rhe_ho}/9722.ts"
+    },
+    {
+        "channel_id": "1907",
+        "serial_no": "807",
+        "tvg_language": null,
+        "channel_genre": "CRICKET",
+        "channel_logo": "http://greenpa1.com/astrocricket.png",
+        "channel_name": "ASTRO CRICKET ᴴᴰ",
+        "channel_url": "http://{bhaut_tej_ho_rhe_ho}/2494.ts"
+    },
+    {
+        "channel_id": "1908",
+        "serial_no": "808",
+        "tvg_language": null,
+        "channel_genre": "CRICKET",
+        "channel_logo": "http://greenpa1.com/fox.png",
+        "channel_name": "FOX CRIC 501 ᴴᴰ",
+        "channel_url": "http://{bhaut_tej_ho_rhe_ho}/1856.ts"
+    },
+    {
+        "channel_id": "1909",
+        "serial_no": "809",
+        "tvg_language": null,
+        "channel_genre": "CRICKET",
+        "channel_logo": "http://greenpa1.com/ss3.png",
+        "channel_name": "STAR SPORTS 3 ᴴᴰ",
+        "channel_url": "http://{bhaut_tej_ho_rhe_ho}/1080.ts"
+    },
+    {
+        "channel_id": "1910",
+        "serial_no": "810",
+        "tvg_language": null,
+        "channel_genre": "CRICKET",
+        "channel_logo": "https://i.ibb.co/p4knk5y/images-4.png",
+        "channel_name": "STAR SPORTS 1 TELUGU  ⁴ᵏ",
+        "channel_url": "http://{bhaut_tej_ho_rhe_ho}/177843.ts"
+    },
+    {
+        "channel_id": "1911",
+        "serial_no": "811",
+        "tvg_language": null,
+        "channel_genre": "CRICKET",
+        "channel_logo": "https://i.ibb.co/p4knk5y/images-4.png",
+        "channel_name": "SKY SPORTS CRIC  ⁴ᵏ",
+        "channel_url": "http://{bhaut_tej_ho_rhe_ho}/114479.ts"
+    },
+    {
+        "channel_id": "1912",
+        "serial_no": "812",
+        "tvg_language": null,
+        "channel_genre": "CRICKET",
+        "channel_logo": "https://i.ibb.co/p4knk5y/images-4.png",
+        "channel_name": "SKY SPORTS CRIC  ⁴ᵏ",
+        "channel_url": "http://{bhaut_tej_ho_rhe_ho}/124269.ts"
+    },
+    {
+        "channel_id": "1913",
+        "serial_no": "813",
+        "tvg_language": null,
+        "channel_genre": "CRICKET",
+        "channel_logo": "https://static.sky.co.nz/sky/channel-logos/051_sky_sport_3_logo_stack_rgb.png",
+        "channel_name": "SKY SPORT 3  ⁴ᵏ",
+        "channel_url": "http://{bhaut_tej_ho_rhe_ho}/24018.ts"
+    },
+    {
+        "channel_id": "1914",
+        "serial_no": "814",
+        "tvg_language": null,
+        "channel_genre": "CRICKET",
+        "channel_logo": "https://static.epg.best/in/StarSports1.in.png",
+        "channel_name": "STAR SPORTS 1 KANNADA ᴴᴰ",
+        "channel_url": "http://{bhaut_tej_ho_rhe_ho}/380977.ts"
+    },
+    {
+        "channel_id": "1915",
+        "serial_no": "815",
+        "tvg_language": null,
+        "channel_genre": "CRICKET",
+        "channel_logo": "https://i.ibb.co/34FSKYK/images.png",
+        "channel_name": "T SPORTS ᴴᴰ",
+        "channel_url": "http://{bhaut_tej_ho_rhe_ho}/18452.ts"
+    },
+    {
+        "channel_id": "1916",
+        "serial_no": "816",
+        "tvg_language": null,
+        "channel_genre": "CRICKET",
+        "channel_logo": "http://greenpa1.com/willow.png",
+        "channel_name": "WILLOW SPORTS ᴴᴰ",
+        "channel_url": "http://{bhaut_tej_ho_rhe_ho}/23943.ts"
+    }
+]
