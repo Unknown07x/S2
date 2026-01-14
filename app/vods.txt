@@ -2,7 +2,7 @@
 #EXTINF:-1 type="movie" tvg-name="Taskaree: The Smuggler's Web" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/74/Taskaree_%E2%80%93_The_Smuggler%27s_Web.jpg?20260112133307" group-title="Latest 2026", Taskaree: The Smuggler's Web
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
 #EXTHTTP:{"User-Agent": "okhttp/4.12.0"}
-https://pixeldrain.dev/api/file/RFVs682z?download&movie=.mkv|User-Agent=okhttp/4.12.0
+https://pixeldrain.dev/api/file/RFVs682z?download&series=.mkv|User-Agent=okhttp/4.12.0
 
 
 
@@ -79,5 +79,6 @@ https://pixeldrain.dev/api/file/1xFxMdzH?download&movie=.mkv|User-Agent=okhttp/4
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
 #EXTHTTP:{"User-Agent": "okhttp/4.12.0"}
 https://pixeldrain.dev/api/file/8N5zgx4r?download&movie=.mkv|User-Agent=okhttp/4.12.0
+
 
 
