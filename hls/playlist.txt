@@ -1,1 +1,5 @@
-xyz
+#EXTINF:-1 tvg-id="watcho-zee-tv" tvg-name="ZEE TV" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/qsrytm.png" group-logo="https://play-lh.googleusercontent.com/x9RWkBOe44DmEidEj5qWRs5H2gOCgRycQenIlcr0kO098rTVn1Nl-IM3JFB_vfuTRg" group-title="WATCHO", ZEE TV
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"7QaM-E8GQMy8fA45XAonLg","k":"u3IhkPK7RGORAgQRp9CCiw"}],"type":"temporary"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetv/default/manifest.mpd
