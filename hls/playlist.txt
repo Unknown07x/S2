@@ -7,3 +7,26 @@
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/69.1 ExoPlayerLib/824.0
 https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeChitramandir_MOB/WDVLive/output/index.mpd?__hdnea__=st=1768438012~exp=1768524412~acl=/*~hmac=ff4362d9412acfae1329992e8dcb6226e3a86ce6b783c0820c0e028e9c6e0e87&xxx=%7Ccookie=__hdnea__=st=1768438012~exp=1768524412~acl=/*~hmac=ff4362d9412acfae1329992e8dcb6226e3a86ce6b783c0820c0e028e9c6e0e87
 
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/247/660/png-transparent-haryana-punjab-india-news-live-television-itv-network-punjab-miscellaneous-television-text.png" group-title="Punjabi News",India News
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://jt.drmlive.net/jiotvplus/jtck.php?id=511
+https://jt.drmlive.net/jiotvplus/511.mpd
+
+#EXTINF:-1 tvg-id=ts715 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/DD_Punjabi.png" group-title="JIOTV+ | Entertainment",DD Punjabi
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://jt.drmlive.net/jiotvplus/jtck.php?id=715
+https://jt.drmlive.net/jiotvplus/715.mpd
+
+#EXTINF:-1 tvg-id=ts831 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Living_India_News.png" group-title="JIOTV+ | News",Living India News
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://jt.drmlive.net/jiotvplus/jtck.php?id=831
+https://jt.drmlive.net/jiotvplus/831.mpd
+
+#EXTINF:-1 tvg-id=ts742 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/mh1_Music.png" group-title="JIOTV+ | Music",mh1 (Music)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://jt.drmlive.net/jiotvplus/jtck.php?id=742
+https://jt.drmlive.net/jiotvplus/742.mpd
