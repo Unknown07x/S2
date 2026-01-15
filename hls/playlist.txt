@@ -1,5 +1,6 @@
 #EXTINF:-1 tvg-id="watcho-zee-tv" tvg-name="ZEE TV" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/qsrytm.png" group-logo="https://play-lh.googleusercontent.com/x9RWkBOe44DmEidEj5qWRs5H2gOCgRycQenIlcr0kO098rTVn1Nl-IM3JFB_vfuTRg" group-title="WATCHO", ZEE TV
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"7QaM-E8GQMy8fA45XAonLg","k":"u3IhkPK7RGORAgQRp9CCiw"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetv/default/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=95b726ce54c05713ac6bf540ee64ca87:8e1bc81913c474311b79ca988c087f2a
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/69.1 ExoPlayerLib/824.0
+https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeChitramandir_MOB/WDVLive/output/index.mpd?__hdnea__=st=1768438012~exp=1768524412~acl=/*~hmac=ff4362d9412acfae1329992e8dcb6226e3a86ce6b783c0820c0e028e9c6e0e87&xxx=%7Ccookie=__hdnea__=st=1768438012~exp=1768524412~acl=/*~hmac=ff4362d9412acfae1329992e8dcb6226e3a86ce6b783c0820c0e028e9c6e0e87
+
