@@ -1,3 +1,6 @@
+#EXTM3U
+
+
 #EXTINF:-1 tvg-id="watcho-zee-tv" tvg-name="ZEE TV" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/qsrytm.png" group-logo="https://play-lh.googleusercontent.com/x9RWkBOe44DmEidEj5qWRs5H2gOCgRycQenIlcr0kO098rTVn1Nl-IM3JFB_vfuTRg" group-title="WATCHO", ZEE TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=95b726ce54c05713ac6bf540ee64ca87:8e1bc81913c474311b79ca988c087f2a
