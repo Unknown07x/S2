@@ -1,0 +1,3320 @@
+[
+    {
+        "name": "Tata Play Asomiya Monoronjan",
+        "tvg_id": "ts1082",
+        "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/ASMON_BoxCover-v1/ASMON_BoxCover.png",
+        "genre": "Assamese",
+        "xml_id": "108877"
+    },
+    {
+        "name": "AMRITWANI",
+        "tvg_id": "3038",
+        "logo": "https://img.media.jio.com/imagespublic/5/17/301709_1715894145633_l_high.jpg",
+        "genre": "Devotional",
+        "xml_id": "540"
+    },
+    {
+        "name": "BHAKTI TV",
+        "tvg_id": "1605",
+        "logo": "https://img.media.jio.com/tvpimages/50/51/301770_1754935464997_l_high.jpg",
+        "genre": "Devotional",
+        "xml_id": "34581"
+    },
+    {
+        "name": "FATEH TV",
+        "tvg_id": "1174",
+        "logo": "https://img.media.jio.com/imagespublic/90/88/301766_1721302988427_l_high.jpg",
+        "genre": "Devotional",
+        "xml_id": "2016"
+    },
+    {
+        "name": "Gurkibani TV",
+        "tvg_id": "1458",
+        "logo": "https://img.media.jio.com/imagespublic/8/10/301871_1729617827383_l_high.jpg",
+        "genre": "Devotional",
+        "xml_id": "4434"
+    },
+    {
+        "name": "JUS One",
+        "tvg_id": "961",
+        "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/JUSOne.png",
+        "genre": "Devotional",
+        "xml_id": "1356"
+    },
+    {
+        "name": "MADHA TV",
+        "tvg_id": "1655",
+        "logo": "https://img.media.jio.com/imagespublic/82/41/301018_1616754718302_l_high.jpg",
+        "genre": "Devotional",
+        "xml_id": "5902"
+    },
+    {
+        "name": "PTC SIMRAN",
+        "tvg_id": "1191",
+        "logo": "https://img.media.jio.com/imagespublic/36/48/PTCSimran_1604380801702_tv.jpg",
+        "genre": "Devotional",
+        "xml_id": "40"
+    },
+    {
+        "name": "SADHNA TV",
+        "tvg_id": "593",
+        "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Sadhna.png",
+        "genre": "Devotional",
+        "xml_id": "25076"
+    },
+    {
+        "name": "Sangat TV",
+        "tvg_id": "1539",
+        "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Sangat_TV.png",
+        "genre": "Devotional",
+        "xml_id": "982"
+    },
+    {
+        "name": "SANSKAR TV HD",
+        "tvg_id": "288",
+        "logo": "https://img.media.jio.com/imagespublic/70/88/Sanskar_1574671350122_tv.jpg",
+        "genre": "Devotional",
+        "xml_id": "5834"
+    },
+    {
+        "name": "Sri_Venkateshwar_Bhakti",
+        "tvg_id": "598",
+        "logo": "https://img.media.jio.com/imagespublic/92/11/SriVenkateshwarBhakti_1602345066373_tv.jpg",
+        "genre": "Devotional",
+        "xml_id": "233"
+    },
+    {
+        "name": "SVBC HD",
+        "tvg_id": "1850",
+        "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/SVBC.png",
+        "genre": "Devotional",
+        "xml_id": "9054"
+    },
+    {
+        "name": "Tamil : Sri Sankara TV",
+        "tvg_id": "829",
+        "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Sri_Sankara.png",
+        "genre": "Devotional",
+        "xml_id": "153205"
+    },
+    {
+        "name": "SONY PIX HD",
+        "tvg_id": "762",
+        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Pix_HD.png",
+        "genre": "English",
+        "xml_id": "98846"
+    },
+    {
+        "name": "SONY PIX HD",
+        "tvg_id": "762",
+        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Pix_HD.png",
+        "genre": "English",
+        "xml_id": "147"
+    },
+    {
+        "name": "SONY PIX HD",
+        "tvg_id": "762",
+        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Pix_HD.png",
+        "genre": "English",
+        "xml_id": "9381"
+    },
+    {
+        "name": "MN PLUS",
+        "tvg_id": "ts210",
+        "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-827-j5m9lh7k-v1/imageContent-827-j5m9lh7k-m1.jpg",
+        "genre": "English Movies",
+        "xml_id": "178"
+    },
+    {
+        "name": "MN+ HD",
+        "tvg_id": "ts210",
+        "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-827-j5m9lh7k-v1/imageContent-827-j5m9lh7k-m1.jpg",
+        "genre": "English Movies",
+        "xml_id": "98847"
+    },
+    {
+        "name": "MN+ HD",
+        "tvg_id": "ts210",
+        "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-827-j5m9lh7k-v1/imageContent-827-j5m9lh7k-m1.jpg",
+        "genre": "English Movies",
+        "xml_id": "9383"
+    },
+    {
+        "name": "MNX",
+        "tvg_id": "ts599",
+        "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12214-j9qm5hjs-v2/imageContent-12214-j9qm5hjs-m2.png",
+        "genre": "English Movies",
+        "xml_id": "23428"
+    },
+    {
+        "name": "MNX HD",
+        "tvg_id": "ts599",
+        "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12214-j9qm5hjs-v2/imageContent-12214-j9qm5hjs-m2.png",
+        "genre": "English Movies",
+        "xml_id": "191"
+    },
+    {
+        "name": "Movies Now",
+        "tvg_id": "ts562",
+        "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12093-j9ooixfs-v1/imageContent-12093-j9ooixfs-m1.jpg",
+        "genre": "English Movies",
+        "xml_id": "152387"
+    },
+    {
+        "name": "ROMEDY NOW HD",
+        "tvg_id": "ts174",
+        "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-749-j5l5kb9k-v3/imageContent-749-j5l5kb9k-m3.jpg",
+        "genre": "English Movies",
+        "xml_id": "179"
+    },
+    {
+        "name": "COLORS FHD",
+        "tvg_id": "1371",
+        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Colors_Tamil.png",
+        "genre": "Entertainment",
+        "xml_id": "195"
+    },
+    {
+        "name": "Colors Gujarati",
+        "tvg_id": "196",
+        "logo": "https://img.media.jio.com/tvpimages/48/23/301547_1734522088301_l_high.jpg",
+        "genre": "Entertainment",
+        "xml_id": "5850"
+    },
+    {
+        "name": "COLORS HD",
+        "tvg_id": "1371",
+        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Colors_Tamil.png",
+        "genre": "Entertainment",
+        "xml_id": "98851"
+    },
+    {
+        "name": "Colors HD",
+        "tvg_id": "1371",
+        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Colors_Tamil.png",
+        "genre": "Entertainment",
+        "xml_id": "9370"
+    },
+    {
+        "name": "Colors INFINITY HD",
+        "tvg_id": "1325",
+        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Colors_Infinity_SD.png",
+        "genre": "Entertainment",
+        "xml_id": "98879"
+    },
+    {
+        "name": "COLORS INFINITY HD",
+        "tvg_id": "1325",
+        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Colors_Infinity_SD.png",
+        "genre": "Entertainment",
+        "xml_id": "187"
+    },
+    {
+        "name": "Colors INFINITY HD",
+        "tvg_id": "1325",
+        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Colors_Infinity_SD.png",
+        "genre": "Entertainment",
+        "xml_id": "9390"
+    },
+    {
+        "name": "Colors Kannada HD",
+        "tvg_id": "1371",
+        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Colors_Tamil.png",
+        "genre": "Entertainment",
+        "xml_id": "162"
+    },
+    {
+        "name": "Colors Super",
+        "tvg_id": "785",
+        "logo": "https://img.media.jio.com/imagespublic/44/96/301175_1643921051725_l_high.jpg",
+        "genre": "Entertainment",
+        "xml_id": "163"
+    },
+    {
+        "name": "Colors Tamil HD",
+        "tvg_id": "1371",
+        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Colors_Tamil.png",
+        "genre": "Entertainment",
+        "xml_id": "98911"
+    },
+    {
+        "name": "Colors Tamil HD",
+        "tvg_id": "1371",
+        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Colors_Tamil.png",
+        "genre": "Entertainment",
+        "xml_id": "9970"
+    },
+    {
+        "name": "COLORS TAMIL HD",
+        "tvg_id": "1371",
+        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Colors_Tamil.png",
+        "genre": "Entertainment",
+        "xml_id": "5886"
+    },
+    {
+        "name": "Colors_Gujarati",
+        "tvg_id": "196",
+        "logo": "https://img.media.jio.com/tvpimages/48/23/301547_1734522088301_l_high.jpg",
+        "genre": "Entertainment",
+        "xml_id": "3163"
+    },
+    {
+        "name": "COLORS_Kannada HD",
+        "tvg_id": "1371",
+        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Colors_Tamil.png",
+        "genre": "Entertainment",
+        "xml_id": "98907"
+    },
+    {
+        "name": "COLORS_Kannada HD",
+        "tvg_id": "1371",
+        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Colors_Tamil.png",
+        "genre": "Entertainment",
+        "xml_id": "23323"
+    },
+    {
+        "name": "DD Girnar",
+        "tvg_id": "714",
+        "logo": "https://img.media.jio.com/imagespublic/1/8/DDGirnar_1574692273344_tv.jpg",
+        "genre": "Entertainment",
+        "xml_id": "4055"
+    },
+    {
+        "name": "DD Punjabi",
+        "tvg_id": "715",
+        "logo": "https://img.media.jio.com/imagespublic/34/19/DDPunjabi_1574692387788_tv.jpg",
+        "genre": "Entertainment",
+        "xml_id": "1367"
+    },
+    {
+        "name": "DD Saptagiri",
+        "tvg_id": "706",
+        "logo": "https://img.media.jio.com/imagespublic/74/19/DDSaptagiri_1574693024920_tv.jpg",
+        "genre": "Entertainment",
+        "xml_id": "4053"
+    },
+    {
+        "name": "ETV HD",
+        "tvg_id": "2956",
+        "logo": "https://img.media.jio.com/tvpimages/73/73/301702_1753182031197_l_high.jpg",
+        "genre": "Entertainment",
+        "xml_id": "98885"
+    },
+    {
+        "name": "Etv HD",
+        "tvg_id": "2956",
+        "logo": "https://img.media.jio.com/tvpimages/73/73/301702_1753182031197_l_high.jpg",
+        "genre": "Entertainment",
+        "xml_id": "9017"
+    },
+    {
+        "name": "ETV HD",
+        "tvg_id": "2956",
+        "logo": "https://img.media.jio.com/tvpimages/73/73/301702_1753182031197_l_high.jpg",
+        "genre": "Entertainment",
+        "xml_id": "23312"
+    },
+    {
+        "name": "ETV Plus",
+        "tvg_id": "2956",
+        "logo": "https://img.media.jio.com/tvpimages/73/73/301702_1753182031197_l_high.jpg",
+        "genre": "Entertainment",
+        "xml_id": "242"
+    },
+    {
+        "name": "GEMINI COMEDY HD",
+        "tvg_id": "729",
+        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Gemini_Comedy.png",
+        "genre": "Entertainment",
+        "xml_id": "9042"
+    },
+    {
+        "name": "GEMINI HD",
+        "tvg_id": "897",
+        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Gemini_TV_HD.png",
+        "genre": "Entertainment",
+        "xml_id": "98892"
+    },
+    {
+        "name": "GEMINI HD",
+        "tvg_id": "897",
+        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Gemini_TV_HD.png",
+        "genre": "Entertainment",
+        "xml_id": "23315"
+    },
+    {
+        "name": "Gemini_TV_HD",
+        "tvg_id": "897",
+        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Gemini_TV_HD.png",
+        "genre": "Entertainment",
+        "xml_id": "214"
+    },
+    {
+        "name": "INVESTIGATION DISCOVERY",
+        "tvg_id": "527",
+        "logo": "https://img.media.jio.com/imagespublic/53/20/301632_1707141245581_l_high.jpg",
+        "genre": "Entertainment",
+        "xml_id": "23790"
+    },
+    {
+        "name": "JAYA PLUS",
+        "tvg_id": "419",
+        "logo": "https://img.media.jio.com/tvpimages/74/78/301887_1732644338482_l_high.jpg",
+        "genre": "Entertainment",
+        "xml_id": "1615"
+    },
+    {
+        "name": "JAYA TV",
+        "tvg_id": "419",
+        "logo": "https://img.media.jio.com/tvpimages/74/78/301887_1732644338482_l_high.jpg",
+        "genre": "Entertainment",
+        "xml_id": "188"
+    },
+    {
+        "name": "JAYA TV",
+        "tvg_id": "419",
+        "logo": "https://img.media.jio.com/tvpimages/74/78/301887_1732644338482_l_high.jpg",
+        "genre": "Entertainment",
+        "xml_id": "5895"
+    },
+    {
+        "name": "KALAIGNAR TV",
+        "tvg_id": "1209",
+        "logo": "https://img.media.jio.com/imagespublic/92/50/KalaignarTV_1574668115294_tv.jpg",
+        "genre": "Entertainment",
+        "xml_id": "9018"
+    },
+    {
+        "name": "MAKKAL TV HD",
+        "tvg_id": "708",
+        "logo": "https://img.media.jio.com/imagespublic/83/31/MakkalTV_1574693726914_tv.jpg",
+        "genre": "Entertainment",
+        "xml_id": "5903"
+    },
+    {
+        "name": "MK TV",
+        "tvg_id": "847",
+        "logo": "https://img.media.jio.com/imagespublic/83/42/301401_1684509656369_l_high.jpg",
+        "genre": "Entertainment",
+        "xml_id": "37451"
+    },
+    {
+        "name": "PEPPERS TV",
+        "tvg_id": "796",
+        "logo": "https://img.media.jio.com/imagespublic/42/59/301223_1649944083201_l_high.jpg",
+        "genre": "Entertainment",
+        "xml_id": "5909"
+    },
+    {
+        "name": "POLIMER TV",
+        "tvg_id": "705",
+        "logo": "https://img.media.jio.com/imagespublic/44/73/PolimerTV_1574694249522_tv.jpg",
+        "genre": "Entertainment",
+        "xml_id": "1617"
+    },
+    {
+        "name": "PTC Punjabi",
+        "tvg_id": "1171",
+        "logo": "https://img.media.jio.com/imagespublic/87/13/PTCPunjabi_1574668647539_tv.jpg",
+        "genre": "Entertainment",
+        "xml_id": "171"
+    },
+    {
+        "name": "PTC Punjabi",
+        "tvg_id": "1171",
+        "logo": "https://img.media.jio.com/imagespublic/87/13/PTCPunjabi_1574668647539_tv.jpg",
+        "genre": "Entertainment",
+        "xml_id": "606227"
+    },
+    {
+        "name": "PTC Punjabi",
+        "tvg_id": "1171",
+        "logo": "https://img.media.jio.com/imagespublic/87/13/PTCPunjabi_1574668647539_tv.jpg",
+        "genre": "Entertainment",
+        "xml_id": "606239"
+    },
+    {
+        "name": "PTC Punjabi",
+        "tvg_id": "1171",
+        "logo": "https://img.media.jio.com/imagespublic/87/13/PTCPunjabi_1574668647539_tv.jpg",
+        "genre": "Entertainment",
+        "xml_id": "606244"
+    },
+    {
+        "name": "PTC Punjabi.",
+        "tvg_id": "1171",
+        "logo": "https://img.media.jio.com/imagespublic/87/13/PTCPunjabi_1574668647539_tv.jpg",
+        "genre": "Entertainment",
+        "xml_id": "606229"
+    },
+    {
+        "name": "RAJ TV",
+        "tvg_id": "707",
+        "logo": "https://img.media.jio.com/imagespublic/72/8/301190_1645624698416_l_high.jpg",
+        "genre": "Entertainment",
+        "xml_id": "1619"
+    },
+    {
+        "name": "RAJ TV HD",
+        "tvg_id": "707",
+        "logo": "https://img.media.jio.com/imagespublic/72/8/301190_1645624698416_l_high.jpg",
+        "genre": "Entertainment",
+        "xml_id": "5913"
+    },
+    {
+        "name": "Sanjha TV",
+        "tvg_id": "904",
+        "logo": "https://img.media.jio.com/imagespublic/75/4/301868_1729616969882_l_high.jpg",
+        "genre": "Entertainment",
+        "xml_id": "1368"
+    },
+    {
+        "name": "SET",
+        "tvg_id": "1396",
+        "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SD.png",
+        "genre": "Entertainment",
+        "xml_id": "144"
+    },
+    {
+        "name": "SET HD",
+        "tvg_id": "1396",
+        "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SD.png",
+        "genre": "Entertainment",
+        "xml_id": "98854"
+    },
+    {
+        "name": "SET HD",
+        "tvg_id": "1396",
+        "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SD.png",
+        "genre": "Entertainment",
+        "xml_id": "224"
+    },
+    {
+        "name": "SET HD",
+        "tvg_id": "1396",
+        "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SD.png",
+        "genre": "Entertainment",
+        "xml_id": "9365"
+    },
+    {
+        "name": "SONY SAB HD",
+        "tvg_id": "471",
+        "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB_HD.png",
+        "genre": "Entertainment",
+        "xml_id": "98853"
+    },
+    {
+        "name": "SONY SAB HD",
+        "tvg_id": "471",
+        "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB_HD.png",
+        "genre": "Entertainment",
+        "xml_id": "145"
+    },
+    {
+        "name": "STAR BHARAT HD",
+        "tvg_id": "1127",
+        "logo": "https://img.media.jio.com/tvpimages/49/44/302082_1753203942225_l_high.jpg",
+        "genre": "Entertainment",
+        "xml_id": "98855"
+    },
+    {
+        "name": "STAR BHARAT HD",
+        "tvg_id": "1127",
+        "logo": "https://img.media.jio.com/tvpimages/49/44/302082_1753203942225_l_high.jpg",
+        "genre": "Entertainment",
+        "xml_id": "199"
+    },
+    {
+        "name": "STAR BHARAT HD",
+        "tvg_id": "1127",
+        "logo": "https://img.media.jio.com/tvpimages/49/44/302082_1753203942225_l_high.jpg",
+        "genre": "Entertainment",
+        "xml_id": "9367"
+    },
+    {
+        "name": "STAR PLUS FHD",
+        "tvg_id": "1116",
+        "logo": "https://img.media.jio.com/tvpimages/66/40/302084_1753189751700_l_high.jpg",
+        "genre": "Entertainment",
+        "xml_id": "167"
+    },
+    {
+        "name": "STAR PLUS HD",
+        "tvg_id": "1116",
+        "logo": "https://img.media.jio.com/tvpimages/66/40/302084_1753189751700_l_high.jpg",
+        "genre": "Entertainment",
+        "xml_id": "98849"
+    },
+    {
+        "name": "STAR PLUS HD",
+        "tvg_id": "1116",
+        "logo": "https://img.media.jio.com/tvpimages/66/40/302084_1753189751700_l_high.jpg",
+        "genre": "Entertainment",
+        "xml_id": "221"
+    },
+    {
+        "name": "STAR PLUS HD",
+        "tvg_id": "1116",
+        "logo": "https://img.media.jio.com/tvpimages/66/40/302084_1753189751700_l_high.jpg",
+        "genre": "Entertainment",
+        "xml_id": "9366"
+    },
+    {
+        "name": "SUN TV HD",
+        "tvg_id": "2424",
+        "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Sun_Marathi.png",
+        "genre": "Entertainment",
+        "xml_id": "158"
+    },
+    {
+        "name": "SUN TV HD",
+        "tvg_id": "2424",
+        "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Sun_Marathi.png",
+        "genre": "Entertainment",
+        "xml_id": "5921"
+    },
+    {
+        "name": "SUN TV HD",
+        "tvg_id": "2424",
+        "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Sun_Marathi.png",
+        "genre": "Entertainment",
+        "xml_id": "5922"
+    },
+    {
+        "name": "SUN TV HD",
+        "tvg_id": "2424",
+        "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Sun_Marathi.png",
+        "genre": "Entertainment",
+        "xml_id": "5923"
+    },
+    {
+        "name": "Tata Play Adbhut Kahaniyan",
+        "tvg_id": "ts811",
+        "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-52367-k7e829a0-v5/imageContent-52367-k7e829a0-m5.jpg",
+        "genre": "Entertainment",
+        "xml_id": "467677"
+    },
+    {
+        "name": "Tata Play Classic TV",
+        "tvg_id": "ts964",
+        "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/TPCTV_BoxCover-v4/TPCTV_BoxCover.png",
+        "genre": "Entertainment",
+        "xml_id": "467694"
+    },
+    {
+        "name": "Tata Play Hits HD",
+        "tvg_id": "ts808",
+        "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-49808-k7454oxs-v3/imageContent-49808-k7454oxs-m6.jpg",
+        "genre": "Entertainment",
+        "xml_id": "467494"
+    },
+    {
+        "name": "Tata Play Videshi Kahaniyan",
+        "tvg_id": "ts943",
+        "logo": "https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/Tata Play K-Dramas_BoxCover_bb592212-05a9-4801-a4e6-7edea9bd8593.png",
+        "genre": "Entertainment",
+        "xml_id": "7725"
+    },
+    {
+        "name": "UDAYA COMEDY FHD",
+        "tvg_id": "733",
+        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Udaya_Comedy.png",
+        "genre": "Entertainment",
+        "xml_id": "9447"
+    },
+    {
+        "name": "UDAYA HD",
+        "tvg_id": "901",
+        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Udaya_HD.png",
+        "genre": "Entertainment",
+        "xml_id": "98889"
+    },
+    {
+        "name": "UDAYA HD",
+        "tvg_id": "901",
+        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Udaya_HD.png",
+        "genre": "Entertainment",
+        "xml_id": "24124"
+    },
+    {
+        "name": "UDAYA TV FHD",
+        "tvg_id": "901",
+        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Udaya_HD.png",
+        "genre": "Entertainment",
+        "xml_id": "9449"
+    },
+    {
+        "name": "UDAYA TV FHD",
+        "tvg_id": "901",
+        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Udaya_HD.png",
+        "genre": "Entertainment",
+        "xml_id": "9450"
+    },
+    {
+        "name": "Udaya TV HD",
+        "tvg_id": "901",
+        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Udaya_HD.png",
+        "genre": "Entertainment",
+        "xml_id": "164"
+    },
+    {
+        "name": "VASANTH TV",
+        "tvg_id": "727",
+        "logo": "https://img.media.jio.com/imagespublic/62/14/VasanthTV_1574695444198_tv.jpg",
+        "genre": "Entertainment",
+        "xml_id": "9020"
+    },
+    {
+        "name": "VENDHAR TV",
+        "tvg_id": "857",
+        "logo": "https://img.media.jio.com/imagespublic/18/4/VendharTV_1574669540529_tv.jpg",
+        "genre": "Entertainment",
+        "xml_id": "1624"
+    },
+    {
+        "name": "VENDHAR TV HD",
+        "tvg_id": "857",
+        "logo": "https://img.media.jio.com/imagespublic/18/4/VendharTV_1574669540529_tv.jpg",
+        "genre": "Entertainment",
+        "xml_id": "5931"
+    },
+    {
+        "name": "Vissa TV",
+        "tvg_id": "734",
+        "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Vissa_TV.png",
+        "genre": "Entertainment",
+        "xml_id": "244"
+    },
+    {
+        "name": "ZEE CAFE HD",
+        "tvg_id": "1364",
+        "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cafe_SD.png",
+        "genre": "Entertainment",
+        "xml_id": "98848"
+    },
+    {
+        "name": "ZEE Cafe HD",
+        "tvg_id": "1364",
+        "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cafe_SD.png",
+        "genre": "Entertainment",
+        "xml_id": "9389"
+    },
+    {
+        "name": "Zee Kannada HD",
+        "tvg_id": "1977",
+        "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Bangla_HD.png",
+        "genre": "Entertainment",
+        "xml_id": "9453"
+    },
+    {
+        "name": "ZEE Punjabi",
+        "tvg_id": "1977",
+        "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Bangla_HD.png",
+        "genre": "Entertainment",
+        "xml_id": "52082"
+    },
+    {
+        "name": "ZEE TAMIL",
+        "tvg_id": "1977",
+        "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Bangla_HD.png",
+        "genre": "Entertainment",
+        "xml_id": "225"
+    },
+    {
+        "name": "Zee Tamil HD",
+        "tvg_id": "1977",
+        "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Bangla_HD.png",
+        "genre": "Entertainment",
+        "xml_id": "98897"
+    },
+    {
+        "name": "Zee Tamil HD",
+        "tvg_id": "1977",
+        "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Bangla_HD.png",
+        "genre": "Entertainment",
+        "xml_id": "9971"
+    },
+    {
+        "name": "Zee Telugu HD",
+        "tvg_id": "1977",
+        "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Bangla_HD.png",
+        "genre": "Entertainment",
+        "xml_id": "1605"
+    },
+    {
+        "name": "ZEE TV FHD",
+        "tvg_id": "1977",
+        "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Bangla_HD.png",
+        "genre": "Entertainment",
+        "xml_id": "220"
+    },
+    {
+        "name": "ZEE TV HD",
+        "tvg_id": "1977",
+        "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Bangla_HD.png",
+        "genre": "Entertainment",
+        "xml_id": "161"
+    },
+    {
+        "name": "ZEE TV HD",
+        "tvg_id": "1977",
+        "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Bangla_HD.png",
+        "genre": "Entertainment",
+        "xml_id": "9371"
+    },
+    {
+        "name": "ZEE-Kannada HD",
+        "tvg_id": "1977",
+        "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Bangla_HD.png",
+        "genre": "Entertainment",
+        "xml_id": "98890"
+    },
+    {
+        "name": "ZEE-Kannada HD",
+        "tvg_id": "1977",
+        "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Bangla_HD.png",
+        "genre": "Entertainment",
+        "xml_id": "24125"
+    },
+    {
+        "name": "ZEECAFE HD",
+        "tvg_id": "1364",
+        "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cafe_SD.png",
+        "genre": "Entertainment",
+        "xml_id": "196"
+    },
+    {
+        "name": "Aastha Gujarati",
+        "tvg_id": "ts1097",
+        "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/ASTHAGUJ_BoxCover-v2/ASTHAGUJ_BoxCover.png",
+        "genre": "Gujarati",
+        "xml_id": "371443"
+    },
+    {
+        "name": "Tata Play Gujarati Cinema",
+        "tvg_id": "ts772",
+        "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-47222-k1uh5c4g-v2/imageContent-47222-k1uh5c4g-m2.jpg",
+        "genre": "Gujarati",
+        "xml_id": "108879"
+    },
+    {
+        "name": "TV9 Gujarati HD",
+        "tvg_id": "ts489",
+        "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11875-j9l39efk-v2/imageContent-11875-j9l39efk-m2.jpg",
+        "genre": "Gujarati",
+        "xml_id": "5837"
+    },
+    {
+        "name": "VTV NEWS",
+        "tvg_id": "ts497",
+        "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11910-j9l58n8w-v2/imageContent-11910-j9l58n8w-m5.jpg",
+        "genre": "Gujarati",
+        "xml_id": "5853"
+    },
+    {
+        "name": "First India Rajasthan",
+        "tvg_id": "ts650",
+        "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-25046-jhir0kko-v1/imageContent-25046-jhir0kko-m1.jpg",
+        "genre": "Hindi",
+        "xml_id": "371555"
+    },
+    {
+        "name": "IBC 24",
+        "tvg_id": "ts27",
+        "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-76-j5fikkk8-v1/imageContent-76-j5fikkk8-m1.jpg",
+        "genre": "Hindi",
+        "xml_id": "371558"
+    },
+    {
+        "name": "News18 Bihar Jharkhand SD",
+        "tvg_id": "ts166",
+        "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-23207-jey39qsw-v1/imageContent-23207-jey39qsw-m2.jpg",
+        "genre": "Hindi",
+        "xml_id": "355557"
+    },
+    {
+        "name": "Tata Play Classic Cinema",
+        "tvg_id": "ts741",
+        "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-44332-jz3hpk2o-v3/imageContent-44332-jz3hpk2o-m3.jpg",
+        "genre": "Hindi",
+        "xml_id": "52496"
+    },
+    {
+        "name": "Tata Play ShortsTV",
+        "tvg_id": "ts677",
+        "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-34168-jok0hf00-v6/imageContent-34168-jok0hf00-m7.JPG",
+        "genre": "Hindi",
+        "xml_id": "52495"
+    },
+    {
+        "name": "Tata Play Theatre HD",
+        "tvg_id": "ts666",
+        "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-31417-jmb48u74-v3/imageContent-31417-jmb48u74-m4.jpg",
+        "genre": "Hindi",
+        "xml_id": "467662"
+    },
+    {
+        "name": "Zee Rajasthan news",
+        "tvg_id": "ts583",
+        "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12156-j9pd883k-v1/imageContent-12156-j9pd883k-m1.jpg",
+        "genre": "Hindi",
+        "xml_id": "7063"
+    },
+    {
+        "name": "ANIMAL PLANET HD",
+        "tvg_id": "1219",
+        "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Animal_Planet_HD_Tamil.png",
+        "genre": "Infotainment",
+        "xml_id": "98873"
+    },
+    {
+        "name": "ANIMAL PLANET HD",
+        "tvg_id": "1219",
+        "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Animal_Planet_HD_Tamil.png",
+        "genre": "Infotainment",
+        "xml_id": "182"
+    },
+    {
+        "name": "ANIMAL PLANET HD",
+        "tvg_id": "1219",
+        "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Animal_Planet_HD_Tamil.png",
+        "genre": "Infotainment",
+        "xml_id": "9391"
+    },
+    {
+        "name": "Ayush TV HD",
+        "tvg_id": "1075",
+        "logo": "https://img.media.jio.com/imagespublic/9/84/301242_1650271200283_l_high.jpg",
+        "genre": "Infotainment",
+        "xml_id": "9439"
+    },
+    {
+        "name": "D TAMIL",
+        "tvg_id": "569",
+        "logo": "https://img.media.jio.com/imagespublic/36/39/301586_1703068639388_l_high.jpg",
+        "genre": "Infotainment",
+        "xml_id": "26162"
+    },
+    {
+        "name": "DESI CHANNEL",
+        "tvg_id": "906",
+        "logo": "https://img.media.jio.com/imagespublic/9/66/301869_1729617307518_l_high.jpg",
+        "genre": "Infotainment",
+        "xml_id": "548"
+    },
+    {
+        "name": "DESI CHANNEL HD",
+        "tvg_id": "906",
+        "logo": "https://img.media.jio.com/imagespublic/9/66/301869_1729617307518_l_high.jpg",
+        "genre": "Infotainment",
+        "xml_id": "1360"
+    },
+    {
+        "name": "DISCOVERY HD",
+        "tvg_id": "576",
+        "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Channel_Telugu.png",
+        "genre": "Infotainment",
+        "xml_id": "98872"
+    },
+    {
+        "name": "DISCOVERY HD",
+        "tvg_id": "576",
+        "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Channel_Telugu.png",
+        "genre": "Infotainment",
+        "xml_id": "9393"
+    },
+    {
+        "name": "DISCOVERY WORLD HD",
+        "tvg_id": "463",
+        "logo": "https://img.media.jio.com/imagespublic/75/86/301592_1703070133926_l_high.jpg",
+        "genre": "Infotainment",
+        "xml_id": "156"
+    },
+    {
+        "name": "ETV Life",
+        "tvg_id": "570",
+        "logo": "https://img.media.jio.com/tvpimages/60/82/301696_1753178033326_l_high.jpg",
+        "genre": "Infotainment",
+        "xml_id": "9052"
+    },
+    {
+        "name": "Asianet Suvarna News",
+        "tvg_id": "ts555",
+        "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11961-j9lui4rc-v3/imageContent-11961-j9lui4rc-m4.jpg",
+        "genre": "Kannada",
+        "xml_id": "56037"
+    },
+    {
+        "name": "News18 Kannada HD",
+        "tvg_id": "ts85",
+        "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-9825-j85wb90g-v1/imageContent-9825-j85wb90g-m1.jpg",
+        "genre": "Kannada",
+        "xml_id": "9441"
+    },
+    {
+        "name": "STAR-SUVARNA HD",
+        "tvg_id": "1140",
+        "logo": "https://img.media.jio.com/tvpimages/82/94/302081_1753202838405_l_high.jpg",
+        "genre": "Kannada",
+        "xml_id": "98901"
+    },
+    {
+        "name": "STAR-SUVARNA HD",
+        "tvg_id": "1140",
+        "logo": "https://img.media.jio.com/tvpimages/82/94/302081_1753202838405_l_high.jpg",
+        "genre": "Kannada",
+        "xml_id": "23322"
+    },
+    {
+        "name": "Chutti Tv",
+        "tvg_id": "557",
+        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Chutti_TV.png",
+        "genre": "Kids",
+        "xml_id": "85931"
+    },
+    {
+        "name": "Kushi TV SD",
+        "tvg_id": "558",
+        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Kushi_TV.png",
+        "genre": "Kids",
+        "xml_id": "355504"
+    },
+    {
+        "name": "Tata Play Anime Local",
+        "tvg_id": "ts1363",
+        "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/TPANML_BoxCover-v2/TPANML_BoxCover.png",
+        "genre": "Kids",
+        "xml_id": "467679"
+    },
+    {
+        "name": "Tata Play Fun Learn Junior",
+        "tvg_id": "ts627",
+        "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-13095-jbdzn9og-v2/imageContent-13095-jbdzn9og-m2.jpg",
+        "genre": "Kids",
+        "xml_id": "467712"
+    },
+    {
+        "name": "NAT Geo Wild HD",
+        "tvg_id": "41659",
+        "logo": "https://img.media.jio.com/tvpimages/26/44/302105_1753203523108_l_high.jpg",
+        "genre": "Knowledge",
+        "xml_id": "98875"
+    },
+    {
+        "name": "NAT Geo Wild HD",
+        "tvg_id": "41659",
+        "logo": "https://img.media.jio.com/tvpimages/26/44/302105_1753203523108_l_high.jpg",
+        "genre": "Knowledge",
+        "xml_id": "9395"
+    },
+    {
+        "name": "NATGEO WILD HD",
+        "tvg_id": "41659",
+        "logo": "https://img.media.jio.com/tvpimages/26/44/302105_1753203523108_l_high.jpg",
+        "genre": "Knowledge",
+        "xml_id": "7344"
+    },
+    {
+        "name": "NATIONAL GEOGRAPHIC",
+        "tvg_id": "1406",
+        "logo": "https://img.media.jio.com/tvpimages/18/25/302075_1753187776038_l_high.jpg",
+        "genre": "Knowledge",
+        "xml_id": "7343"
+    },
+    {
+        "name": "Tata Play JEE Prep",
+        "tvg_id": "ts929",
+        "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-64067-kra2o75k-v2/imageContent-64067-kra2o75k-m2.jpg",
+        "genre": "Knowledge",
+        "xml_id": "467655"
+    },
+    {
+        "name": "Tata Play NEET Prep",
+        "tvg_id": "ts928",
+        "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-64064-kra2j2qo-v2/imageContent-64064-kra2j2qo-m2.jpg",
+        "genre": "Knowledge",
+        "xml_id": "467658"
+    },
+    {
+        "name": "Tata Play Vedic Maths",
+        "tvg_id": "ts167",
+        "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-705-j5l1whw8-v2/imageContent-705-j5l1whw8-m2.jpg",
+        "genre": "Knowledge",
+        "xml_id": "467663"
+    },
+    {
+        "name": "ETV Abhiruchi",
+        "tvg_id": "565",
+        "logo": "https://img.media.jio.com/tvpimages/47/30/301695_1753177738358_l_high.jpg",
+        "genre": "Lifestyle",
+        "xml_id": "9053"
+    },
+    {
+        "name": "Tata Play Beauty",
+        "tvg_id": "ts618",
+        "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12280-ja02jlp4-v2/imageContent-12280-ja02jlp4-m2.jpg",
+        "genre": "Lifestyle",
+        "xml_id": "3745"
+    },
+    {
+        "name": "Tata Play Cooking",
+        "tvg_id": "ts641",
+        "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-23493-jf92iycg-v3/imageContent-23493-jf92iycg-m4.jpg",
+        "genre": "Lifestyle",
+        "xml_id": "3748"
+    },
+    {
+        "name": "Tata Play Fitness",
+        "tvg_id": "ts121",
+        "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-403-j5jr3sz4-v2/imageContent-403-j5jr3sz4-m2.jpg",
+        "genre": "Lifestyle",
+        "xml_id": "108880"
+    },
+    {
+        "name": "TLC HD",
+        "tvg_id": "574",
+        "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/TLC_English.png",
+        "genre": "Lifestyle",
+        "xml_id": "98878"
+    },
+    {
+        "name": "TLC HD",
+        "tvg_id": "574",
+        "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/TLC_English.png",
+        "genre": "Lifestyle",
+        "xml_id": "9388"
+    },
+    {
+        "name": "TRAVEL XP",
+        "tvg_id": "814",
+        "logo": "https://img.media.jio.com/imagespublic/35/90/301141_1648464496542_l_high.jpg",
+        "genre": "Lifestyle",
+        "xml_id": "9972"
+    },
+    {
+        "name": "TRAVEL XP",
+        "tvg_id": "814",
+        "logo": "https://img.media.jio.com/imagespublic/35/90/301141_1648464496542_l_high.jpg",
+        "genre": "Lifestyle",
+        "xml_id": "1623"
+    },
+    {
+        "name": "TRAVEL XP HD",
+        "tvg_id": "814",
+        "logo": "https://img.media.jio.com/imagespublic/35/90/301141_1648464496542_l_high.jpg",
+        "genre": "Lifestyle",
+        "xml_id": "181"
+    },
+    {
+        "name": "Zee Zest",
+        "tvg_id": "2948",
+        "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Zest_SD.png",
+        "genre": "Lifestyle",
+        "xml_id": "380446"
+    },
+    {
+        "name": "Tata Play Malayalam Cinema",
+        "tvg_id": "ts622",
+        "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12923-jb5xf2nc-v2/imageContent-12923-jb5xf2nc-m2.jpg",
+        "genre": "Marathi",
+        "xml_id": "467656"
+    },
+    {
+        "name": "Tata Play Tamil Cinema",
+        "tvg_id": "ts622",
+        "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12923-jb5xf2nc-v2/imageContent-12923-jb5xf2nc-m2.jpg",
+        "genre": "Marathi",
+        "xml_id": "467660"
+    },
+    {
+        "name": "Tata Play Telugu Cinema",
+        "tvg_id": "ts622",
+        "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12923-jb5xf2nc-v2/imageContent-12923-jb5xf2nc-m2.jpg",
+        "genre": "Marathi",
+        "xml_id": "467661"
+    },
+    {
+        "name": "& FLIX HD",
+        "tvg_id": "3046",
+        "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/And_flix_SD.png",
+        "genre": "Movies",
+        "xml_id": "253"
+    },
+    {
+        "name": "& PICTURES HD",
+        "tvg_id": "ts148",
+        "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-500-j5jydpzk-v1/imageContent-500-j5jydpzk-m1.jpg",
+        "genre": "Movies",
+        "xml_id": "231"
+    },
+    {
+        "name": "& XPLOR HD",
+        "tvg_id": "ts1183",
+        "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/XPOHD_BoxCover-v1/XPOHD_BoxCover.png",
+        "genre": "Movies",
+        "xml_id": "20648"
+    },
+    {
+        "name": "&FLIX HD",
+        "tvg_id": "3046",
+        "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/And_flix_SD.png",
+        "genre": "Movies",
+        "xml_id": "98841"
+    },
+    {
+        "name": "&XPLOR",
+        "tvg_id": "ts1183",
+        "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/XPOHD_BoxCover-v1/XPOHD_BoxCover.png",
+        "genre": "Movies",
+        "xml_id": "4082"
+    },
+    {
+        "name": "B4U Kadak SD",
+        "tvg_id": "1295",
+        "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/B4U_Kadak.png",
+        "genre": "Movies",
+        "xml_id": "355545"
+    },
+    {
+        "name": "Colors Cineplex Bollywood",
+        "tvg_id": "1763",
+        "logo": "https://img.media.jio.com/imagespublic/26/56/301024_1619522312668_l_high.jpg",
+        "genre": "Movies",
+        "xml_id": "37074"
+    },
+    {
+        "name": "Colors Cineplex HD",
+        "tvg_id": "1477",
+        "logo": "https://img.media.jio.com/imagespublic/2/73/301385_1683104330011_l_high.jpg",
+        "genre": "Movies",
+        "xml_id": "98908"
+    },
+    {
+        "name": "Colors Cineplex HD",
+        "tvg_id": "1477",
+        "logo": "https://img.media.jio.com/imagespublic/2/73/301385_1683104330011_l_high.jpg",
+        "genre": "Movies",
+        "xml_id": "9378"
+    },
+    {
+        "name": "COLORS CINEPLEX SUPERHITS",
+        "tvg_id": "LIVETV_LIVETVCHANNEL_COLORS_CINEPLEX_SUPERHITS",
+        "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_CINEPLEX_SUPERHITS/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png",
+        "genre": "Movies",
+        "xml_id": "172368"
+    },
+    {
+        "name": "Colors Gujarati Cinema SD",
+        "tvg_id": "1324",
+        "logo": "https://img.media.jio.com/imagespublic/18/44/301383_1683103762734_l_high.jpg",
+        "genre": "Movies",
+        "xml_id": "355258"
+    },
+    {
+        "name": "Colors Kannada Cinema HD",
+        "tvg_id": "1657",
+        "logo": "https://img.media.jio.com/imagespublic/66/94/301386_1683104565715_l_high.jpg",
+        "genre": "Movies",
+        "xml_id": "9440"
+    },
+    {
+        "name": "ETV Cinema",
+        "tvg_id": "1665",
+        "logo": "https://img.media.jio.com/tvpimages/51/63/301703_1753177813592_l_high.jpg",
+        "genre": "Movies",
+        "xml_id": "9045"
+    },
+    {
+        "name": "GEMINI LIFE HD",
+        "tvg_id": "684",
+        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Gemini_Life.png",
+        "genre": "Movies",
+        "xml_id": "9044"
+    },
+    {
+        "name": "Gemini_Movies_HD",
+        "tvg_id": "899",
+        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Gemini_Movies_HD.png",
+        "genre": "Movies",
+        "xml_id": "212"
+    },
+    {
+        "name": "J MOVIES",
+        "tvg_id": "417",
+        "logo": "https://img.media.jio.com/tvpimages/58/39/301890_1732644999683_l_high.jpg",
+        "genre": "Movies",
+        "xml_id": "9022"
+    },
+    {
+        "name": "KTV HD",
+        "tvg_id": "894",
+        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/KTV_HD.png",
+        "genre": "Movies",
+        "xml_id": "98893"
+    },
+    {
+        "name": "KTV HD",
+        "tvg_id": "894",
+        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/KTV_HD.png",
+        "genre": "Movies",
+        "xml_id": "23318"
+    },
+    {
+        "name": "KTV HD",
+        "tvg_id": "894",
+        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/KTV_HD.png",
+        "genre": "Movies",
+        "xml_id": "160"
+    },
+    {
+        "name": "KTV HD",
+        "tvg_id": "894",
+        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/KTV_HD.png",
+        "genre": "Movies",
+        "xml_id": "5900"
+    },
+    {
+        "name": "Pitaara",
+        "tvg_id": "946",
+        "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Pitaara.png",
+        "genre": "Movies",
+        "xml_id": "227"
+    },
+    {
+        "name": "Pitaara Tv",
+        "tvg_id": "946",
+        "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Pitaara.png",
+        "genre": "Movies",
+        "xml_id": "532"
+    },
+    {
+        "name": "PTC Punjabi Gold HD",
+        "tvg_id": "1190",
+        "logo": "https://img.media.jio.com/imagespublic/46/22/PTCPunjabiGold_1604380662467_tv.jpg",
+        "genre": "Movies",
+        "xml_id": "42"
+    },
+    {
+        "name": "RAJ DIGITAL PLUS",
+        "tvg_id": "683",
+        "logo": "https://img.media.jio.com/imagespublic/11/19/301189_1645624547038_l_high.jpg",
+        "genre": "Movies",
+        "xml_id": "1616"
+    },
+    {
+        "name": "SONY MAX HD",
+        "tvg_id": "476",
+        "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Max_HD.png",
+        "genre": "Movies",
+        "xml_id": "98857"
+    },
+    {
+        "name": "SONY MAX HD",
+        "tvg_id": "476",
+        "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Max_HD.png",
+        "genre": "Movies",
+        "xml_id": "151"
+    },
+    {
+        "name": "SONY MAX HD",
+        "tvg_id": "476",
+        "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Max_HD.png",
+        "genre": "Movies",
+        "xml_id": "9373"
+    },
+    {
+        "name": "STAR GOLD 2",
+        "tvg_id": "1154",
+        "logo": "https://img.media.jio.com/tvpimages/87/52/302077_1753204067118_l_high.jpg",
+        "genre": "Movies",
+        "xml_id": "157081"
+    },
+    {
+        "name": "STAR GOLD HD",
+        "tvg_id": "1125",
+        "logo": "https://img.media.jio.com/tvpimages/11/79/302083_1753198669731_l_high.jpg",
+        "genre": "Movies",
+        "xml_id": "98858"
+    },
+    {
+        "name": "STAR GOLD HD",
+        "tvg_id": "1125",
+        "logo": "https://img.media.jio.com/tvpimages/11/79/302083_1753198669731_l_high.jpg",
+        "genre": "Movies",
+        "xml_id": "194"
+    },
+    {
+        "name": "Star GOLD HD",
+        "tvg_id": "1125",
+        "logo": "https://img.media.jio.com/tvpimages/11/79/302083_1753198669731_l_high.jpg",
+        "genre": "Movies",
+        "xml_id": "9375"
+    },
+    {
+        "name": "STAR GOLD SELECT HD",
+        "tvg_id": "1119",
+        "logo": "https://img.media.jio.com/tvpimages/81/53/302078_1753204173796_l_high.jpg",
+        "genre": "Movies",
+        "xml_id": "98859"
+    },
+    {
+        "name": "STAR GOLD SELECT HD",
+        "tvg_id": "1119",
+        "logo": "https://img.media.jio.com/tvpimages/81/53/302078_1753204173796_l_high.jpg",
+        "genre": "Movies",
+        "xml_id": "210"
+    },
+    {
+        "name": "Star Gold SELECT HD",
+        "tvg_id": "1119",
+        "logo": "https://img.media.jio.com/tvpimages/81/53/302078_1753204173796_l_high.jpg",
+        "genre": "Movies",
+        "xml_id": "9376"
+    },
+    {
+        "name": "STAR MAA MOVIES HD",
+        "tvg_id": "4459",
+        "logo": "https://img.media.jio.com/tvpimages/39/9/301985_1749652884224_l_high.jpg",
+        "genre": "Movies",
+        "xml_id": "9015"
+    },
+    {
+        "name": "STAR MOVIES HD",
+        "tvg_id": "1115",
+        "logo": "https://img.media.jio.com/tvpimages/30/15/301990_1753204237734_l_high.jpg",
+        "genre": "Movies",
+        "xml_id": "979"
+    },
+    {
+        "name": "STAR MOVIES HD",
+        "tvg_id": "1115",
+        "logo": "https://img.media.jio.com/tvpimages/30/15/301990_1753204237734_l_high.jpg",
+        "genre": "Movies",
+        "xml_id": "9384"
+    },
+    {
+        "name": "STAR MOVIES SELECT HD",
+        "tvg_id": "1110",
+        "logo": "https://img.media.jio.com/tvpimages/79/1/301984_1753202771128_l_high.jpg",
+        "genre": "Movies",
+        "xml_id": "218"
+    },
+    {
+        "name": "STAR MOVIES SELECT HD",
+        "tvg_id": "1110",
+        "logo": "https://img.media.jio.com/tvpimages/79/1/301984_1753202771128_l_high.jpg",
+        "genre": "Movies",
+        "xml_id": "23270"
+    },
+    {
+        "name": "SUN LIFE",
+        "tvg_id": "682",
+        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Sun_Life.png",
+        "genre": "Movies",
+        "xml_id": "1612"
+    },
+    {
+        "name": "SUN LIFE HD",
+        "tvg_id": "682",
+        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Sun_Life.png",
+        "genre": "Movies",
+        "xml_id": "5919"
+    },
+    {
+        "name": "SUN LIFE HD",
+        "tvg_id": "682",
+        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Sun_Life.png",
+        "genre": "Movies",
+        "xml_id": "5918"
+    },
+    {
+        "name": "Tata Play Bollywood Masala",
+        "tvg_id": "ts1130",
+        "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/BMSLA_BoxCover-v2/BMSLA_BoxCover.png",
+        "genre": "Movies",
+        "xml_id": "108874"
+    },
+    {
+        "name": "Tata Play Bollywood Premiere",
+        "tvg_id": "ts486",
+        "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-43897-jyofyk1s-v4/imageContent-43897-jyofyk1s-m4.png",
+        "genre": "Movies",
+        "xml_id": "467684"
+    },
+    {
+        "name": "Tata Play Bollywood Premiere HD",
+        "tvg_id": "ts486",
+        "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-43897-jyofyk1s-v4/imageContent-43897-jyofyk1s-m4.png",
+        "genre": "Movies",
+        "xml_id": "467485"
+    },
+    {
+        "name": "Tata Play South Talkies",
+        "tvg_id": "ts1003",
+        "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-72252-l6dn8nco-v3/imageContent-72252-l6dn8nco-m2.jpg",
+        "genre": "Movies",
+        "xml_id": "108878"
+    },
+    {
+        "name": "UDAYA MOVIES FHD",
+        "tvg_id": "678",
+        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Udaya_Movies.png",
+        "genre": "Movies",
+        "xml_id": "9448"
+    },
+    {
+        "name": "ZEE CINEMA HD",
+        "tvg_id": "685",
+        "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Bangla_Cinema.png",
+        "genre": "Movies",
+        "xml_id": "98860"
+    },
+    {
+        "name": "ZEE CINEMA HD",
+        "tvg_id": "685",
+        "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Bangla_Cinema.png",
+        "genre": "Movies",
+        "xml_id": "230"
+    },
+    {
+        "name": "Zee Cinemalu HD",
+        "tvg_id": "1363",
+        "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinemalu_HD.png",
+        "genre": "Movies",
+        "xml_id": "9016"
+    },
+    {
+        "name": "ZEE Picchar",
+        "tvg_id": "3047",
+        "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Picchar_SD.png",
+        "genre": "Movies",
+        "xml_id": "9452"
+    },
+    {
+        "name": "ZEE THIRAI",
+        "tvg_id": "3051",
+        "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Thirai_HD.png",
+        "genre": "Movies",
+        "xml_id": "181966"
+    },
+    {
+        "name": "Zee Thirai",
+        "tvg_id": "3051",
+        "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Thirai_HD.png",
+        "genre": "Movies",
+        "xml_id": "144636"
+    },
+    {
+        "name": "7X Music  HD",
+        "tvg_id": "1871",
+        "logo": "https://img.media.jio.com/tvpimages/29/51/301096_1754932091603_l_high.jpg",
+        "genre": "Music",
+        "xml_id": "4436"
+    },
+    {
+        "name": "9X Jalwa HD",
+        "tvg_id": "440",
+        "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/9X_Jalwa.png",
+        "genre": "Music",
+        "xml_id": "9057"
+    },
+    {
+        "name": "9X_Tashan HD",
+        "tvg_id": "732",
+        "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/9X_Tashan.png",
+        "genre": "Music",
+        "xml_id": "4441"
+    },
+    {
+        "name": "9XM",
+        "tvg_id": "587",
+        "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/9XM.png",
+        "genre": "Music",
+        "xml_id": "7255"
+    },
+    {
+        "name": "B4U Music",
+        "tvg_id": "183",
+        "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/B4U_Music.png",
+        "genre": "Music",
+        "xml_id": "7258"
+    },
+    {
+        "name": "Balle Balle",
+        "tvg_id": "1453",
+        "logo": "https://img.media.jio.com/imagespublic/49/77/301240_1650270908361_l_high.jpg",
+        "genre": "Music",
+        "xml_id": "43"
+    },
+    {
+        "name": "Balle Balle",
+        "tvg_id": "1453",
+        "logo": "https://img.media.jio.com/imagespublic/49/77/301240_1650270908361_l_high.jpg",
+        "genre": "Music",
+        "xml_id": "534596"
+    },
+    {
+        "name": "Boogle Bollywood",
+        "tvg_id": "962",
+        "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Boogle_Bollywood.png",
+        "genre": "Music",
+        "xml_id": "1361"
+    },
+    {
+        "name": "BRIT ASIA",
+        "tvg_id": "1192",
+        "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Brit_Asia.png",
+        "genre": "Music",
+        "xml_id": "5464"
+    },
+    {
+        "name": "Brit Asia HD",
+        "tvg_id": "1192",
+        "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Brit_Asia.png",
+        "genre": "Music",
+        "xml_id": "989"
+    },
+    {
+        "name": "GEMINI MUSIC",
+        "tvg_id": "898",
+        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Gemini_Music_HD.png",
+        "genre": "Music",
+        "xml_id": "23796"
+    },
+    {
+        "name": "Gemini_Music_HD",
+        "tvg_id": "898",
+        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Gemini_Music_HD.png",
+        "genre": "Music",
+        "xml_id": "213"
+    },
+    {
+        "name": "Ghaint Punjab HD",
+        "tvg_id": "2752",
+        "logo": "https://img.media.jio.com/imagespublic/35/12/301435_1685466790541_l_high.jpg",
+        "genre": "Music",
+        "xml_id": "4427"
+    },
+    {
+        "name": "JAYA MAX",
+        "tvg_id": "420",
+        "logo": "https://img.media.jio.com/tvpimages/95/92/301889_1732644802457_l_high.jpg",
+        "genre": "Music",
+        "xml_id": "240"
+    },
+    {
+        "name": "Mastiii",
+        "tvg_id": "584",
+        "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Mastiii.png",
+        "genre": "Music",
+        "xml_id": "7256"
+    },
+    {
+        "name": "MTV FHD",
+        "tvg_id": "1145",
+        "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/MTV_HD_Plus.png",
+        "genre": "Music",
+        "xml_id": "130045"
+    },
+    {
+        "name": "MTV HD PLUS",
+        "tvg_id": "1145",
+        "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/MTV_HD_Plus.png",
+        "genre": "Music",
+        "xml_id": "4029"
+    },
+    {
+        "name": "MTV HD Plus HD",
+        "tvg_id": "1145",
+        "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/MTV_HD_Plus.png",
+        "genre": "Music",
+        "xml_id": "23791"
+    },
+    {
+        "name": "MTV Plus",
+        "tvg_id": "1145",
+        "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/MTV_HD_Plus.png",
+        "genre": "Music",
+        "xml_id": "94499"
+    },
+    {
+        "name": "PTC CHAKDE",
+        "tvg_id": "1172",
+        "logo": "https://img.media.jio.com/imagespublic/35/46/PTCChakDe_1574668599455_tv.jpg",
+        "genre": "Music",
+        "xml_id": "39"
+    },
+    {
+        "name": "PTC MUSIC HD",
+        "tvg_id": "1189",
+        "logo": "https://img.media.jio.com/imagespublic/90/31/301726_1717607686408_l_high.jpg",
+        "genre": "Music",
+        "xml_id": "1355"
+    },
+    {
+        "name": "Public Music",
+        "tvg_id": "773",
+        "logo": "https://img.media.jio.com/tvpimages/22/88/300128_1754938245522_l_high.jpg",
+        "genre": "Music",
+        "xml_id": "128230"
+    },
+    {
+        "name": "Punjabi Hits",
+        "tvg_id": "2934",
+        "logo": "https://img.media.jio.com/tvpimages/71/80/301609_1754938301224_l_high.jpg",
+        "genre": "Music",
+        "xml_id": "534593"
+    },
+    {
+        "name": "Punjabi Melodies",
+        "tvg_id": "2325",
+        "logo": "https://img.media.jio.com/imagespublic/92/59/301327_1674808225577_l_high.jpg",
+        "genre": "Music",
+        "xml_id": "988"
+    },
+    {
+        "name": "Raj Music Kannada",
+        "tvg_id": "743",
+        "logo": "https://img.media.jio.com/imagespublic/14/80/301173_1643920711633_l_high.jpg",
+        "genre": "Music",
+        "xml_id": "128232"
+    },
+    {
+        "name": "Raj Music Telugu",
+        "tvg_id": "743",
+        "logo": "https://img.media.jio.com/imagespublic/14/80/301173_1643920711633_l_high.jpg",
+        "genre": "Music",
+        "xml_id": "243"
+    },
+    {
+        "name": "RAJ MUSIX TAMIL",
+        "tvg_id": "748",
+        "logo": "https://img.media.jio.com/imagespublic/39/94/301191_1645624908108_l_high.jpg",
+        "genre": "Music",
+        "xml_id": "9024"
+    },
+    {
+        "name": "SAGA MUSIC HD",
+        "tvg_id": "2750",
+        "logo": "https://img.media.jio.com/imagespublic/93/60/301437_1685467621816_l_high.jpg",
+        "genre": "Music",
+        "xml_id": "534594"
+    },
+    {
+        "name": "Star Maa Music",
+        "tvg_id": "1129",
+        "logo": "https://img.media.jio.com/tvpimages/80/40/301996_1753183284182_l_high.jpg",
+        "genre": "Music",
+        "xml_id": "57772"
+    },
+    {
+        "name": "Steelbird Music HD",
+        "tvg_id": "1184",
+        "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Steelbird_Music.png",
+        "genre": "Music",
+        "xml_id": "550"
+    },
+    {
+        "name": "SUN MUSIC HD",
+        "tvg_id": "895",
+        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Sun_Music_HD.png",
+        "genre": "Music",
+        "xml_id": "159"
+    },
+    {
+        "name": "SUN-MUSIC HD",
+        "tvg_id": "895",
+        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Sun_Music_HD.png",
+        "genre": "Music",
+        "xml_id": "98900"
+    },
+    {
+        "name": "SUN-MUSIC HD",
+        "tvg_id": "895",
+        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Sun_Music_HD.png",
+        "genre": "Music",
+        "xml_id": "23321"
+    },
+    {
+        "name": "udaya music",
+        "tvg_id": "744",
+        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Udaya_Music.png",
+        "genre": "Music",
+        "xml_id": "128231"
+    },
+    {
+        "name": "VH 1",
+        "tvg_id": "1378",
+        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/VH1.png",
+        "genre": "Music",
+        "xml_id": "453633"
+    },
+    {
+        "name": "WAH Punjabi",
+        "tvg_id": "1441",
+        "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Wah_Punjabi.png",
+        "genre": "Music",
+        "xml_id": "555"
+    },
+    {
+        "name": "Zing TV",
+        "tvg_id": "585",
+        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Zing.png",
+        "genre": "Music",
+        "xml_id": "970"
+    },
+    {
+        "name": "Zoom",
+        "tvg_id": "592",
+        "logo": "https://img.media.jio.com/tvpimages/60/15/301151_1753197717477_l_high.jpg",
+        "genre": "Music",
+        "xml_id": "9488"
+    },
+    {
+        "name": "Aaj_Tak",
+        "tvg_id": "173",
+        "logo": "https://img.media.jio.com/tvpimages/29/72/301036_1753187156517_l_high.jpg",
+        "genre": "News",
+        "xml_id": "5409"
+    },
+    {
+        "name": "AAJTAK",
+        "tvg_id": "173",
+        "logo": "https://img.media.jio.com/tvpimages/29/72/301036_1753187156517_l_high.jpg",
+        "genre": "News",
+        "xml_id": "23795"
+    },
+    {
+        "name": "ABN_Andhra_Jyothi",
+        "tvg_id": "666",
+        "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/ABN_Andhra_Jyothi.png",
+        "genre": "News",
+        "xml_id": "234"
+    },
+    {
+        "name": "ABP Asmita HD",
+        "tvg_id": "641",
+        "logo": "https://img.media.jio.com/tvpimages/42/76/300073_1753177322257_l_high.jpg",
+        "genre": "News",
+        "xml_id": "5832"
+    },
+    {
+        "name": "ABP NEWS",
+        "tvg_id": "ts177",
+        "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-757-j5m13014-v2/imageContent-757-j5m13014-m3.jpg",
+        "genre": "News",
+        "xml_id": "7260"
+    },
+    {
+        "name": "ABP Sanjha HD",
+        "tvg_id": "1291",
+        "logo": "https://img.media.jio.com/tvpimages/32/16/301470_1753177438620_l_high.jpg",
+        "genre": "News",
+        "xml_id": "4443"
+    },
+    {
+        "name": "Bharat 24",
+        "tvg_id": "2079",
+        "logo": "https://img.media.jio.com/imagespublic/97/22/301296_1662717439302_l_high.jpg",
+        "genre": "News",
+        "xml_id": "355094"
+    },
+    {
+        "name": "Bharat Samachar SD",
+        "tvg_id": "918",
+        "logo": "https://img.media.jio.com/tvpimages/42/52/300625_1754998707811_l_high.jpg",
+        "genre": "News",
+        "xml_id": "355095"
+    },
+    {
+        "name": "Chardikla Time TV",
+        "tvg_id": "517",
+        "logo": "https://img.media.jio.com/imagespublic/89/50/ChardiklaTimeTV_1574667809339_tv.jpg",
+        "genre": "News",
+        "xml_id": "4429"
+    },
+    {
+        "name": "Daily Post Punjab Haryana Himachal SD",
+        "tvg_id": "ts1078",
+        "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/DAILYP_BoxCover-v3/DAILYP_BoxCover.png",
+        "genre": "News",
+        "xml_id": "355552"
+    },
+    {
+        "name": "DD News",
+        "tvg_id": "203",
+        "logo": "https://img.media.jio.com/imagespublic/30/71/DDNews_1574777483286_tv.jpg",
+        "genre": "News",
+        "xml_id": "4043"
+    },
+    {
+        "name": "ETV AndhraPradesh",
+        "tvg_id": "614",
+        "logo": "https://img.media.jio.com/tvpimages/84/81/301697_1753177773674_l_high.jpg",
+        "genre": "News",
+        "xml_id": "9046"
+    },
+    {
+        "name": "ETV Telangana",
+        "tvg_id": "630",
+        "logo": "https://img.media.jio.com/tvpimages/11/27/301699_1753182132097_l_high.jpg",
+        "genre": "News",
+        "xml_id": "9050"
+    },
+    {
+        "name": "India Daily Live",
+        "tvg_id": "2772",
+        "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/India_Daily_Live.png",
+        "genre": "News",
+        "xml_id": "371559"
+    },
+    {
+        "name": "India news",
+        "tvg_id": "498",
+        "logo": "https://img.media.jio.com/imagespublic/28/0/300020_1620976172031_l_high.jpg",
+        "genre": "News",
+        "xml_id": "7431"
+    },
+    {
+        "name": "India News",
+        "tvg_id": "498",
+        "logo": "https://img.media.jio.com/imagespublic/28/0/300020_1620976172031_l_high.jpg",
+        "genre": "News",
+        "xml_id": "23248"
+    },
+    {
+        "name": "India News Gujarat SD",
+        "tvg_id": "1747",
+        "logo": "https://img.media.jio.com/imagespublic/62/18/301314_1669631765530_l_high.jpg",
+        "genre": "News",
+        "xml_id": "355493"
+    },
+    {
+        "name": "India TV NEWS",
+        "tvg_id": "498",
+        "logo": "https://img.media.jio.com/imagespublic/28/0/300020_1620976172031_l_high.jpg",
+        "genre": "News",
+        "xml_id": "23247"
+    },
+    {
+        "name": "INH 24X7 SD",
+        "tvg_id": "957",
+        "logo": "https://img.media.jio.com/imagespublic/64/84/301683_1713520727522_l_high.jpg",
+        "genre": "News",
+        "xml_id": "355487"
+    },
+    {
+        "name": "Khabarain Abhi Tak SD",
+        "tvg_id": "ts384",
+        "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11528-j9jtxb14-v2/imageContent-11528-j9jtxb14-m2.jpg",
+        "genre": "News",
+        "xml_id": "355554"
+    },
+    {
+        "name": "Living India News SD",
+        "tvg_id": "831",
+        "logo": "https://img.media.jio.com/tvpimages/70/31/301224_1742382028486_l_high.jpg",
+        "genre": "News",
+        "xml_id": "355555"
+    },
+    {
+        "name": "MALAI MURASU TV",
+        "tvg_id": "826",
+        "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Malai_Murasu.png",
+        "genre": "News",
+        "xml_id": "9023"
+    },
+    {
+        "name": "NDTV 24x7",
+        "tvg_id": "255",
+        "logo": "https://img.media.jio.com/imagespublic/51/46/301048_1715080023410_l_high.jpg",
+        "genre": "News",
+        "xml_id": "247"
+    },
+    {
+        "name": "NDTV INDIA",
+        "tvg_id": "258",
+        "logo": "https://img.media.jio.com/imagespublic/42/33/301049_1625144310739_l_high.jpg",
+        "genre": "News",
+        "xml_id": "7430"
+    },
+    {
+        "name": "NEWS 18 Gujarati HD",
+        "tvg_id": "620",
+        "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_News_Gujarati.png",
+        "genre": "News",
+        "xml_id": "5836"
+    },
+    {
+        "name": "NEWS 18 INDIA",
+        "tvg_id": "231",
+        "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/IBN_7.png",
+        "genre": "News",
+        "xml_id": "2436"
+    },
+    {
+        "name": "News 24 SD",
+        "tvg_id": "501",
+        "logo": "https://img.media.jio.com/imagespublic/32/92/News24_1580292444285_tv.jpg",
+        "genre": "News",
+        "xml_id": "355507"
+    },
+    {
+        "name": "NEWS 7 TAMIL HD",
+        "tvg_id": "673",
+        "logo": "https://img.media.jio.com/tvpimages/41/37/300091_1754938065512_l_high.jpg",
+        "genre": "News",
+        "xml_id": "5907"
+    },
+    {
+        "name": "News India 24x7 SD",
+        "tvg_id": "850",
+        "logo": "https://img.media.jio.com/tvpimages/73/63/300158_1756915074189_l_high.jpg",
+        "genre": "News",
+        "xml_id": "355509"
+    },
+    {
+        "name": "NEWS J",
+        "tvg_id": "1515",
+        "logo": "https://img.media.jio.com/imagespublic/40/61/NewsJ_1598533924312_tv.jpg",
+        "genre": "News",
+        "xml_id": "5908"
+    },
+    {
+        "name": "News State MP CG SD",
+        "tvg_id": "ts643",
+        "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-31192-jldnwi9k-v1/imageContent-31192-jldnwi9k-m1.jpg",
+        "genre": "News",
+        "xml_id": "355510"
+    },
+    {
+        "name": "News Tamil 24x7",
+        "tvg_id": "3042",
+        "logo": "https://img.media.jio.com/imagespublic/68/70/301715_1716849584659_l_high.jpg",
+        "genre": "News",
+        "xml_id": "160589"
+    },
+    {
+        "name": "News18 Rajasthan",
+        "tvg_id": "531",
+        "logo": "https://img.media.jio.com/tvpimages/88/32/300288_1753196564157_l_high.jpg",
+        "genre": "News",
+        "xml_id": "37071"
+    },
+    {
+        "name": "NTV Telugu",
+        "tvg_id": "646",
+        "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/NTV.png",
+        "genre": "News",
+        "xml_id": "235"
+    },
+    {
+        "name": "POLIMER NEWS",
+        "tvg_id": "636",
+        "logo": "https://img.media.jio.com/imagespublic/56/95/PolimerNews_1574670851302_tv.jpg",
+        "genre": "News",
+        "xml_id": "5911"
+    },
+    {
+        "name": "POLIMER NEWS",
+        "tvg_id": "636",
+        "logo": "https://img.media.jio.com/imagespublic/56/95/PolimerNews_1574670851302_tv.jpg",
+        "genre": "News",
+        "xml_id": "237"
+    },
+    {
+        "name": "PRIME ASIA",
+        "tvg_id": "3043",
+        "logo": "https://img.media.jio.com/imagespublic/68/27/301716_1716849739070_l_high.jpg",
+        "genre": "News",
+        "xml_id": "538"
+    },
+    {
+        "name": "PTC News (Punjabi)",
+        "tvg_id": "1170",
+        "logo": "https://img.media.jio.com/imagespublic/3/73/PTCNews_1574668623958_tv.jpg",
+        "genre": "News",
+        "xml_id": "4432"
+    },
+    {
+        "name": "Public_TV",
+        "tvg_id": "778",
+        "logo": "https://img.media.jio.com/tvpimages/89/24/300132_1754938273829_l_high.jpg",
+        "genre": "News",
+        "xml_id": "9443"
+    },
+    {
+        "name": "RAJ NEWS",
+        "tvg_id": "664",
+        "logo": "https://img.media.jio.com/imagespublic/18/25/RajNewsTelugu_1574671122921_tv.jpg",
+        "genre": "News",
+        "xml_id": "52504"
+    },
+    {
+        "name": "Raj News Tamil",
+        "tvg_id": "664",
+        "logo": "https://img.media.jio.com/imagespublic/18/25/RajNewsTelugu_1574671122921_tv.jpg",
+        "genre": "News",
+        "xml_id": "380978"
+    },
+    {
+        "name": "REPUBLIC BHARAT",
+        "tvg_id": "1403",
+        "logo": "https://img.media.jio.com/tvpimages/50/96/301371_1753183516991_l_high.jpg",
+        "genre": "News",
+        "xml_id": "609629"
+    },
+    {
+        "name": "Republic TV (English)",
+        "tvg_id": "858",
+        "logo": "https://img.media.jio.com/tvpimages/28/84/300162_1753192147212_l_high.jpg",
+        "genre": "News",
+        "xml_id": "9056"
+    },
+    {
+        "name": "Republic TV HD",
+        "tvg_id": "858",
+        "logo": "https://img.media.jio.com/tvpimages/28/84/300162_1753192147212_l_high.jpg",
+        "genre": "News",
+        "xml_id": "9080"
+    },
+    {
+        "name": "Sandesh News HD",
+        "tvg_id": "782",
+        "logo": "https://img.media.jio.com/imagespublic/88/72/SandeshNews_1574668820001_tv.jpg",
+        "genre": "News",
+        "xml_id": "5844"
+    },
+    {
+        "name": "SUN NEWS",
+        "tvg_id": "676",
+        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Sun_News.png",
+        "genre": "News",
+        "xml_id": "1613"
+    },
+    {
+        "name": "SUN NEWS",
+        "tvg_id": "676",
+        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Sun_News.png",
+        "genre": "News",
+        "xml_id": "5924"
+    },
+    {
+        "name": "Suvarna News HD",
+        "tvg_id": "626",
+        "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Suvarna_News.png",
+        "genre": "News",
+        "xml_id": "9444"
+    },
+    {
+        "name": "Suvarna_News",
+        "tvg_id": "626",
+        "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Suvarna_News.png",
+        "genre": "News",
+        "xml_id": "236"
+    },
+    {
+        "name": "Swadesh News",
+        "tvg_id": "1185",
+        "logo": "https://img.media.jio.com/imagespublic/70/94/301527_1694786526675_l_high.jpg",
+        "genre": "News",
+        "xml_id": "376295"
+    },
+    {
+        "name": "T News HD",
+        "tvg_id": "667",
+        "logo": "https://img.media.jio.com/imagespublic/80/71/TNews_1574671498628_tv.jpg",
+        "genre": "News",
+        "xml_id": "9049"
+    },
+    {
+        "name": "Tamil Janam",
+        "tvg_id": "3045",
+        "logo": "https://img.media.jio.com/imagespublic/31/67/301719_1717061594995_l_high.jpg",
+        "genre": "News",
+        "xml_id": "376319"
+    },
+    {
+        "name": "THANTHI TV",
+        "tvg_id": "830",
+        "logo": "https://img.media.jio.com/tvpimages/72/24/300151_1733311025163_l_high.jpg",
+        "genre": "News",
+        "xml_id": "111034"
+    },
+    {
+        "name": "Times Now World HD",
+        "tvg_id": "876",
+        "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Times_Now_HD.png",
+        "genre": "News",
+        "xml_id": "124897"
+    },
+    {
+        "name": "TV 5 News",
+        "tvg_id": "668",
+        "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/TV_5_News.png",
+        "genre": "News",
+        "xml_id": "170"
+    },
+    {
+        "name": "TV9",
+        "tvg_id": "1735",
+        "logo": "https://img.media.jio.com/tvpimages/43/95/301139_1753182832457_l_high.jpg",
+        "genre": "News",
+        "xml_id": "379779"
+    },
+    {
+        "name": "TV9 BHARATVARSH",
+        "tvg_id": "1251",
+        "logo": "https://img.media.jio.com/tvpimages/11/38/301143_1753182864730_l_high.jpg",
+        "genre": "News",
+        "xml_id": "379763"
+    },
+    {
+        "name": "Tv9 Kannada",
+        "tvg_id": "1735",
+        "logo": "https://img.media.jio.com/tvpimages/43/95/301139_1753182832457_l_high.jpg",
+        "genre": "News",
+        "xml_id": "9446"
+    },
+    {
+        "name": "TV9 NEWS HD",
+        "tvg_id": "618",
+        "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/TV9_Telugu_News.png",
+        "genre": "News",
+        "xml_id": "9047"
+    },
+    {
+        "name": "V6_News",
+        "tvg_id": "769",
+        "logo": "https://img.media.jio.com/imagespublic/26/21/V6News_1574692772628_tv.jpg",
+        "genre": "News",
+        "xml_id": "228"
+    },
+    {
+        "name": "WION TV",
+        "tvg_id": "412",
+        "logo": "https://img.media.jio.com/tvpimages/43/44/301341_1753198994906_l_high.jpg",
+        "genre": "News",
+        "xml_id": "9481"
+    },
+    {
+        "name": "Zee 24 Kalak HD",
+        "tvg_id": "929",
+        "logo": "https://img.media.jio.com/tvpimages/35/71/301354_1753198858853_l_high.jpg",
+        "genre": "News",
+        "xml_id": "5833"
+    },
+    {
+        "name": "Zee Bharat SD",
+        "tvg_id": "652",
+        "logo": "https://img.media.jio.com/tvpimages/1/97/301346_1753198892335_l_high.jpg",
+        "genre": "News",
+        "xml_id": "355562"
+    },
+    {
+        "name": "ZEE Kannada NEWS",
+        "tvg_id": "3031",
+        "logo": "https://img.media.jio.com/tvpimages/5/33/301705_1753199365261_l_high.jpg",
+        "genre": "News",
+        "xml_id": "380448"
+    },
+    {
+        "name": "Zee News",
+        "tvg_id": "3031",
+        "logo": "https://img.media.jio.com/tvpimages/5/33/301705_1753199365261_l_high.jpg",
+        "genre": "News",
+        "xml_id": "7259"
+    },
+    {
+        "name": "Zee Punjabi News",
+        "tvg_id": "3031",
+        "logo": "https://img.media.jio.com/tvpimages/5/33/301705_1753199365261_l_high.jpg",
+        "genre": "News",
+        "xml_id": "1373"
+    },
+    {
+        "name": "Zee Telugu News",
+        "tvg_id": "3031",
+        "logo": "https://img.media.jio.com/tvpimages/5/33/301705_1753199365261_l_high.jpg",
+        "genre": "News",
+        "xml_id": "380447"
+    },
+    {
+        "name": "NEWS LIVE",
+        "tvg_id": "ts226",
+        "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-957-j5mipo0w-v1/imageContent-957-j5mipo0w-m1.jpg",
+        "genre": "Others",
+        "xml_id": "374586"
+    },
+    {
+        "name": "MH ONE",
+        "tvg_id": "ts399",
+        "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11584-j9jyt26w-v1/imageContent-11584-j9jyt26w-m1.jpg",
+        "genre": "Punjabi",
+        "xml_id": "88"
+    },
+    {
+        "name": "MH One Shraddha",
+        "tvg_id": "ts397",
+        "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11591-j9jyx7vs-v1/imageContent-11591-j9jyx7vs-m1.jpg",
+        "genre": "Punjabi",
+        "xml_id": "371561"
+    },
+    {
+        "name": "Tata Play Punjab De Rang",
+        "tvg_id": "ts571",
+        "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-68738-kywk7u6g-v1/imageContent-68738-kywk7u6g-m1.png",
+        "genre": "Punjabi",
+        "xml_id": "7724"
+    },
+    {
+        "name": "Tata Play Aradhana",
+        "tvg_id": "ts742",
+        "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/TSARAD_BoxCover-v7/TSARAD_BoxCover.png",
+        "genre": "Spiritual",
+        "xml_id": "467483"
+    },
+    {
+        "name": "Tata Play Astro Duniya",
+        "tvg_id": "ts872",
+        "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-58611-kj283ly8-v2/imageContent-58611-kj283ly8-m3.jpg",
+        "genre": "Spiritual",
+        "xml_id": "467223"
+    },
+    {
+        "name": "Tata Play Ibaadat",
+        "tvg_id": "ts735",
+        "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-44320-jz2zb6e8-v3/imageContent-44320-jz2zb6e8-m3.jpg",
+        "genre": "Spiritual",
+        "xml_id": "3749"
+    },
+    {
+        "name": "ANGEL TV HD",
+        "tvg_id": "ts282",
+        "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11228-j9icx1i0-v2/imageContent-11228-j9icx1i0-m2.jpg",
+        "genre": "Tamil",
+        "xml_id": "5881"
+    },
+    {
+        "name": "ANGEL TV HD",
+        "tvg_id": "ts282",
+        "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11228-j9icx1i0-v2/imageContent-11228-j9icx1i0-m2.jpg",
+        "genre": "Tamil",
+        "xml_id": "189"
+    },
+    {
+        "name": "ANGEL TV HD",
+        "tvg_id": "ts282",
+        "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11228-j9icx1i0-v2/imageContent-11228-j9icx1i0-m2.jpg",
+        "genre": "Tamil",
+        "xml_id": "5882"
+    },
+    {
+        "name": "ANGEL TV HD",
+        "tvg_id": "ts282",
+        "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11228-j9icx1i0-v2/imageContent-11228-j9icx1i0-m2.jpg",
+        "genre": "Tamil",
+        "xml_id": "5883"
+    },
+    {
+        "name": "ISAI ARUVI",
+        "tvg_id": "ts647",
+        "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-24576-jgotgry0-v1/imageContent-24576-jgotgry0-m1.png",
+        "genre": "Tamil",
+        "xml_id": "26165"
+    },
+    {
+        "name": "MEGA MUSIQ",
+        "tvg_id": "ts400",
+        "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11581-j9jype8w-v3/imageContent-11581-j9jype8w-m3.jpg",
+        "genre": "Tamil",
+        "xml_id": "26164"
+    },
+    {
+        "name": "MEGA TV",
+        "tvg_id": "ts37",
+        "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-109-j5fl5xo8-v1/imageContent-109-j5fl5xo8-m1.jpg",
+        "genre": "Tamil",
+        "xml_id": "28141"
+    },
+    {
+        "name": "MURASU TV",
+        "tvg_id": "ts411",
+        "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11614-j9k04eo0-v1/imageContent-11614-j9k04eo0-m1.jpg",
+        "genre": "Tamil",
+        "xml_id": "29086"
+    },
+    {
+        "name": "NEWS 18 TAMIL NADU HD",
+        "tvg_id": "ts58",
+        "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-190-j5fsr3s0-v1/imageContent-190-j5fsr3s0-m1.jpg",
+        "genre": "Tamil",
+        "xml_id": "5906"
+    },
+    {
+        "name": "PUTHIYA THALAIMURAI TV HD",
+        "tvg_id": "ts220",
+        "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-880-j5mdrg4o-v1/imageContent-880-j5mdrg4o-m1.jpg",
+        "genre": "Tamil",
+        "xml_id": "5910"
+    },
+    {
+        "name": "SIRIPPOLI TV",
+        "tvg_id": "ts611",
+        "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12245-j9qq7lkw-v1/imageContent-12245-j9qq7lkw-m1.jpg",
+        "genre": "Tamil",
+        "xml_id": "5932"
+    },
+    {
+        "name": "STAR VIJAY HD",
+        "tvg_id": "1130",
+        "logo": "https://img.media.jio.com/tvpimages/1/40/302093_1753203140323_l_high.jpg",
+        "genre": "Tamil",
+        "xml_id": "157"
+    },
+    {
+        "name": "STAR VIJAY HD",
+        "tvg_id": "1130",
+        "logo": "https://img.media.jio.com/tvpimages/1/40/302093_1753203140323_l_high.jpg",
+        "genre": "Tamil",
+        "xml_id": "5915"
+    },
+    {
+        "name": "Aradana SD",
+        "tvg_id": "ts285",
+        "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11222-j9iclykw-v1/imageContent-11222-j9iclykw-m2.jpg",
+        "genre": "Telugu",
+        "xml_id": "355093"
+    },
+    {
+        "name": "STAR MAA GOLD",
+        "tvg_id": "41439",
+        "logo": "https://img.media.jio.com/tvpimages/92/8/302001_1753187715915_l_high.jpg",
+        "genre": "Telugu",
+        "xml_id": "9043"
+    },
+    {
+        "name": "STAR MAA TV HD",
+        "tvg_id": "41408",
+        "logo": "https://img.media.jio.com/tvpimages/93/74/302110_1749653065828_l_high.jpg",
+        "genre": "Telugu",
+        "xml_id": "168"
+    },
+    {
+        "name": "Tata Play English in Hindi",
+        "tvg_id": "ts645",
+        "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-23719-jg0fhacg-v2/imageContent-23719-jg0fhacg-m2.JPG",
+        "genre": "Telugu",
+        "xml_id": "467709"
+    },
+    {
+        "name": "Tata Play English in Telugu",
+        "tvg_id": "ts645",
+        "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-23719-jg0fhacg-v2/imageContent-23719-jg0fhacg-m2.JPG",
+        "genre": "Telugu",
+        "xml_id": "467711"
+    },
+    {
+        "name": "TV5 News HD",
+        "tvg_id": "ts320",
+        "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11327-j9jot000-v2/imageContent-11327-j9jot000-m2.jpg",
+        "genre": "Telugu",
+        "xml_id": "9445"
+    },
+    {
+        "name": "CNBC Bajar GUJRATI HD",
+        "tvg_id": "",
+        "logo": "",
+        "genre": "Gujarati",
+        "xml_id": "5838"
+    },
+    {
+        "name": "GSTV HD",
+        "tvg_id": "",
+        "logo": "",
+        "genre": "Gujarati",
+        "xml_id": "5840"
+    },
+    {
+        "name": "Gujarat First SD",
+        "tvg_id": "",
+        "logo": "",
+        "genre": "Gujarati",
+        "xml_id": "355553"
+    },
+    {
+        "name": "India News Gujrat(lk)",
+        "tvg_id": "",
+        "logo": "",
+        "genre": "Gujarati",
+        "xml_id": "5847"
+    },
+    {
+        "name": "Mantavya News Gujrat",
+        "tvg_id": "",
+        "logo": "",
+        "genre": "Gujarati",
+        "xml_id": "5848"
+    },
+    {
+        "name": "HISTORY 18",
+        "tvg_id": "",
+        "logo": "",
+        "genre": "DOCUMENTARY",
+        "xml_id": "5252"
+    },
+    {
+        "name": "HISTORY HD",
+        "tvg_id": "",
+        "logo": "",
+        "genre": "DOCUMENTARY",
+        "xml_id": "180"
+    },
+    {
+        "name": "HISTORY TV HD",
+        "tvg_id": "",
+        "logo": "",
+        "genre": "DOCUMENTARY",
+        "xml_id": "98877"
+    },
+    {
+        "name": "HISTORY TV HD",
+        "tvg_id": "",
+        "logo": "",
+        "genre": "DOCUMENTARY",
+        "xml_id": "9392"
+    },
+    {
+        "name": "National GEO HD",
+        "tvg_id": "",
+        "logo": "",
+        "genre": "DOCUMENTARY",
+        "xml_id": "98874"
+    },
+    {
+        "name": "National GEO HD",
+        "tvg_id": "",
+        "logo": "",
+        "genre": "DOCUMENTARY",
+        "xml_id": "9394"
+    },
+    {
+        "name": "NATIONAL GEOGRAPHIC INDIA",
+        "tvg_id": "",
+        "logo": "",
+        "genre": "DOCUMENTARY",
+        "xml_id": "7342"
+    },
+    {
+        "name": "SONY BBC EARTH HD (ENG)",
+        "tvg_id": "",
+        "logo": "",
+        "genre": "DOCUMENTARY",
+        "xml_id": "174"
+    },
+    {
+        "name": "TravelXp HD (ENG)",
+        "tvg_id": "",
+        "logo": "",
+        "genre": "DOCUMENTARY",
+        "xml_id": "143205"
+    },
+    {
+        "name": "& PRIVE HD",
+        "tvg_id": "",
+        "logo": "",
+        "genre": "English Movies",
+        "xml_id": "201"
+    },
+    {
+        "name": "& PRIVE HD",
+        "tvg_id": "",
+        "logo": "",
+        "genre": "English Movies",
+        "xml_id": "9379"
+    },
+    {
+        "name": "&PRIVE HD",
+        "tvg_id": "",
+        "logo": "",
+        "genre": "English Movies",
+        "xml_id": "98840"
+    },
+    {
+        "name": "HBO 2 HD",
+        "tvg_id": "",
+        "logo": "",
+        "genre": "English Movies",
+        "xml_id": "185"
+    },
+    {
+        "name": "STAR MOVIE HD",
+        "tvg_id": "",
+        "logo": "",
+        "genre": "English Movies",
+        "xml_id": "98842"
+    },
+    {
+        "name": "STAR MOVIE SELECT HD",
+        "tvg_id": "",
+        "logo": "",
+        "genre": "English Movies",
+        "xml_id": "98843"
+    },
+    {
+        "name": "& TV HD",
+        "tvg_id": "",
+        "logo": "",
+        "genre": "Entertainment",
+        "xml_id": "232"
+    },
+    {
+        "name": "&TV HD",
+        "tvg_id": "",
+        "logo": "",
+        "genre": "Entertainment",
+        "xml_id": "98852"
+    },
+    {
+        "name": "&TV HD",
+        "tvg_id": "",
+        "logo": "",
+        "genre": "Entertainment",
+        "xml_id": "9369"
+    },
+    {
+        "name": "COLOR HD",
+        "tvg_id": "",
+        "logo": "",
+        "genre": "Entertainment",
+        "xml_id": "219"
+    },
+    {
+        "name": "ZEETV HD",
+        "tvg_id": "",
+        "logo": "",
+        "genre": "Entertainment",
+        "xml_id": "98850"
+    },
+    {
+        "name": "&PICTURE HD",
+        "tvg_id": "",
+        "logo": "",
+        "genre": "Movies",
+        "xml_id": "98856"
+    },
+    {
+        "name": "CINEPLEX HD",
+        "tvg_id": "",
+        "logo": "",
+        "genre": "Movies",
+        "xml_id": "867"
+    },
+    {
+        "name": "MBC BOLLYWOOD HD",
+        "tvg_id": "",
+        "logo": "",
+        "genre": "Movies",
+        "xml_id": "20512"
+    },
+    {
+        "name": "IN : B4U Plus",
+        "tvg_id": "",
+        "logo": "",
+        "genre": "Music",
+        "xml_id": "969"
+    },
+    {
+        "name": "Tata Play Classroom",
+        "tvg_id": "",
+        "logo": "",
+        "genre": "Entertainment",
+        "xml_id": "467491"
+    },
+    {
+        "name": "Tata Play Comedy",
+        "tvg_id": "",
+        "logo": "",
+        "genre": "Entertainment",
+        "xml_id": "467699"
+    },
+    {
+        "name": "Tata Play Dance Studio",
+        "tvg_id": "",
+        "logo": "",
+        "genre": "Entertainment",
+        "xml_id": "467492"
+    },
+    {
+        "name": "Tata Play Darshan",
+        "tvg_id": "",
+        "logo": "",
+        "genre": "Entertainment",
+        "xml_id": "467701"
+    },
+    {
+        "name": "Tata Play Filmy Safar",
+        "tvg_id": "",
+        "logo": "",
+        "genre": "Entertainment",
+        "xml_id": "467493"
+    },
+    {
+        "name": "Tata Play Music",
+        "tvg_id": "",
+        "logo": "",
+        "genre": "Entertainment",
+        "xml_id": "467657"
+    },
+    {
+        "name": "Tata Play Specials",
+        "tvg_id": "",
+        "logo": "",
+        "genre": "Entertainment",
+        "xml_id": "467659"
+    },
+    {
+        "name": "Tata Play Videoshala",
+        "tvg_id": "",
+        "logo": "",
+        "genre": "Entertainment",
+        "xml_id": "467664"
+    },
+    {
+        "name": "Tata Play Welcome",
+        "tvg_id": "",
+        "logo": "",
+        "genre": "Entertainment",
+        "xml_id": "467673"
+    },
+    {
+        "name": "Tata Play Zindgi",
+        "tvg_id": "",
+        "logo": "",
+        "genre": "Entertainment",
+        "xml_id": "108882"
+    },
+    {
+        "name": "1st India (News)",
+        "tvg_id": "",
+        "logo": "",
+        "genre": "News",
+        "xml_id": "9974"
+    },
+    {
+        "name": "CNBC Awaaz (News) HD",
+        "tvg_id": "",
+        "logo": "",
+        "genre": "News",
+        "xml_id": "9116"
+    },
+    {
+        "name": "CNBC Tv 18 (News)",
+        "tvg_id": "",
+        "logo": "",
+        "genre": "News",
+        "xml_id": "9117"
+    },
+    {
+        "name": "GNT NEWS",
+        "tvg_id": "",
+        "logo": "",
+        "genre": "News",
+        "xml_id": "156011"
+    },
+    {
+        "name": "Good news TV",
+        "tvg_id": "",
+        "logo": "",
+        "genre": "News",
+        "xml_id": "9041"
+    },
+    {
+        "name": "INDIA TODAY (News)",
+        "tvg_id": "",
+        "logo": "",
+        "genre": "News",
+        "xml_id": "35714"
+    },
+    {
+        "name": "NDTV Profit (news)",
+        "tvg_id": "",
+        "logo": "",
+        "genre": "News",
+        "xml_id": "7437"
+    },
+    {
+        "name": "News18 India (News)",
+        "tvg_id": "",
+        "logo": "",
+        "genre": "News",
+        "xml_id": "7436"
+    },
+    {
+        "name": "News18 MP Chhattisgarh SD",
+        "tvg_id": "",
+        "logo": "",
+        "genre": "News",
+        "xml_id": "355511"
+    },
+    {
+        "name": "News18 News UP",
+        "tvg_id": "",
+        "logo": "",
+        "genre": "News",
+        "xml_id": "7435"
+    },
+    {
+        "name": "TimesNow NavaBharat",
+        "tvg_id": "",
+        "logo": "",
+        "genre": "News",
+        "xml_id": "155585"
+    },
+    {
+        "name": "Zee Business (News)",
+        "tvg_id": "",
+        "logo": "",
+        "genre": "News",
+        "xml_id": "23938"
+    },
+    {
+        "name": "Zee MP (News)",
+        "tvg_id": "",
+        "logo": "",
+        "genre": "News",
+        "xml_id": "9725"
+    },
+    {
+        "name": "Prajaa TV HD",
+        "tvg_id": "",
+        "logo": "",
+        "genre": "Kannada",
+        "xml_id": "9442"
+    },
+    {
+        "name": "Republic News Kannada",
+        "tvg_id": "",
+        "logo": "",
+        "genre": "Kannada",
+        "xml_id": "252457"
+    },
+    {
+        "name": "Suvarna Plus",
+        "tvg_id": "",
+        "logo": "",
+        "genre": "Kannada",
+        "xml_id": "150701"
+    },
+    {
+        "name": "UDAYA TV FHD-(usa)",
+        "tvg_id": "",
+        "logo": "",
+        "genre": "Kannada",
+        "xml_id": "9451"
+    },
+    {
+        "name": "5 aab",
+        "tvg_id": "",
+        "logo": "",
+        "genre": "Punjabi",
+        "xml_id": "1364"
+    },
+    {
+        "name": "5AAB TV",
+        "tvg_id": "",
+        "logo": "",
+        "genre": "Punjabi",
+        "xml_id": "547"
+    },
+    {
+        "name": "5AAB TV",
+        "tvg_id": "",
+        "logo": "",
+        "genre": "Punjabi",
+        "xml_id": "1362"
+    },
+    {
+        "name": "5aabTV Gurbani HD",
+        "tvg_id": "",
+        "logo": "",
+        "genre": "Punjabi",
+        "xml_id": "1904"
+    },
+    {
+        "name": "Akaal Channel",
+        "tvg_id": "",
+        "logo": "",
+        "genre": "Punjabi",
+        "xml_id": "528"
+    },
+    {
+        "name": "BBC Toronto",
+        "tvg_id": "",
+        "logo": "",
+        "genre": "Punjabi",
+        "xml_id": "554"
+    },
+    {
+        "name": "BOL HADIPA",
+        "tvg_id": "",
+        "logo": "",
+        "genre": "Punjabi",
+        "xml_id": "541"
+    },
+    {
+        "name": "CHANNEL Y",
+        "tvg_id": "",
+        "logo": "",
+        "genre": "Punjabi",
+        "xml_id": "4430"
+    },
+    {
+        "name": "DESI TV",
+        "tvg_id": "",
+        "logo": "",
+        "genre": "Punjabi",
+        "xml_id": "4437"
+    },
+    {
+        "name": "Dukh Niwaran Ludhiana",
+        "tvg_id": "",
+        "logo": "",
+        "genre": "Punjabi",
+        "xml_id": "84"
+    },
+    {
+        "name": "Dukh Niwaran Sahib Surrey",
+        "tvg_id": "",
+        "logo": "",
+        "genre": "Punjabi",
+        "xml_id": "537"
+    },
+    {
+        "name": "Dukh Niwaran TV",
+        "tvg_id": "",
+        "logo": "",
+        "genre": "Punjabi",
+        "xml_id": "544"
+    },
+    {
+        "name": "Ekta TV Gurbani",
+        "tvg_id": "",
+        "logo": "",
+        "genre": "Punjabi",
+        "xml_id": "4426"
+    },
+    {
+        "name": "Garv Punjab Gurbani",
+        "tvg_id": "",
+        "logo": "",
+        "genre": "Punjabi",
+        "xml_id": "530"
+    },
+    {
+        "name": "GDNS Ludhiana",
+        "tvg_id": "",
+        "logo": "",
+        "genre": "Punjabi",
+        "xml_id": "4442"
+    },
+    {
+        "name": "GURBANI HEALING",
+        "tvg_id": "",
+        "logo": "",
+        "genre": "Punjabi",
+        "xml_id": "4431"
+    },
+    {
+        "name": "Gurdwara Dukh Nivaran (BC)",
+        "tvg_id": "",
+        "logo": "",
+        "genre": "Punjabi",
+        "xml_id": "83"
+    },
+    {
+        "name": "Gurvaani TV",
+        "tvg_id": "",
+        "logo": "",
+        "genre": "Punjabi",
+        "xml_id": "542"
+    },
+    {
+        "name": "Hamdard Laugther HD",
+        "tvg_id": "",
+        "logo": "",
+        "genre": "Punjabi",
+        "xml_id": "527"
+    },
+    {
+        "name": "JUS Punjabi",
+        "tvg_id": "",
+        "logo": "",
+        "genre": "Punjabi",
+        "xml_id": "526"
+    },
+    {
+        "name": "KABBADI",
+        "tvg_id": "",
+        "logo": "",
+        "genre": "Punjabi",
+        "xml_id": "529"
+    },
+    {
+        "name": "NAMDHARI TV",
+        "tvg_id": "",
+        "logo": "",
+        "genre": "Punjabi",
+        "xml_id": "539"
+    },
+    {
+        "name": "Namdhari TV",
+        "tvg_id": "",
+        "logo": "",
+        "genre": "Punjabi",
+        "xml_id": "1359"
+    },
+    {
+        "name": "News18 Punjab/Haryana/Himachal",
+        "tvg_id": "",
+        "logo": "",
+        "genre": "Punjabi",
+        "xml_id": "1374"
+    },
+    {
+        "name": "PARDESI",
+        "tvg_id": "",
+        "logo": "",
+        "genre": "Punjabi",
+        "xml_id": "531"
+    },
+    {
+        "name": "PITARA MOVIES HD",
+        "tvg_id": "",
+        "logo": "",
+        "genre": "Punjabi",
+        "xml_id": "536"
+    },
+    {
+        "name": "Politics Punjabi",
+        "tvg_id": "",
+        "logo": "",
+        "genre": "Punjabi",
+        "xml_id": "557"
+    },
+    {
+        "name": "PTC Punjabi | USA",
+        "tvg_id": "",
+        "logo": "",
+        "genre": "Punjabi",
+        "xml_id": "606245"
+    },
+    {
+        "name": "PTN 24",
+        "tvg_id": "",
+        "logo": "",
+        "genre": "Punjabi",
+        "xml_id": "1903"
+    },
+    {
+        "name": "PTV Pardesi",
+        "tvg_id": "",
+        "logo": "",
+        "genre": "Punjabi",
+        "xml_id": "546"
+    },
+    {
+        "name": "SADA PUNJAB",
+        "tvg_id": "",
+        "logo": "",
+        "genre": "Punjabi",
+        "xml_id": "1378"
+    },
+    {
+        "name": "SADA TV HD",
+        "tvg_id": "",
+        "logo": "",
+        "genre": "Punjabi",
+        "xml_id": "1379"
+    },
+    {
+        "name": "SARDARI TV",
+        "tvg_id": "",
+        "logo": "",
+        "genre": "Punjabi",
+        "xml_id": "1357"
+    },
+    {
+        "name": "Sikh Channel USA",
+        "tvg_id": "",
+        "logo": "",
+        "genre": "Punjabi",
+        "xml_id": "1055"
+    },
+    {
+        "name": "SIKH Channel Usa",
+        "tvg_id": "",
+        "logo": "",
+        "genre": "Punjabi",
+        "xml_id": "1375"
+    },
+    {
+        "name": "Tabber Hits",
+        "tvg_id": "",
+        "logo": "",
+        "genre": "Punjabi",
+        "xml_id": "534595"
+    },
+    {
+        "name": "Vision Punjab",
+        "tvg_id": "",
+        "logo": "",
+        "genre": "Punjabi",
+        "xml_id": "552"
+    },
+    {
+        "name": "Vision Punjab Gurbani",
+        "tvg_id": "",
+        "logo": "",
+        "genre": "Punjabi",
+        "xml_id": "87"
+    },
+    {
+        "name": "Vision Punjab TV",
+        "tvg_id": "",
+        "logo": "",
+        "genre": "Punjabi",
+        "xml_id": "85"
+    },
+    {
+        "name": "Zee Alpha ETC",
+        "tvg_id": "",
+        "logo": "",
+        "genre": "Punjabi",
+        "xml_id": "606439"
+    },
+    {
+        "name": "CHITHIRAM",
+        "tvg_id": "",
+        "logo": "",
+        "genre": "Tamil",
+        "xml_id": "46743"
+    },
+    {
+        "name": "COLOR TAMIL HD",
+        "tvg_id": "",
+        "logo": "",
+        "genre": "Tamil",
+        "xml_id": "57"
+    },
+    {
+        "name": "PUTHU YUGAmM TV",
+        "tvg_id": "",
+        "logo": "",
+        "genre": "Tamil",
+        "xml_id": "5912"
+    },
+    {
+        "name": "SRI SHANKARA TAMIL",
+        "tvg_id": "",
+        "logo": "",
+        "genre": "Tamil",
+        "xml_id": "36653"
+    },
+    {
+        "name": "STAR VIJAY HD (Vip)",
+        "tvg_id": "",
+        "logo": "",
+        "genre": "Tamil",
+        "xml_id": "5917"
+    },
+    {
+        "name": "STAR VIJAY INDIA FHD",
+        "tvg_id": "",
+        "logo": "",
+        "genre": "Tamil",
+        "xml_id": "5916"
+    },
+    {
+        "name": "SUN MUSIC HD VIP (USA)",
+        "tvg_id": "",
+        "logo": "",
+        "genre": "Tamil",
+        "xml_id": "5920"
+    },
+    {
+        "name": "SUN TV USA",
+        "tvg_id": "",
+        "logo": "",
+        "genre": "Tamil",
+        "xml_id": "76343"
+    },
+    {
+        "name": "SUNTV HD",
+        "tvg_id": "",
+        "logo": "",
+        "genre": "Tamil",
+        "xml_id": "98899"
+    },
+    {
+        "name": "SUNTV HD",
+        "tvg_id": "",
+        "logo": "",
+        "genre": "Tamil",
+        "xml_id": "23320"
+    },
+    {
+        "name": "VIJAY MUSIC",
+        "tvg_id": "",
+        "logo": "",
+        "genre": "Tamil",
+        "xml_id": "23869"
+    },
+    {
+        "name": "VIJAY TV HD",
+        "tvg_id": "",
+        "logo": "",
+        "genre": "Tamil",
+        "xml_id": "98898"
+    },
+    {
+        "name": "VIJAY TV HD",
+        "tvg_id": "",
+        "logo": "",
+        "genre": "Tamil",
+        "xml_id": "9969"
+    },
+    {
+        "name": "VIJAY TV HD",
+        "tvg_id": "",
+        "logo": "",
+        "genre": "Tamil",
+        "xml_id": "1634"
+    },
+    {
+        "name": "ZEE TAMIL HD (USA)",
+        "tvg_id": "",
+        "logo": "",
+        "genre": "Tamil",
+        "xml_id": "5930"
+    },
+    {
+        "name": "ADITYA TV",
+        "tvg_id": "",
+        "logo": "",
+        "genre": "Tamil",
+        "xml_id": "9019"
+    },
+    {
+        "name": "JAYA MOVIES",
+        "tvg_id": "",
+        "logo": "",
+        "genre": "Tamil",
+        "xml_id": "1618"
+    },
+    {
+        "name": "KTV  FHD (usa)",
+        "tvg_id": "",
+        "logo": "",
+        "genre": "Tamil",
+        "xml_id": "5898"
+    },
+    {
+        "name": "KTV FHD (IND)",
+        "tvg_id": "",
+        "logo": "",
+        "genre": "Tamil",
+        "xml_id": "5899"
+    },
+    {
+        "name": "MEGA 24",
+        "tvg_id": "",
+        "logo": "",
+        "genre": "Tamil",
+        "xml_id": "26163"
+    },
+    {
+        "name": "Kalaignar TV News",
+        "tvg_id": "",
+        "logo": "",
+        "genre": "TAMIL | NEWS",
+        "xml_id": "5897"
+    },
+    {
+        "name": "Sathiyam Tv news",
+        "tvg_id": "",
+        "logo": "",
+        "genre": "TAMIL | NEWS",
+        "xml_id": "256457"
+    },
+    {
+        "name": "CINEMALU HD",
+        "tvg_id": "",
+        "logo": "",
+        "genre": "Telugu",
+        "xml_id": "98896"
+    },
+    {
+        "name": "CINEMALU HD",
+        "tvg_id": "",
+        "logo": "",
+        "genre": "Telugu",
+        "xml_id": "23317"
+    },
+    {
+        "name": "GEMINI MOVIE",
+        "tvg_id": "",
+        "logo": "",
+        "genre": "Telugu",
+        "xml_id": "23797"
+    },
+    {
+        "name": "MAA HD",
+        "tvg_id": "",
+        "logo": "",
+        "genre": "Telugu",
+        "xml_id": "98886"
+    },
+    {
+        "name": "MAA HD",
+        "tvg_id": "",
+        "logo": "",
+        "genre": "Telugu",
+        "xml_id": "23313"
+    },
+    {
+        "name": "MAA-MOVIE HD",
+        "tvg_id": "",
+        "logo": "",
+        "genre": "Telugu",
+        "xml_id": "98887"
+    },
+    {
+        "name": "MAA-MOVIE HD",
+        "tvg_id": "",
+        "logo": "",
+        "genre": "Telugu",
+        "xml_id": "23314"
+    },
+    {
+        "name": "Sakshi TV (News)",
+        "tvg_id": "",
+        "logo": "",
+        "genre": "Telugu",
+        "xml_id": "9048"
+    },
+    {
+        "name": "Telugu HD",
+        "tvg_id": "",
+        "logo": "",
+        "genre": "Telugu",
+        "xml_id": "98894"
+    },
+    {
+        "name": "Telugu HD",
+        "tvg_id": "",
+        "logo": "",
+        "genre": "Telugu",
+        "xml_id": "23316"
+    }
+]
