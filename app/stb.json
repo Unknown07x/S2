@@ -255,6 +255,14 @@
         "traceId": "373008",
         "language": "bn"
     },
+     {
+        "id": "LIVETV_LIVETVCHANNEL_STAR_JALSHA_HD",
+        "tittle": "Star Jalsha HD",
+        "genre": "Regional",
+        "img": "https://oriby-streaming-proxy.sultanarabi161.workers.dev/https://xstreamcp-assets-msp.streamready.in/assets/HOTSTARLIVETV/LIVECHANNEL/66e879751838555841d57fcc/images/LANDSCAPE_169/LANDSCAPE_169_NYu82yUQc_STAR-JALSHA-HD.png",
+        "traceId": "1118057",
+        "language": "bn"
+    },
     {
         "id": "486",
         "tittle": "Tata Play Bollywood Premiere",
