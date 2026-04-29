@@ -1,0 +1,639 @@
+[
+    {
+        "name": "***KIDS***",
+        "genre": "INDIAN | KIDS Cartoon",
+        "stream_id": "106148",
+        "format": "m3u8",
+        "logo": "https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/IND_07.png"
+    },
+    {
+        "name": "Cartoon Network",
+        "genre": "INDIAN | KIDS Cartoon",
+        "stream_id": "150478",
+        "format": "m3u8",
+        "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-34162-jok06xoo-v1/imageContent-34162-jok06xoo-m1.jpg"
+    },
+    {
+        "name": "Pogo",
+        "genre": "INDIAN | KIDS Cartoon",
+        "stream_id": "150483",
+        "format": "m3u8",
+        "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_POGO/images/LANDSCAPE_169_HD/image.png"
+    },
+    {
+        "name": "Cartoon Network HD+",
+        "genre": "INDIAN | KIDS Cartoon",
+        "stream_id": "153154",
+        "format": "m3u8",
+        "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-34162-jok06xoo-v1/imageContent-34162-jok06xoo-m1.jpg"
+    },
+    {
+        "name": "Sony yay",
+        "genre": "INDIAN | KIDS Cartoon",
+        "stream_id": "26187",
+        "format": "m3u8",
+        "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-130-j5fpedbs-v3/imageContent-130-j5fpedbs-m5.jpg"
+    },
+    {
+        "name": "Hungama**",
+        "genre": "INDIAN | KIDS Cartoon",
+        "stream_id": "150480",
+        "format": "m3u8",
+        "logo": "https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/IND_07.png"
+    },
+    {
+        "name": "Nick",
+        "genre": "INDIAN | KIDS Cartoon",
+        "stream_id": "150482",
+        "format": "m3u8",
+        "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NICK_JUNIOR/images/LANDSCAPE_169_HD/image.png"
+    },
+    {
+        "name": "Nick Junior",
+        "genre": "INDIAN | KIDS Cartoon",
+        "stream_id": "153156",
+        "format": "m3u8",
+        "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-463-j5jw9va0-v1/imageContent-463-j5jw9va0-m1.jpg"
+    },
+    {
+        "name": "Discovery kids",
+        "genre": "INDIAN | KIDS Cartoon",
+        "stream_id": "76723",
+        "format": "m3u8",
+        "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-24725-jgvwomag-v1/imageContent-24725-jgvwomag-m1.jpg"
+    },
+    {
+        "name": "Disney Junior",
+        "genre": "INDIAN | KIDS Cartoon",
+        "stream_id": "153175",
+        "format": "m3u8",
+        "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-1357-j5tdnxeo-v1/imageContent-1357-j5tdnxeo-m1.jpg"
+    },
+    {
+        "name": "KIDS: Chutti Tv",
+        "genre": "INDIAN | KIDS Cartoon",
+        "stream_id": "150479",
+        "format": "m3u8",
+        "logo": "https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/IND_07.png"
+    },
+    {
+        "name": "DISNEY HD",
+        "genre": "INDIAN | KIDS Cartoon",
+        "stream_id": "167551",
+        "format": "m3u8",
+        "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-1357-j5tdnxeo-v1/imageContent-1357-j5tdnxeo-m1.jpg"
+    },
+    {
+        "name": "NICK SONIC",
+        "genre": "INDIAN | KIDS Cartoon",
+        "stream_id": "34011",
+        "format": "m3u8",
+        "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-463-j5jw9va0-v1/imageContent-463-j5jw9va0-m1.jpg"
+    },
+    {
+        "name": "NICK HD+ [FHD]",
+        "genre": "INDIAN | KIDS Cartoon",
+        "stream_id": "76722",
+        "format": "m3u8",
+        "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11656-j9k5lvgo-v1/imageContent-11656-j9k5lvgo-m1.jpg"
+    },
+    {
+        "name": "Kids Zone+ HD",
+        "genre": "INDIAN | KIDS Cartoon",
+        "stream_id": "383066",
+        "format": "m3u8",
+        "logo": "https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/IND_07.png"
+    },
+    {
+        "name": "24/7 MOTU PATLU 01",
+        "genre": "INDIAN | KIDS Cartoon",
+        "stream_id": "307079",
+        "format": "m3u8",
+        "logo": "https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/IND_07.png"
+    },
+    {
+        "name": "24/7 MOTU PATLU 02",
+        "genre": "INDIAN | KIDS Cartoon",
+        "stream_id": "311373",
+        "format": "m3u8",
+        "logo": "https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/IND_07.png"
+    },
+    {
+        "name": "24/7 SHIVA",
+        "genre": "INDIAN | KIDS Cartoon",
+        "stream_id": "342074",
+        "format": "m3u8",
+        "logo": "https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/IND_07.png"
+    },
+    {
+        "name": "24/7 CHUCHU TV",
+        "genre": "INDIAN | KIDS Cartoon",
+        "stream_id": "340807",
+        "format": "m3u8",
+        "logo": "https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/IND_07.png"
+    },
+    {
+        "name": "24/7 Baal Veer",
+        "genre": "INDIAN | KIDS Cartoon",
+        "stream_id": "340809",
+        "format": "m3u8",
+        "logo": "https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/IND_07.png"
+    },
+    {
+        "name": "24/7 Chacha Bhatija",
+        "genre": "INDIAN | KIDS Cartoon",
+        "stream_id": "311774",
+        "format": "m3u8",
+        "logo": "https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/IND_07.png"
+    },
+    {
+        "name": "24/7 Wow Kids Action",
+        "genre": "INDIAN | KIDS Cartoon",
+        "stream_id": "314753",
+        "format": "m3u8",
+        "logo": "https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/IND_07.png"
+    },
+    {
+        "name": "24/7 Vir The Robot Boy",
+        "genre": "INDIAN | KIDS Cartoon",
+        "stream_id": "314754",
+        "format": "m3u8",
+        "logo": "https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/IND_07.png"
+    },
+    {
+        "name": "DORAEMON",
+        "genre": "INDIAN | KIDS Cartoon",
+        "stream_id": "388459",
+        "format": "m3u8",
+        "logo": "https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/IND_07.png"
+    },
+    {
+        "name": "KIDS: PINK PANTHER 24/7",
+        "genre": "INDIAN | KIDS Cartoon",
+        "stream_id": "301503",
+        "format": "m3u8",
+        "logo": "https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/IND_07.png"
+    },
+    {
+        "name": "KIDS: CHU CHU TV 24/7",
+        "genre": "INDIAN | KIDS Cartoon",
+        "stream_id": "301502",
+        "format": "m3u8",
+        "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/TV24N_BoxCover-v2/TV24N_BoxCover.png"
+    },
+    {
+        "name": "KIDS: Sonic 24/7",
+        "genre": "INDIAN | KIDS Cartoon",
+        "stream_id": "301500",
+        "format": "m3u8",
+        "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-8019-j7a7nf68-v1/imageContent-8019-j7a7nf68-m1.jpg"
+    },
+    {
+        "name": "KIDS: MR BEAN (CARTOON) 24/7",
+        "genre": "INDIAN | KIDS Cartoon",
+        "stream_id": "301501",
+        "format": "m3u8",
+        "logo": "https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/IND_07.png"
+    },
+    {
+        "name": "KIDS: CoComelon TV 24/7",
+        "genre": "INDIAN | KIDS Cartoon",
+        "stream_id": "301499",
+        "format": "m3u8",
+        "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/TV24N_BoxCover-v2/TV24N_BoxCover.png"
+    },
+    {
+        "name": "24/7 Kids: All Hail King Julien_ Exiled",
+        "genre": "INDIAN | KIDS Cartoon",
+        "stream_id": "301504",
+        "format": "m3u8",
+        "logo": "https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/IND_07.png"
+    },
+    {
+        "name": "24/7 Kids: Rick And Morty",
+        "genre": "INDIAN | KIDS Cartoon",
+        "stream_id": "301505",
+        "format": "m3u8",
+        "logo": "https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/IND_07.png"
+    },
+    {
+        "name": "24/7 Kids: Masha and the Bear",
+        "genre": "INDIAN | KIDS Cartoon",
+        "stream_id": "301506",
+        "format": "m3u8",
+        "logo": "https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/IND_07.png"
+    },
+    {
+        "name": "24/7 Kids: Little Baby Bum",
+        "genre": "INDIAN | KIDS Cartoon",
+        "stream_id": "301507",
+        "format": "m3u8",
+        "logo": "https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/IND_07.png"
+    },
+    {
+        "name": "24/7 Kids: The Boss Baby_ Back in Business",
+        "genre": "INDIAN | KIDS Cartoon",
+        "stream_id": "301508",
+        "format": "m3u8",
+        "logo": "https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/IND_07.png"
+    },
+    {
+        "name": "24/7 Kids: Peppa Pig",
+        "genre": "INDIAN | KIDS Cartoon",
+        "stream_id": "301509",
+        "format": "m3u8",
+        "logo": "https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/IND_07.png"
+    },
+    {
+        "name": "24/7 Kids: Blippi",
+        "genre": "INDIAN | KIDS Cartoon",
+        "stream_id": "301510",
+        "format": "m3u8",
+        "logo": "https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/IND_07.png"
+    },
+    {
+        "name": "24/7 Kids: Kids: Gabby_s Dollhouse",
+        "genre": "INDIAN | KIDS Cartoon",
+        "stream_id": "301511",
+        "format": "m3u8",
+        "logo": "https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/IND_07.png"
+    },
+    {
+        "name": "Oggy and the Cockroaches Hindi",
+        "genre": "INDIAN | KIDS Cartoon",
+        "stream_id": "308282",
+        "format": "m3u8",
+        "logo": "https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/IND_07.png"
+    },
+    {
+        "name": "24/7 Chhota Bheem",
+        "genre": "INDIAN | KIDS Cartoon",
+        "stream_id": "315401",
+        "format": "m3u8",
+        "logo": "https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/IND_07.png"
+    },
+    {
+        "name": "24/7 Tom & Jerry",
+        "genre": "INDIAN | KIDS Cartoon",
+        "stream_id": "329247",
+        "format": "m3u8",
+        "logo": "https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/IND_07.png"
+    },
+    {
+        "name": "24/7 Scooby-Doo",
+        "genre": "INDIAN | KIDS Cartoon",
+        "stream_id": "329248",
+        "format": "m3u8",
+        "logo": "https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/IND_07.png"
+    },
+    {
+        "name": "24/7 Booba",
+        "genre": "INDIAN | KIDS Cartoon",
+        "stream_id": "340803",
+        "format": "m3u8",
+        "logo": "https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/IND_07.png"
+    },
+    {
+        "name": "24/7 KIDS SONGS HINDI",
+        "genre": "INDIAN | KIDS Cartoon",
+        "stream_id": "340802",
+        "format": "m3u8",
+        "logo": "https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/IND_07.png"
+    },
+    {
+        "name": "Nursery Rhymes",
+        "genre": "INDIAN | KIDS Cartoon",
+        "stream_id": "340804",
+        "format": "m3u8",
+        "logo": "https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/IND_07.png"
+    },
+    {
+        "name": "MOV HINDI",
+        "genre": "INDIAN | KIDS Cartoon",
+        "stream_id": "362998",
+        "format": "m3u8",
+        "logo": "https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/IND_07.png"
+    },
+    {
+        "name": "MOVIES",
+        "genre": "INDIAN | KIDS Cartoon",
+        "stream_id": "362999",
+        "format": "m3u8",
+        "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_AIRTEL_MOVIES_HOME_2/images/PORTRAIT_HD/image.png"
+    },
+    {
+        "name": "MOVIES ENG 01",
+        "genre": "INDIAN | KIDS Cartoon",
+        "stream_id": "363000",
+        "format": "m3u8",
+        "logo": "https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/IND_07.png"
+    },
+    {
+        "name": "MOVIES ENG 02",
+        "genre": "INDIAN | KIDS Cartoon",
+        "stream_id": "363001",
+        "format": "m3u8",
+        "logo": "https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/IND_07.png"
+    },
+    {
+        "name": "*** WellCome ***",
+        "genre": "CRICKET",
+        "stream_id": "26014",
+        "format": "m3u8",
+        "logo": "https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/IND_07.png"
+    },
+    {
+        "name": "PTV SPORTS",
+        "genre": "CRICKET",
+        "stream_id": "167567",
+        "format": "m3u8",
+        "logo": "https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/IND_07.png"
+    },
+    {
+        "name": "PTV SPORTS HD",
+        "genre": "CRICKET",
+        "stream_id": "217968",
+        "format": "m3u8",
+        "logo": "https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/IND_07.png"
+    },
+    {
+        "name": "Geo Super HD",
+        "genre": "CRICKET",
+        "stream_id": "167568",
+        "format": "m3u8",
+        "logo": "https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/IND_07.png"
+    },
+    {
+        "name": "TEN SPORTS",
+        "genre": "CRICKET",
+        "stream_id": "167569",
+        "format": "m3u8",
+        "logo": "https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/IND_07.png"
+    },
+    {
+        "name": "T20 WORLD CUP 01",
+        "genre": "CRICKET",
+        "stream_id": "219643",
+        "format": "m3u8",
+        "logo": "https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/IND_07.png"
+    },
+    {
+        "name": "A Sports HD (Server 1)",
+        "genre": "CRICKET",
+        "stream_id": "219689",
+        "format": "m3u8",
+        "logo": "https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/IND_07.png"
+    },
+    {
+        "name": "A Sports HD (Server 2)",
+        "genre": "CRICKET",
+        "stream_id": "221417",
+        "format": "m3u8",
+        "logo": "https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/IND_07.png"
+    },
+    {
+        "name": "SONY TEN 1 HD",
+        "genre": "CRICKET",
+        "stream_id": "167570",
+        "format": "m3u8",
+        "logo": "https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/IND_07.png"
+    },
+    {
+        "name": "SONY TEN 2 HD",
+        "genre": "CRICKET",
+        "stream_id": "167571",
+        "format": "m3u8",
+        "logo": "https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/IND_07.png"
+    },
+    {
+        "name": "SONY TEN 3 HD",
+        "genre": "CRICKET",
+        "stream_id": "167572",
+        "format": "m3u8",
+        "logo": "https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/IND_07.png"
+    },
+    {
+        "name": "SONY TEN 4 HD",
+        "genre": "CRICKET",
+        "stream_id": "167595",
+        "format": "m3u8",
+        "logo": "https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/IND_07.png"
+    },
+    {
+        "name": "SONY TEN 5 HD",
+        "genre": "CRICKET",
+        "stream_id": "167580",
+        "format": "m3u8",
+        "logo": "https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/IND_07.png"
+    },
+    {
+        "name": "Ten Cricket",
+        "genre": "CRICKET",
+        "stream_id": "167587",
+        "format": "m3u8",
+        "logo": "https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/IND_07.png"
+    },
+    {
+        "name": "STAR SPORTS 1 Hindi",
+        "genre": "CRICKET",
+        "stream_id": "167573",
+        "format": "m3u8",
+        "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-58-j5fdr6a0-v1/imageContent-58-j5fdr6a0-m1.jpg"
+    },
+    {
+        "name": "Star Sports 2 Hindi HD",
+        "genre": "CRICKET",
+        "stream_id": "167574",
+        "format": "m3u8",
+        "logo": "https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/StarSports2HindiHD_BoxCover_3a373a17-83ff-48f3-bfc8-abea26977ebf.png"
+    },
+    {
+        "name": "Star Sports tamil 1",
+        "genre": "CRICKET",
+        "stream_id": "392965",
+        "format": "m3u8",
+        "logo": "https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/IND_07.png"
+    },
+    {
+        "name": "Star Sports 1 HD",
+        "genre": "CRICKET",
+        "stream_id": "167575",
+        "format": "m3u8",
+        "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-8302-j7hc08ts-v1/imageContent-8302-j7hc08ts-m1.jpg"
+    },
+    {
+        "name": "Star Sports 2 HD",
+        "genre": "CRICKET",
+        "stream_id": "167576",
+        "format": "m3u8",
+        "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-1022-j5nj3cy0-v1/imageContent-1022-j5nj3cy0-m1.jpg"
+    },
+    {
+        "name": "Star Sports 3 HD",
+        "genre": "CRICKET",
+        "stream_id": "167577",
+        "format": "m3u8",
+        "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-31403-jm2isen4-v1/imageContent-31403-jm2isen4-m1.jpg"
+    },
+    {
+        "name": "STAR SPORTS SELECT 1",
+        "genre": "CRICKET",
+        "stream_id": "167578",
+        "format": "m3u8",
+        "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-7894-j75vqc6o-v1/imageContent-7894-j75vqc6o-m1.JPG"
+    },
+    {
+        "name": "STAR SPORTS SELECT 2",
+        "genre": "CRICKET",
+        "stream_id": "167579",
+        "format": "m3u8",
+        "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11789-j9kyqpy8-v1/imageContent-11789-j9kyqpy8-m1.jpg"
+    },
+    {
+        "name": "Sports 18 (4K)",
+        "genre": "CRICKET",
+        "stream_id": "382205",
+        "format": "m3u8",
+        "logo": "https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/IND_07.png"
+    },
+    {
+        "name": "Astro Cricket HD",
+        "genre": "CRICKET",
+        "stream_id": "167581",
+        "format": "m3u8",
+        "logo": "https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/IND_07.png"
+    },
+    {
+        "name": "SuperSport Cricket",
+        "genre": "CRICKET",
+        "stream_id": "167592",
+        "format": "m3u8",
+        "logo": "https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/IND_07.png"
+    },
+    {
+        "name": "AU: FOX CRICKET 501",
+        "genre": "CRICKET",
+        "stream_id": "167593",
+        "format": "m3u8",
+        "logo": "https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/IND_07.png"
+    },
+    {
+        "name": "Sky Sports Cricket",
+        "genre": "CRICKET",
+        "stream_id": "167594",
+        "format": "m3u8",
+        "logo": "https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/IND_07.png"
+    },
+    {
+        "name": "Willow Xtra",
+        "genre": "CRICKET",
+        "stream_id": "167582",
+        "format": "m3u8",
+        "logo": "https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/IND_07.png"
+    },
+    {
+        "name": "Willow Cricket HD",
+        "genre": "CRICKET",
+        "stream_id": "167583",
+        "format": "m3u8",
+        "logo": "https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/IND_07.png"
+    },
+    {
+        "name": "beIN SPORT CRICKET",
+        "genre": "CRICKET",
+        "stream_id": "167584",
+        "format": "m3u8",
+        "logo": "https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/IND_07.png"
+    },
+    {
+        "name": "EUROSPORT HD",
+        "genre": "CRICKET",
+        "stream_id": "167585",
+        "format": "m3u8",
+        "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-52844-k980hf1k-v1/imageContent-52844-k980hf1k-m3.jpg"
+    },
+    {
+        "name": "1SPORTS",
+        "genre": "CRICKET",
+        "stream_id": "167586",
+        "format": "m3u8",
+        "logo": "https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/IND_07.png"
+    },
+    {
+        "name": "DD Sports",
+        "genre": "CRICKET",
+        "stream_id": "167588",
+        "format": "m3u8",
+        "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-939-j5mhk5fc-v1/imageContent-939-j5mhk5fc-m1.jpg"
+    },
+    {
+        "name": "T-SPORTS",
+        "genre": "CRICKET",
+        "stream_id": "167590",
+        "format": "m3u8",
+        "logo": "https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/IND_07.png"
+    },
+    {
+        "name": "AFG: RTA SPORTS",
+        "genre": "CRICKET",
+        "stream_id": "167591",
+        "format": "m3u8",
+        "logo": "https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/IND_07.png"
+    },
+    {
+        "name": "jio Cricket",
+        "genre": "CRICKET",
+        "stream_id": "206297",
+        "format": "m3u8",
+        "logo": "https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/IND_07.png"
+    },
+    {
+        "name": "TNT Sport 2 CRICKET",
+        "genre": "CRICKET",
+        "stream_id": "206566",
+        "format": "m3u8",
+        "logo": "https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/IND_07.png"
+    },
+    {
+        "name": "MAQ TV CRICKET",
+        "genre": "CRICKET",
+        "stream_id": "207190",
+        "format": "m3u8",
+        "logo": "https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/IND_07.png"
+    },
+    {
+        "name": "NZ: SKY Sport Cricket 3",
+        "genre": "CRICKET",
+        "stream_id": "217530",
+        "format": "m3u8",
+        "logo": "https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/IND_07.png"
+    },
+    {
+        "name": "FAST SPORTS",
+        "genre": "CRICKET",
+        "stream_id": "308225",
+        "format": "m3u8",
+        "logo": "https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/IND_07.png"
+    },
+    {
+        "name": "StarzPlay CricLife 1",
+        "genre": "CRICKET",
+        "stream_id": "371469",
+        "format": "m3u8",
+        "logo": "https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/IND_07.png"
+    },
+    {
+        "name": "StarzPlay CricLife 2",
+        "genre": "CRICKET",
+        "stream_id": "371470",
+        "format": "m3u8",
+        "logo": "https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/IND_07.png"
+    },
+    {
+        "name": "StarzPlay CricLife 3",
+        "genre": "CRICKET",
+        "stream_id": "371471",
+        "format": "m3u8",
+        "logo": "https://raw.githubusercontent.com/Unknown07x/S2/refs/heads/main/IND_07.png"
+    }
+]
