@@ -1,0 +1,838 @@
+[
+  {
+    "name": "Sun TV HD - Dolby Vision",
+    "tvg_id": "195491",
+    "tvg_name": "Sun TV HD - Dolby Vision",
+    "language": null,
+    "logo": null,
+    "group_title": Entertainment",
+    "license_type": "org.w3.clearkey",
+    "license_key": "https://clearkey.joker-verse.workers.dev/license",
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+      "Origin": "https://www.sunnxt.com",
+      "Referer": "https://www.sunnxt.com/",
+      "X-User-Agent": "CR7(Linux;Android 13; en; 1rp60pz)"
+    },
+    "url": "https://livestream2.sunnxt.com/19ee29194c4d4fc286c3e697362e60cd/SunTVHDB_IN_index.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+    "tvg_language": "tamil",
+    "tvg_logo": "https://sund-images.sunnxt.com/195491/1000x1000_SunTVHDDolbyVision_195491_acb12579-8d0f-41c2-bbb7-0b10a8dcee1a.jpg"
+  },
+  {
+    "name": "Sun TV HD",
+    "tvg_id": "194403",
+    "tvg_name": "Sun TV HD",
+    "language": null,
+    "logo": null,
+    "group_title": Entertainment",
+    "license_type": "org.w3.clearkey",
+    "license_key": "https://clearkey.joker-verse.workers.dev/license",
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+      "Origin": "https://www.sunnxt.com",
+      "Referer": "https://www.sunnxt.com/",
+      "X-User-Agent": "CR7(Linux;Android 13; en; 1rp60pz)"
+    },
+    "url": "https://livestream2.sunnxt.com/19ee29194c4d4fc286c3e697362e60cd/SunTVHDB_IN_index.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+    "tvg_language": "tamil",
+    "tvg_logo": "https://sund-images.sunnxt.com/194403/1000x1000_SunTVHD_194403_8ad3d2a8-5344-4d5c-956c-ccbfb25b2431.png"
+  },
+  {
+    "name": "KTV HD",
+    "tvg_id": "194405",
+    "tvg_name": "KTV HD",
+    "language": null,
+    "logo": null,
+    "group_title": Entertainment",
+    "license_type": "org.w3.clearkey",
+    "license_key": "https://clearkey.joker-verse.workers.dev/license",
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+      "Origin": "https://www.sunnxt.com",
+      "Referer": "https://www.sunnxt.com/",
+      "X-User-Agent": "CR7(Linux;Android 13; en; 1rp60pz)"
+    },
+    "url": "https://livestream.sunnxt.com/61477b4c8d8d45d5a49e044cc1dffc60/KTVHDB_IN_index.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+    "tvg_language": "tamil",
+    "tvg_logo": "https://sund-images.sunnxt.com/194405/1000x1000_KTVHD_194405_1d4448e1-5f79-414b-952b-424044798b43.png"
+  },
+  {
+    "name": "Sun Music HD",
+    "tvg_id": "194406",
+    "tvg_name": "Sun Music HD",
+    "language": null,
+    "logo": null,
+    "group_title": Music",
+    "license_type": "org.w3.clearkey",
+    "license_key": "https://clearkey.joker-verse.workers.dev/license",
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+      "Origin": "https://www.sunnxt.com",
+      "Referer": "https://www.sunnxt.com/",
+      "X-User-Agent": "CR7(Linux;Android 13; en; 1rp60pz)"
+    },
+    "url": "https://livestream.sunnxt.com/d434796d90fa4dc9b7ecfacedbe683f1/SunMusicHDB_IN_index.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+    "tvg_language": "tamil",
+    "tvg_logo": "https://sund-images.sunnxt.com/194406/1000x1000_SunMusicHD_194406_2c082383-c774-4e76-a6be-938c48de0227.png"
+  },
+  {
+    "name": "Sun Life",
+    "tvg_id": "194391",
+    "tvg_name": "Sun Life",
+    "language": null,
+    "logo": null,
+    "group_title": Entertainment",
+    "license_type": "org.w3.clearkey",
+    "license_key": "https://clearkey.joker-verse.workers.dev/license",
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+      "Origin": "https://www.sunnxt.com",
+      "Referer": "https://www.sunnxt.com/",
+      "X-User-Agent": "CR7(Linux;Android 13; en; 1rp60pz)"
+    },
+    "url": "https://livestream.sunnxt.com/6b79451f54284b3fb680fd717ee008dc/SunLifeB_IN_index.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+    "tvg_language": "tamil",
+    "tvg_logo": "https://sund-images.sunnxt.com/194391/1000x1000_SunLife_194391_d464515e-939a-4b03-a0d9-29f67b67419b.png"
+  },
+  {
+    "name": "Sun News",
+    "tvg_id": "194404",
+    "tvg_name": "Sun News",
+    "language": null,
+    "logo": null,
+    "group_title": News",
+    "license_type": "org.w3.clearkey",
+    "license_key": "https://clearkey.joker-verse.workers.dev/license",
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+      "Origin": "https://www.sunnxt.com",
+      "Referer": "https://www.sunnxt.com/",
+      "X-User-Agent": "CR7(Linux;Android 13; en; 1rp60pz)"
+    },
+    "url": "https://suntvnews.akamaized.net/491c99fb6d0c49e88e6349170d890a2f/SunNewsB_IN_index.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+    "tvg_language": "tamil",
+    "tvg_logo": "https://sund-images.sunnxt.com/194404/1000x1000_SunNews_194404_7917a6d5-b56f-49fd-bb52-f1d9a38ae52d.png"
+  },
+  {
+    "name": "Adithya TV",
+    "tvg_id": "194407",
+    "tvg_name": "Adithya TV",
+    "language": null,
+    "logo": null,
+    "group_title": Comedy",
+    "license_type": "org.w3.clearkey",
+    "license_key": "https://clearkey.joker-verse.workers.dev/license",
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+      "Origin": "https://www.sunnxt.com",
+      "Referer": "https://www.sunnxt.com/",
+      "X-User-Agent": "CR7(Linux;Android 13; en; 1rp60pz)"
+    },
+    "url": "https://livestream.sunnxt.com/4d0eb3cde30247ada4ade679fdfbaf86/AdithyaTVB_IN_index.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+    "tvg_language": "tamil",
+    "tvg_logo": "https://sund-images.sunnxt.com/194407/1000x1000_AdithyaTV_194407_5d218a3c-c2ce-47b8-994b-4737e26edfef.png"
+  },
+  {
+    "name": "Chutti TV",
+    "tvg_id": "194390",
+    "tvg_name": "Chutti TV",
+    "language": null,
+    "logo": null,
+    "group_title": Entertainment",
+    "license_type": "org.w3.clearkey",
+    "license_key": "https://clearkey.joker-verse.workers.dev/license",
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+      "Origin": "https://www.sunnxt.com",
+      "Referer": "https://www.sunnxt.com/",
+      "X-User-Agent": "CR7(Linux;Android 13; en; 1rp60pz)"
+    },
+    "url": "https://livestream.sunnxt.com/3ed29d5b01b546eaa05d184cd87535f1/ChuttiTVB_IN_index.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+    "tvg_language": "tamil",
+    "tvg_logo": "https://sund-images.sunnxt.com/194390/1000x1000_ChuttiTV_194390_a0be6a2e-efc0-4514-98d2-c8cae640dbcc.png"
+  },
+  {
+    "name": "Sun TV",
+    "tvg_id": "194408",
+    "tvg_name": "Sun TV",
+    "language": null,
+    "logo": null,
+    "group_title": Entertainment",
+    "license_type": "org.w3.clearkey",
+    "license_key": "https://clearkey.joker-verse.workers.dev/license",
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+      "Origin": "https://www.sunnxt.com",
+      "Referer": "https://www.sunnxt.com/",
+      "X-User-Agent": "CR7(Linux;Android 13; en; 1rp60pz)"
+    },
+    "url": "https://livestream1.sunnxt.com/05b5df1221764bca9867054c5e65ee62/SunTVB_IN_index.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+    "tvg_language": "tamil",
+    "tvg_logo": "https://sund-images.sunnxt.com/194408/1000x1000_SunTV_194408_87e8da9e-7476-4d8e-8aee-fb55105652c1.png"
+  },
+  {
+    "name": "KTV",
+    "tvg_id": "194409",
+    "tvg_name": "KTV",
+    "language": null,
+    "logo": null,
+    "group_title": Entertainment",
+    "license_type": "org.w3.clearkey",
+    "license_key": "https://clearkey.joker-verse.workers.dev/license",
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+      "Origin": "https://www.sunnxt.com",
+      "Referer": "https://www.sunnxt.com/",
+      "X-User-Agent": "CR7(Linux;Android 13; en; 1rp60pz)"
+    },
+    "url": "https://livestream.sunnxt.com/6ae70edd4c1440379f5311e8fbddc7c1/KTVB_IN_index.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+    "tvg_language": "tamil",
+    "tvg_logo": "https://sund-images.sunnxt.com/194409/1000x1000_KTV_194409_efd11a74-61c7-422d-9fcb-9329003f3459.png"
+  },
+  {
+    "name": "Sun Music",
+    "tvg_id": "194410",
+    "tvg_name": "Sun Music",
+    "language": null,
+    "logo": null,
+    "group_title": Music",
+    "license_type": "org.w3.clearkey",
+    "license_key": "https://clearkey.joker-verse.workers.dev/license",
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+      "Origin": "https://www.sunnxt.com",
+      "Referer": "https://www.sunnxt.com/",
+      "X-User-Agent": "CR7(Linux;Android 13; en; 1rp60pz)"
+    },
+    "url": "https://livestream.sunnxt.com/585bb66e95c84ccea3f828c96b3567b5/SunMusicB_IN_index.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+    "tvg_language": "tamil",
+    "tvg_logo": "https://sund-images.sunnxt.com/194410/1000x1000_SunMusic_194410_86c7c8b4-b24b-4a3f-a599-6c3df8bed22b.png"
+  },
+  {
+    "name": "Gemini TV HD - Dolby Vision",
+    "tvg_id": "195490",
+    "tvg_name": "Gemini TV HD - Dolby Vision",
+    "language": null,
+    "logo": null,
+    "group_title": Entertainment",
+    "license_type": "org.w3.clearkey",
+    "license_key": "https://clearkey.joker-verse.workers.dev/license",
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+      "Origin": "https://www.sunnxt.com",
+      "Referer": "https://www.sunnxt.com/",
+      "X-User-Agent": "CR7(Linux;Android 13; en; 1rp60pz)"
+    },
+    "url": "https://livestream14.sunnxt.com/e778d9c98488494b9c9b38f9c48b63ec/GeminiTVHDB_IN_index.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+    "tvg_language": "telugu",
+    "tvg_logo": "https://sund-images.sunnxt.com/195490/1000x1000_GeminiTVHDDolbyVision_195490_38c3f39f-992b-4164-abd7-89fbae701e79.jpg"
+  },
+  {
+    "name": "Surya TV HD - Dolby Vision",
+    "tvg_id": "195489",
+    "tvg_name": "Surya TV HD - Dolby Vision",
+    "language": null,
+    "logo": null,
+    "group_title": Entertainment",
+    "license_type": "org.w3.clearkey",
+    "license_key": "https://clearkey.joker-verse.workers.dev/license",
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+      "Origin": "https://www.sunnxt.com",
+      "Referer": "https://www.sunnxt.com/",
+      "X-User-Agent": "CR7(Linux;Android 13; en; 1rp60pz)"
+    },
+    "url": "https://livestream15.sunnxt.com/d719fad367614ee5baad747822767ad8/SuryaTVHDB_IN_index.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+    "tvg_language": "malayalam",
+    "tvg_logo": "https://sund-images.sunnxt.com/195489/1000x1000_SuryaTVHDDolbyVision_195489_e28c6a6b-932f-4ed5-a0f1-d161dbbf55d3.jpg"
+  },
+  {
+    "name": "Udaya TV HD - Dolby Vision",
+    "tvg_id": "194411",
+    "tvg_name": "Udaya TV HD - Dolby Vision",
+    "language": null,
+    "logo": null,
+    "group_title": Entertainment",
+    "license_type": "org.w3.clearkey",
+    "license_key": "https://clearkey.joker-verse.workers.dev/license",
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+      "Origin": "https://www.sunnxt.com",
+      "Referer": "https://www.sunnxt.com/",
+      "X-User-Agent": "CR7(Linux;Android 13; en; 1rp60pz)"
+    },
+    "url": "https://livestream16.sunnxt.com/a8d28f18944c4946ad7133938860e7cf/UdayaTVHDB_IN_index.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+    "tvg_language": "kannada",
+    "tvg_logo": "https://sund-images.sunnxt.com/194411/1000x1000_UdayaTVHDDolbyVision_194411_289bee82-3de3-4cd1-81ea-1634f46e137e.jpg"
+  },
+  {
+    "name": "Gemini TV HD",
+    "tvg_id": "194392",
+    "tvg_name": "Gemini TV HD",
+    "language": null,
+    "logo": null,
+    "group_title": Entertainment",
+    "license_type": "org.w3.clearkey",
+    "license_key": "https://clearkey.joker-verse.workers.dev/license",
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+      "Origin": "https://www.sunnxt.com",
+      "Referer": "https://www.sunnxt.com/",
+      "X-User-Agent": "CR7(Linux;Android 13; en; 1rp60pz)"
+    },
+    "url": "https://livestream14.sunnxt.com/e778d9c98488494b9c9b38f9c48b63ec/GeminiTVHDB_IN_index.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+    "tvg_language": "telugu",
+    "tvg_logo": "https://sund-images.sunnxt.com/194392/1000x1000_GeminiTVHD_194392_0a146256-5869-40c5-89de-2fbb9ad6b0ce.png"
+  },
+  {
+    "name": "Gemini Movies HD",
+    "tvg_id": "192537",
+    "tvg_name": "Gemini Movies HD",
+    "language": null,
+    "logo": null,
+    "group_title": Entertainment",
+    "license_type": "org.w3.clearkey",
+    "license_key": "https://clearkey.joker-verse.workers.dev/license",
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+      "Origin": "https://www.sunnxt.com",
+      "Referer": "https://www.sunnxt.com/",
+      "X-User-Agent": "CR7(Linux;Android 13; en; 1rp60pz)"
+    },
+    "url": "https://geminimovieshd.akamaized.net/ec0d4961a002442295f91efc9d675c9d/GeminiMoviesHDB_IN_index.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+    "tvg_language": "telugu",
+    "tvg_logo": "https://sund-images.sunnxt.com/192537/1000x1000_GeminiMoviesHD_192537_b5634337-a7cf-4e44-9643-8df747dde8ed.png"
+  },
+  {
+    "name": "Gemini Music HD",
+    "tvg_id": "194393",
+    "tvg_name": "Gemini Music HD",
+    "language": null,
+    "logo": null,
+    "group_title": Music",
+    "license_type": "org.w3.clearkey",
+    "license_key": "https://clearkey.joker-verse.workers.dev/license",
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+      "Origin": "https://www.sunnxt.com",
+      "Referer": "https://www.sunnxt.com/",
+      "X-User-Agent": "CR7(Linux;Android 13; en; 1rp60pz)"
+    },
+    "url": "https://livestream.sunnxt.com/6a6520e446604c6e9840e5bf3a3a7d95/GeminiMusicHDB_IN_index.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+    "tvg_language": "telugu",
+    "tvg_logo": "https://sund-images.sunnxt.com/194393/1000x1000_GeminiMusicHD_194393_38918c7e-413e-46a0-bae9-4b3b766fe6d7.png"
+  },
+  {
+    "name": "Gemini Comedy",
+    "tvg_id": "194394",
+    "tvg_name": "Gemini Comedy",
+    "language": null,
+    "logo": null,
+    "group_title": Comedy",
+    "license_type": "org.w3.clearkey",
+    "license_key": "https://clearkey.joker-verse.workers.dev/license",
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+      "Origin": "https://www.sunnxt.com",
+      "Referer": "https://www.sunnxt.com/",
+      "X-User-Agent": "CR7(Linux;Android 13; en; 1rp60pz)"
+    },
+    "url": "https://livestream.sunnxt.com/167c40e9521b470b87b4cf921fd0e146/GeminiComedyB_IN_index.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+    "tvg_language": "telugu",
+    "tvg_logo": "https://sund-images.sunnxt.com/194394/1000x1000_GeminiComedy_194394_0fe7c915-5f33-4c6f-909b-3d8d45f92f67.png"
+  },
+  {
+    "name": "Gemini Life",
+    "tvg_id": "194337",
+    "tvg_name": "Gemini Life",
+    "language": null,
+    "logo": null,
+    "group_title": Entertainment",
+    "license_type": "org.w3.clearkey",
+    "license_key": "https://clearkey.joker-verse.workers.dev/license",
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+      "Origin": "https://www.sunnxt.com",
+      "Referer": "https://www.sunnxt.com/",
+      "X-User-Agent": "CR7(Linux;Android 13; en; 1rp60pz)"
+    },
+    "url": "https://livestream.sunnxt.com/a4b4f71a8b4344f3a280e906657a517a/GeminiLifeB_IN_index.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+    "tvg_language": "telugu",
+    "tvg_logo": "https://sund-images.sunnxt.com/194337/1000x1000_GeminiLife_194337_e1145455-d580-4b95-8f35-73e48e199533.png"
+  },
+  {
+    "name": "TV9 Telugu",
+    "tvg_id": "200729",
+    "tvg_name": "TV9 Telugu",
+    "language": null,
+    "logo": null,
+    "group_title": News",
+    "license_type": null,
+    "license_key": null,
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+      "Origin": "https://www.sunnxt.com",
+      "Referer": "https://www.sunnxt.com/",
+      "X-User-Agent": "CR7(Linux;Android 13; en; 1rp60pz)"
+    },
+    "url": "https://vg-tv9live.akamaized.net/v1/vglive-sk-121537/main.m3u8?ads.partner=sunnetwork|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+    "tvg_language": "telugu",
+    "tvg_logo": "https://sund-images.sunnxt.com/200729/TV9Telugu_200729_3e9ee24a-cb3a-4814-8907-3fa23127c7ac.png"
+  },
+  {
+    "name": "Kushi TV",
+    "tvg_id": "194346",
+    "tvg_name": "Kushi TV",
+    "language": null,
+    "logo": null,
+    "group_title": Kids",
+    "license_type": "org.w3.clearkey",
+    "license_key": "https://clearkey.joker-verse.workers.dev/license",
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+      "Origin": "https://www.sunnxt.com",
+      "Referer": "https://www.sunnxt.com/",
+      "X-User-Agent": "CR7(Linux;Android 13; en; 1rp60pz)"
+    },
+    "url": "https://livestream.sunnxt.com/4a736d41608849758a0aed36949ded30/KushiTVB_IN_index.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+    "tvg_language": "telugu",
+    "tvg_logo": "https://sund-images.sunnxt.com/194346/1000x1000_KushiTV_194346_21645eb7-43c4-4721-89bf-b2658d856251.png"
+  },
+  {
+    "name": "Gemini TV",
+    "tvg_id": "194396",
+    "tvg_name": "Gemini TV",
+    "language": null,
+    "logo": null,
+    "group_title": Entertainment",
+    "license_type": "org.w3.clearkey",
+    "license_key": "https://clearkey.joker-verse.workers.dev/license",
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+      "Origin": "https://www.sunnxt.com",
+      "Referer": "https://www.sunnxt.com/",
+      "X-User-Agent": "CR7(Linux;Android 13; en; 1rp60pz)"
+    },
+    "url": "https://livestream4.sunnxt.com/a1a61fa1811c4d20a5c2d5e14cdc0cd2/GeminiTVB_IN_index.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+    "tvg_language": "telugu",
+    "tvg_logo": "https://sund-images.sunnxt.com/194396/1000x1000_GeminiTV_194396_068bbb03-8548-4cff-af0b-556f5a2e2128.png"
+  },
+  {
+    "name": "Gemini Movies",
+    "tvg_id": "194384",
+    "tvg_name": "Gemini Movies",
+    "language": null,
+    "logo": null,
+    "group_title": Entertainment",
+    "license_type": "org.w3.clearkey",
+    "license_key": "https://clearkey.joker-verse.workers.dev/license",
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+      "Origin": "https://www.sunnxt.com",
+      "Referer": "https://www.sunnxt.com/",
+      "X-User-Agent": "CR7(Linux;Android 13; en; 1rp60pz)"
+    },
+    "url": "https://livestream.sunnxt.com/6a59979ff0044fd3b6e0cb85d6f44432/GeminiMoviesB_IN_index.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+    "tvg_language": "telugu",
+    "tvg_logo": "https://sund-images.sunnxt.com/194384/1000x1000_GeminiMovies_194384_abbba9d4-509e-46d5-8808-59efe178a4c2.png"
+  },
+  {
+    "name": "Gemini Music",
+    "tvg_id": "194395",
+    "tvg_name": "Gemini Music",
+    "language": null,
+    "logo": null,
+    "group_title": Music",
+    "license_type": "org.w3.clearkey",
+    "license_key": "https://clearkey.joker-verse.workers.dev/license",
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+      "Origin": "https://www.sunnxt.com",
+      "Referer": "https://www.sunnxt.com/",
+      "X-User-Agent": "CR7(Linux;Android 13; en; 1rp60pz)"
+    },
+    "url": "https://livestream.sunnxt.com/52b94f70c6e64692b2497f5023b629cd/GeminiMusicB_IN_index.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+    "tvg_language": "telugu",
+    "tvg_logo": "https://sund-images.sunnxt.com/194395/1000x1000_GeminiMusic_194395_9b2cc3b0-9732-4bf8-9efc-fed04d9bc9df.png"
+  },
+  {
+    "name": "Surya TV HD",
+    "tvg_id": "194397",
+    "tvg_name": "Surya TV HD",
+    "language": null,
+    "logo": null,
+    "group_title": Entertainment",
+    "license_type": "org.w3.clearkey",
+    "license_key": "https://clearkey.joker-verse.workers.dev/license",
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+      "Origin": "https://www.sunnxt.com",
+      "Referer": "https://www.sunnxt.com/",
+      "X-User-Agent": "CR7(Linux;Android 13; en; 1rp60pz)"
+    },
+    "url": "https://livestream15.sunnxt.com/d719fad367614ee5baad747822767ad8/SuryaTVHDB_IN_index.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+    "tvg_language": "malayalam",
+    "tvg_logo": "https://sund-images.sunnxt.com/194397/1000x1000_SuryaTVHD_194397_4c99c17b-92d4-49be-a490-b5958067190a.png"
+  },
+  {
+    "name": "Surya Movies",
+    "tvg_id": "194385",
+    "tvg_name": "Surya Movies",
+    "language": null,
+    "logo": null,
+    "group_title": Entertainment",
+    "license_type": "org.w3.clearkey",
+    "license_key": "https://clearkey.joker-verse.workers.dev/license",
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+      "Origin": "https://www.sunnxt.com",
+      "Referer": "https://www.sunnxt.com/",
+      "X-User-Agent": "CR7(Linux;Android 13; en; 1rp60pz)"
+    },
+    "url": "https://livestream.sunnxt.com/e24ee14c395945bd8ccb065e1bce8b9b/SuryaMoviesB_IN_index.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+    "tvg_language": "malayalam",
+    "tvg_logo": "https://sund-images.sunnxt.com/194385/1000x1000_SuryaMovies_194385_0a1fbf90-a86a-4580-bdd8-36c6d1826c46.png"
+  },
+  {
+    "name": "Surya Music",
+    "tvg_id": "194338",
+    "tvg_name": "Surya Music",
+    "language": null,
+    "logo": null,
+    "group_title": Music",
+    "license_type": "org.w3.clearkey",
+    "license_key": "https://clearkey.joker-verse.workers.dev/license",
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+      "Origin": "https://www.sunnxt.com",
+      "Referer": "https://www.sunnxt.com/",
+      "X-User-Agent": "CR7(Linux;Android 13; en; 1rp60pz)"
+    },
+    "url": "https://livestream.sunnxt.com/8c2352ff54954e7b9a4188045dcf3b27/SuryaMusicB_IN_index.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+    "tvg_language": "malayalam",
+    "tvg_logo": "https://sund-images.sunnxt.com/194338/1000x1000_SuryaMusic_194338_8c3cb980-e460-478e-9b60-18b5550a2596.png"
+  },
+  {
+    "name": "24 News",
+    "tvg_id": "202222",
+    "tvg_name": "24 News",
+    "language": null,
+    "logo": null,
+    "group_title": News",
+    "license_type": null,
+    "license_key": null,
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+      "Origin": "https://www.sunnxt.com",
+      "Referer": "https://www.sunnxt.com/",
+      "X-User-Agent": "CR7(Linux;Android 13; en; 1rp60pz)"
+    },
+    "url": "https://livestream24news.sunnxt.com/24news/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+    "tvg_language": "malayalam",
+    "tvg_logo": "https://sund-images.sunnxt.com/202222/24News_202222_2f40b9c0-e4c8-45ca-9ff2-4f0fc42de0d4.png"
+  },
+  {
+    "name": "Surya Comedy",
+    "tvg_id": "193251",
+    "tvg_name": "Surya Comedy",
+    "language": null,
+    "logo": null,
+    "group_title": Comedy",
+    "license_type": "org.w3.clearkey",
+    "license_key": "https://clearkey.joker-verse.workers.dev/license",
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+      "Origin": "https://www.sunnxt.com",
+      "Referer": "https://www.sunnxt.com/",
+      "X-User-Agent": "CR7(Linux;Android 13; en; 1rp60pz)"
+    },
+    "url": "https://livestream.sunnxt.com/6505e922bf164423ad122f404747356a/SuryaComedyB_IN_index.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+    "tvg_language": "malayalam",
+    "tvg_logo": "https://sund-images.sunnxt.com/193251/1000x1000_SuryaComedy_193251_1c2fd207-acad-4096-9bc4-d207375ae0af.png"
+  },
+  {
+    "name": "Kochu TV",
+    "tvg_id": "194348",
+    "tvg_name": "Kochu TV",
+    "language": null,
+    "logo": null,
+    "group_title": Kids",
+    "license_type": "org.w3.clearkey",
+    "license_key": "https://clearkey.joker-verse.workers.dev/license",
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+      "Origin": "https://www.sunnxt.com",
+      "Referer": "https://www.sunnxt.com/",
+      "X-User-Agent": "CR7(Linux;Android 13; en; 1rp60pz)"
+    },
+    "url": "https://livestream.sunnxt.com/1893b9ab790747cb80a584873a608dcb/KochuTVB_IN_index.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+    "tvg_language": "malayalam",
+    "tvg_logo": "https://sund-images.sunnxt.com/194348/1000x1000_KochuTV_194348_f8187f4e-60c3-4727-9cdf-ecac24bff645.png"
+  },
+  {
+    "name": "Surya TV",
+    "tvg_id": "194398",
+    "tvg_name": "Surya TV",
+    "language": null,
+    "logo": null,
+    "group_title": Entertainment",
+    "license_type": "org.w3.clearkey",
+    "license_key": "https://clearkey.joker-verse.workers.dev/license",
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+      "Origin": "https://www.sunnxt.com",
+      "Referer": "https://www.sunnxt.com/",
+      "X-User-Agent": "CR7(Linux;Android 13; en; 1rp60pz)"
+    },
+    "url": "https://livestream6.sunnxt.com/30612a1b269d4a18aa14657641c47515/SuryaTVB_IN_index.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+    "tvg_language": "malayalam",
+    "tvg_logo": "https://sund-images.sunnxt.com/194398/1000x1000_SuryaTV_194398_010180e7-db04-4e2a-9b57-c81dfee73222.png"
+  },
+  {
+    "name": "Udaya TV HD",
+    "tvg_id": "194399",
+    "tvg_name": "Udaya TV HD",
+    "language": null,
+    "logo": null,
+    "group_title": Entertainment",
+    "license_type": "org.w3.clearkey",
+    "license_key": "https://clearkey.joker-verse.workers.dev/license",
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+      "Origin": "https://www.sunnxt.com",
+      "Referer": "https://www.sunnxt.com/",
+      "X-User-Agent": "CR7(Linux;Android 13; en; 1rp60pz)"
+    },
+    "url": "https://livestream16.sunnxt.com/a8d28f18944c4946ad7133938860e7cf/UdayaTVHDB_IN_index.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+    "tvg_language": "kannada",
+    "tvg_logo": "https://sund-images.sunnxt.com/194399/1000x1000_UdayaTVHD_194399_70d9e991-2ea2-4f5a-89b0-13489fe3a482.png"
+  },
+  {
+    "name": "Udaya Movies",
+    "tvg_id": "194386",
+    "tvg_name": "Udaya Movies",
+    "language": null,
+    "logo": null,
+    "group_title": Entertainment",
+    "license_type": "org.w3.clearkey",
+    "license_key": "https://clearkey.joker-verse.workers.dev/license",
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+      "Origin": "https://www.sunnxt.com",
+      "Referer": "https://www.sunnxt.com/",
+      "X-User-Agent": "CR7(Linux;Android 13; en; 1rp60pz)"
+    },
+    "url": "https://livestream.sunnxt.com/1c02547243c041eea5dab1c343018e90/UdayaMoviesB_IN_index.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+    "tvg_language": "kannada",
+    "tvg_logo": "https://sund-images.sunnxt.com/194386/1000x1000_UdayaMovies_194386_b30f865a-0108-4c83-875c-cdf29e952582.png"
+  },
+  {
+    "name": "Udaya Music",
+    "tvg_id": "194401",
+    "tvg_name": "Udaya Music",
+    "language": null,
+    "logo": null,
+    "group_title": Music",
+    "license_type": "org.w3.clearkey",
+    "license_key": "https://clearkey.joker-verse.workers.dev/license",
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+      "Origin": "https://www.sunnxt.com",
+      "Referer": "https://www.sunnxt.com/",
+      "X-User-Agent": "CR7(Linux;Android 13; en; 1rp60pz)"
+    },
+    "url": "https://livestream.sunnxt.com/8034b7519d6a4ab8929aa4279fda1f29/UdayaMusicB_IN_index.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+    "tvg_language": "kannada",
+    "tvg_logo": "https://sund-images.sunnxt.com/194401/1000x1000_UdayaMusic_194401_a075b7ca-6045-482a-90c3-a544cf6c3647.png"
+  },
+  {
+    "name": "TV9 Kannada",
+    "tvg_id": "200730",
+    "tvg_name": "TV9 Kannada",
+    "language": null,
+    "logo": null,
+    "group_title": News",
+    "license_type": null,
+    "license_key": null,
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+      "Origin": "https://www.sunnxt.com",
+      "Referer": "https://www.sunnxt.com/",
+      "X-User-Agent": "CR7(Linux;Android 13; en; 1rp60pz)"
+    },
+    "url": "https://vg-tv9live.akamaized.net/v1/vglive-sk-428007/main.m3u8?ads.partner=sunnetwork|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+    "tvg_language": "kannada",
+    "tvg_logo": "https://sund-images.sunnxt.com/200730/TV9Kannada_200730_01a9f723-44fa-48b6-9fe4-1097c743035c.png"
+  },
+  {
+    "name": "Public TV",
+    "tvg_id": "202221",
+    "tvg_name": "Public TV",
+    "language": null,
+    "logo": null,
+    "group_title": News",
+    "license_type": null,
+    "license_key": null,
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+      "Origin": "https://www.sunnxt.com",
+      "Referer": "https://www.sunnxt.com/",
+      "X-User-Agent": "CR7(Linux;Android 13; en; 1rp60pz)"
+    },
+    "url": "https://livestreampublictv.sunnxt.com/publictv/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+    "tvg_language": "kannada",
+    "tvg_logo": "https://sund-images.sunnxt.com/202221/1000x1000_PublicTV_202221_ce12a88f-7c3d-4cb5-b5bd-16d8ef656b9b.png"
+  },
+  {
+    "name": "Udaya Comedy",
+    "tvg_id": "194400",
+    "tvg_name": "Udaya Comedy",
+    "language": null,
+    "logo": null,
+    "group_title": Comedy",
+    "license_type": "org.w3.clearkey",
+    "license_key": "https://clearkey.joker-verse.workers.dev/license",
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+      "Origin": "https://www.sunnxt.com",
+      "Referer": "https://www.sunnxt.com/",
+      "X-User-Agent": "CR7(Linux;Android 13; en; 1rp60pz)"
+    },
+    "url": "https://livestream.sunnxt.com/8a3d3d8d679b4f9f83a8305b4ead0644/UdayaComedyB_IN_index.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+    "tvg_language": "kannada",
+    "tvg_logo": "https://sund-images.sunnxt.com/194400/1000x1000_UdayaComedy_194400_3f736966-dccc-4594-94cd-62e18c85d066.png"
+  },
+  {
+    "name": "Chintu TV",
+    "tvg_id": "194347",
+    "tvg_name": "Chintu TV",
+    "language": null,
+    "logo": null,
+    "group_title": Kids",
+    "license_type": "org.w3.clearkey",
+    "license_key": "https://clearkey.joker-verse.workers.dev/license",
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+      "Origin": "https://www.sunnxt.com",
+      "Referer": "https://www.sunnxt.com/",
+      "X-User-Agent": "CR7(Linux;Android 13; en; 1rp60pz)"
+    },
+    "url": "https://livestream.sunnxt.com/ed4c67ad957644b69361651d9101107e/ChintuTVB_IN_index.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+    "tvg_language": "kannada",
+    "tvg_logo": "https://sund-images.sunnxt.com/194347/1000x1000_ChintuTV_194347_59b6772c-5303-4eb8-9538-2b99f3956eed.png"
+  },
+  {
+    "name": "Udaya TV",
+    "tvg_id": "193239",
+    "tvg_name": "Udaya TV",
+    "language": null,
+    "logo": null,
+    "group_title": Entertainment",
+    "license_type": "org.w3.clearkey",
+    "license_key": "https://clearkey.joker-verse.workers.dev/license",
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+      "Origin": "https://www.sunnxt.com",
+      "Referer": "https://www.sunnxt.com/",
+      "X-User-Agent": "CR7(Linux;Android 13; en; 1rp60pz)"
+    },
+    "url": "https://livestream5.sunnxt.com/e2f36b5d0be74780a041a8f5b65bc7e6/UdayaTVB_IN_index.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+    "tvg_language": "kannada",
+    "tvg_logo": "https://sund-images.sunnxt.com/193239/1000x1000_UdayaTV_193239_ec435a3b-aad0-44e1-9c70-fc572199add9.png"
+  },
+  {
+    "name": "Sun Bangla",
+    "tvg_id": "194388",
+    "tvg_name": "Sun Bangla",
+    "language": null,
+    "logo": null,
+    "group_title": Entertainment",
+    "license_type": "org.w3.clearkey",
+    "license_key": "https://clearkey.joker-verse.workers.dev/license",
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+      "Origin": "https://www.sunnxt.com",
+      "Referer": "https://www.sunnxt.com/",
+      "X-User-Agent": "CR7(Linux;Android 13; en; 1rp60pz)"
+    },
+    "url": "https://livestream7.sunnxt.com/bf76ee92dd01473bb2eb57d137294484/SunBanglaB_IN_index.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+    "tvg_language": "bengali",
+    "tvg_logo": "https://sund-images.sunnxt.com/194388/1000x1000_SunBangla_194388_9c4b5c51-1554-4507-83a8-7b54f31a8967.png"
+  },
+  {
+    "name": "Sun Marathi",
+    "tvg_id": "194387",
+    "tvg_name": "Sun Marathi",
+    "language": null,
+    "logo": null,
+    "group_title": Entertainment",
+    "license_type": "org.w3.clearkey",
+    "license_key": "https://clearkey.joker-verse.workers.dev/license",
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+      "Origin": "https://www.sunnxt.com",
+      "Referer": "https://www.sunnxt.com/",
+      "X-User-Agent": "CR7(Linux;Android 13; en; 1rp60pz)"
+    },
+    "url": "https://livestream9.sunnxt.com/b0aacde03b744564870634ecb10e8a31/SunMarathiB_IN_index.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+    "tvg_language": "marathi",
+    "tvg_logo": "https://sund-images.sunnxt.com/194387/1000x1000_SunMarathi_194387_70b805b7-4686-49a4-8617-f5abd975b3fe.png"
+  },
+  {
+    "name": "Sun Neo HD",
+    "tvg_id": "194389",
+    "tvg_name": "Sun Neo HD",
+    "language": null,
+    "logo": null,
+    "group_title": Entertainment",
+    "license_type": "org.w3.clearkey",
+    "license_key": "https://clearkey.joker-verse.workers.dev/license",
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+      "Origin": "https://www.sunnxt.com",
+      "Referer": "https://www.sunnxt.com/",
+      "X-User-Agent": "CR7(Linux;Android 13; en; 1rp60pz)"
+    },
+    "url": "https://livestream8.sunnxt.com/248c92b73514435686fd72ba325d4008/SunNeoHDB_IN_index.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+    "tvg_language": "hindi",
+    "tvg_logo": "https://sund-images.sunnxt.com/194389/1000x1000_SunNeoHD_194389_4cb7110f-1c29-47de-ac4e-2bddf10683cf.png"
+  },
+  {
+    "name": "TV9 Bharatvarsh",
+    "tvg_id": "200731",
+    "tvg_name": "TV9 Bharatvarsh",
+    "language": null,
+    "logo": null,
+    "group_title": News",
+    "license_type": null,
+    "license_key": null,
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+      "Origin": "https://www.sunnxt.com",
+      "Referer": "https://www.sunnxt.com/",
+      "X-User-Agent": "CR7(Linux;Android 13; en; 1rp60pz)"
+    },
+    "url": "https://vg-tv9live.akamaized.net/v1/vglive-sk-301666/main.m3u8?ads.partner=sunnetworks|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+    "tvg_language": "hindi",
+    "tvg_logo": "https://sund-images.sunnxt.com/200731/TV9Bharatvarsh_200731_6554cfad-8c01-41c5-a7e8-db8810901dd4.png"
+  },
+  {
+    "name": "News9",
+    "tvg_id": "207724",
+    "tvg_name": "News9",
+    "language": null,
+    "logo": null,
+    "group_title": News",
+    "license_type": null,
+    "license_key": null,
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+      "Origin": "https://www.sunnxt.com",
+      "Referer": "https://www.sunnxt.com/",
+      "X-User-Agent": "CR7(Linux;Android 13; en; 1rp60pz)"
+    },
+    "url": "https://vg-tv9live.akamaized.net/v1/vglive-sk-791223/main.m3u8?ads.partner=sunnetwork|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+    "tvg_language": "english",
+    "tvg_logo": "https://sund-images.sunnxt.com/207724/News9_207724_a97a9fc1-3f1d-4b33-b0ec-83aaedfdb178.png"
+  }
+]
